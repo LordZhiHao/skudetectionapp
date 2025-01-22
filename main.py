@@ -16,8 +16,8 @@ SKU_MAPPING = {
     "salads": 1101,
     "pudding": 2706,
     "yogurt": 2604,
-    "salad green": 1101,
-    "salad green": 1101
+    "salad green": 11011,
+    "salad green": 11012
 }
 
 class YOLOVideoApp(QWidget):
