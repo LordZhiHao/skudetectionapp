@@ -1,0 +1,1925 @@
+2025-01-22 21:56:06: Video loaded: C:/Users/Jason/Desktop/skudetectionapp/cam1_FM002_FM003_caesar_soba_160125_220125.mp4
+2025-01-22 21:56:12: Video processing started
+2025-01-22 21:56:12: Receive thread alive: True
+2025-01-22 21:56:12: Display thread alive: True
+2025-01-22 21:56:12: Total frames in video: 889
+2025-01-22 21:56:12: Memory usage: 410.38 MB
+2025-01-22 21:56:12: Memory usage: 408.13 MB
+2025-01-22 21:56:12: Memory usage: 408.59 MB
+2025-01-22 21:56:12: Memory usage: 409.79 MB
+2025-01-22 21:56:12: Memory usage: 411.17 MB
+2025-01-22 21:56:12: Memory usage: 412.75 MB
+2025-01-22 21:56:12: Memory usage: 412.11 MB
+2025-01-22 21:56:12: Memory usage: 411.25 MB
+2025-01-22 21:56:12: Memory usage: 431.13 MB
+2025-01-22 21:56:12: Memory usage: 431.13 MB
+2025-01-22 21:56:14: Frame processing time: 1.45 seconds
+2025-01-22 21:56:14: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:14: Successfully saved frame 1
+2025-01-22 21:56:14: Memory usage: 601.36 MB
+2025-01-22 21:56:14: Memory usage: 601.36 MB
+2025-01-22 21:56:14: Memory usage: 601.94 MB
+2025-01-22 21:56:14: Memory usage: 602.57 MB
+2025-01-22 21:56:14: Memory usage: 602.86 MB
+2025-01-22 21:56:14: Memory usage: 602.86 MB
+2025-01-22 21:56:14: Memory usage: 602.86 MB
+2025-01-22 21:56:14: Memory usage: 602.86 MB
+2025-01-22 21:56:14: Memory usage: 602.86 MB
+2025-01-22 21:56:14: Memory usage: 602.86 MB
+2025-01-22 21:56:14: Frame processing time: 0.16 seconds
+2025-01-22 21:56:14: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:14: Successfully saved frame 2
+2025-01-22 21:56:14: Memory usage: 612.32 MB
+2025-01-22 21:56:14: Memory usage: 612.50 MB
+2025-01-22 21:56:14: Memory usage: 613.14 MB
+2025-01-22 21:56:14: Memory usage: 613.54 MB
+2025-01-22 21:56:14: Memory usage: 613.80 MB
+2025-01-22 21:56:14: Memory usage: 613.80 MB
+2025-01-22 21:56:14: Memory usage: 613.80 MB
+2025-01-22 21:56:14: Memory usage: 613.80 MB
+2025-01-22 21:56:14: Memory usage: 613.80 MB
+2025-01-22 21:56:14: Memory usage: 613.80 MB
+2025-01-22 21:56:14: Frame processing time: 0.16 seconds
+2025-01-22 21:56:14: Successfully saved frame 3
+2025-01-22 21:56:14: Memory usage: 614.83 MB
+2025-01-22 21:56:14: Memory usage: 614.83 MB
+2025-01-22 21:56:14: Memory usage: 615.32 MB
+2025-01-22 21:56:14: Memory usage: 615.70 MB
+2025-01-22 21:56:14: Memory usage: 616.17 MB
+2025-01-22 21:56:14: Memory usage: 616.32 MB
+2025-01-22 21:56:14: Memory usage: 616.32 MB
+2025-01-22 21:56:14: Memory usage: 616.32 MB
+2025-01-22 21:56:14: Memory usage: 616.72 MB
+2025-01-22 21:56:14: Memory usage: 618.41 MB
+2025-01-22 21:56:14: Frame processing time: 0.16 seconds
+2025-01-22 21:56:14: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:14: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:14: Successfully saved frame 4
+2025-01-22 21:56:14: Memory usage: 619.72 MB
+2025-01-22 21:56:14: Memory usage: 619.82 MB
+2025-01-22 21:56:14: Memory usage: 620.44 MB
+2025-01-22 21:56:14: Memory usage: 621.02 MB
+2025-01-22 21:56:14: Memory usage: 621.21 MB
+2025-01-22 21:56:14: Memory usage: 622.23 MB
+2025-01-22 21:56:14: Memory usage: 624.03 MB
+2025-01-22 21:56:14: Memory usage: 625.97 MB
+2025-01-22 21:56:14: Memory usage: 623.85 MB
+2025-01-22 21:56:14: Memory usage: 620.98 MB
+2025-01-22 21:56:14: Frame processing time: 0.15 seconds
+2025-01-22 21:56:14: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:14: Successfully saved frame 5
+2025-01-22 21:56:14: Memory usage: 619.59 MB
+2025-01-22 21:56:14: Memory usage: 619.73 MB
+2025-01-22 21:56:14: Memory usage: 621.07 MB
+2025-01-22 21:56:14: Memory usage: 621.07 MB
+2025-01-22 21:56:14: Memory usage: 621.07 MB
+2025-01-22 21:56:14: Memory usage: 621.07 MB
+2025-01-22 21:56:14: Memory usage: 621.07 MB
+2025-01-22 21:56:14: Memory usage: 621.07 MB
+2025-01-22 21:56:14: Memory usage: 621.07 MB
+2025-01-22 21:56:14: Memory usage: 618.71 MB
+2025-01-22 21:56:14: Frame processing time: 0.15 seconds
+2025-01-22 21:56:14: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:14: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:14: Successfully saved frame 6
+2025-01-22 21:56:14: Memory usage: 618.73 MB
+2025-01-22 21:56:14: Memory usage: 618.84 MB
+2025-01-22 21:56:14: Memory usage: 619.45 MB
+2025-01-22 21:56:14: Memory usage: 620.02 MB
+2025-01-22 21:56:14: Memory usage: 620.21 MB
+2025-01-22 21:56:14: Memory usage: 621.38 MB
+2025-01-22 21:56:14: Memory usage: 624.49 MB
+2025-01-22 21:56:14: Memory usage: 622.85 MB
+2025-01-22 21:56:14: Memory usage: 622.85 MB
+2025-01-22 21:56:14: Memory usage: 622.85 MB
+2025-01-22 21:56:15: Frame processing time: 0.15 seconds
+2025-01-22 21:56:15: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:15: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:15: Successfully saved frame 7
+2025-01-22 21:56:15: Memory usage: 617.86 MB
+2025-01-22 21:56:15: Memory usage: 617.91 MB
+2025-01-22 21:56:15: Memory usage: 621.02 MB
+2025-01-22 21:56:15: Memory usage: 623.38 MB
+2025-01-22 21:56:15: Memory usage: 622.07 MB
+2025-01-22 21:56:15: Memory usage: 621.98 MB
+2025-01-22 21:56:15: Memory usage: 621.98 MB
+2025-01-22 21:56:15: Memory usage: 621.98 MB
+2025-01-22 21:56:15: Memory usage: 619.34 MB
+2025-01-22 21:56:15: Memory usage: 620.21 MB
+2025-01-22 21:56:15: Frame processing time: 0.19 seconds
+2025-01-22 21:56:15: Successfully saved frame 8
+2025-01-22 21:56:15: Memory usage: 617.86 MB
+2025-01-22 21:56:15: Memory usage: 618.18 MB
+2025-01-22 21:56:15: Memory usage: 619.34 MB
+2025-01-22 21:56:15: Memory usage: 619.34 MB
+2025-01-22 21:56:15: Memory usage: 619.34 MB
+2025-01-22 21:56:15: Memory usage: 619.34 MB
+2025-01-22 21:56:15: Memory usage: 619.34 MB
+2025-01-22 21:56:15: Memory usage: 619.34 MB
+2025-01-22 21:56:15: Memory usage: 619.34 MB
+2025-01-22 21:56:15: Memory usage: 619.34 MB
+2025-01-22 21:56:15: Frame processing time: 0.17 seconds
+2025-01-22 21:56:15: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:15: Successfully saved frame 9
+2025-01-22 21:56:15: Memory usage: 617.75 MB
+2025-01-22 21:56:15: Memory usage: 617.75 MB
+2025-01-22 21:56:15: Memory usage: 618.24 MB
+2025-01-22 21:56:15: Memory usage: 618.74 MB
+2025-01-22 21:56:15: Memory usage: 619.23 MB
+2025-01-22 21:56:15: Memory usage: 619.23 MB
+2025-01-22 21:56:15: Memory usage: 619.23 MB
+2025-01-22 21:56:15: Memory usage: 619.23 MB
+2025-01-22 21:56:15: Memory usage: 619.23 MB
+2025-01-22 21:56:15: Memory usage: 619.23 MB
+2025-01-22 21:56:15: Frame processing time: 0.18 seconds
+2025-01-22 21:56:15: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:15: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:15: Successfully saved frame 10
+2025-01-22 21:56:15: Memory usage: 617.76 MB
+2025-01-22 21:56:15: Memory usage: 617.83 MB
+2025-01-22 21:56:15: Memory usage: 618.51 MB
+2025-01-22 21:56:15: Memory usage: 619.01 MB
+2025-01-22 21:56:15: Memory usage: 619.25 MB
+2025-01-22 21:56:15: Memory usage: 619.25 MB
+2025-01-22 21:56:15: Memory usage: 619.25 MB
+2025-01-22 21:56:15: Memory usage: 619.25 MB
+2025-01-22 21:56:15: Memory usage: 619.25 MB
+2025-01-22 21:56:15: Memory usage: 619.25 MB
+2025-01-22 21:56:15: Frame processing time: 0.20 seconds
+2025-01-22 21:56:15: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:15: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:15: Successfully saved frame 11
+2025-01-22 21:56:15: Memory usage: 617.77 MB
+2025-01-22 21:56:15: Memory usage: 617.84 MB
+2025-01-22 21:56:15: Memory usage: 618.59 MB
+2025-01-22 21:56:15: Memory usage: 619.21 MB
+2025-01-22 21:56:15: Memory usage: 619.25 MB
+2025-01-22 21:56:15: Memory usage: 619.25 MB
+2025-01-22 21:56:15: Memory usage: 619.25 MB
+2025-01-22 21:56:15: Memory usage: 619.25 MB
+2025-01-22 21:56:15: Memory usage: 619.25 MB
+2025-01-22 21:56:15: Memory usage: 619.25 MB
+2025-01-22 21:56:16: Frame processing time: 0.19 seconds
+2025-01-22 21:56:16: Successfully saved frame 12
+2025-01-22 21:56:16: Memory usage: 617.76 MB
+2025-01-22 21:56:16: Memory usage: 619.24 MB
+2025-01-22 21:56:16: Memory usage: 619.25 MB
+2025-01-22 21:56:16: Memory usage: 619.25 MB
+2025-01-22 21:56:16: Memory usage: 619.25 MB
+2025-01-22 21:56:16: Memory usage: 619.25 MB
+2025-01-22 21:56:16: Memory usage: 619.25 MB
+2025-01-22 21:56:16: Memory usage: 619.25 MB
+2025-01-22 21:56:16: Memory usage: 619.25 MB
+2025-01-22 21:56:16: Memory usage: 619.25 MB
+2025-01-22 21:56:16: Frame processing time: 0.17 seconds
+2025-01-22 21:56:16: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:16: Successfully saved frame 13
+2025-01-22 21:56:16: Memory usage: 617.12 MB
+2025-01-22 21:56:16: Memory usage: 617.34 MB
+2025-01-22 21:56:16: Memory usage: 617.88 MB
+2025-01-22 21:56:16: Memory usage: 618.48 MB
+2025-01-22 21:56:16: Memory usage: 618.61 MB
+2025-01-22 21:56:16: Memory usage: 618.61 MB
+2025-01-22 21:56:16: Memory usage: 618.61 MB
+2025-01-22 21:56:16: Memory usage: 618.61 MB
+2025-01-22 21:56:16: Memory usage: 618.61 MB
+2025-01-22 21:56:16: Memory usage: 618.61 MB
+2025-01-22 21:56:16: Frame processing time: 0.17 seconds
+2025-01-22 21:56:16: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:16: Successfully saved frame 14
+2025-01-22 21:56:16: Memory usage: 617.13 MB
+2025-01-22 21:56:16: Memory usage: 617.13 MB
+2025-01-22 21:56:16: Memory usage: 617.55 MB
+2025-01-22 21:56:16: Memory usage: 618.05 MB
+2025-01-22 21:56:16: Memory usage: 618.59 MB
+2025-01-22 21:56:16: Memory usage: 618.61 MB
+2025-01-22 21:56:16: Memory usage: 618.61 MB
+2025-01-22 21:56:16: Memory usage: 618.61 MB
+2025-01-22 21:56:16: Memory usage: 618.61 MB
+2025-01-22 21:56:16: Memory usage: 618.61 MB
+2025-01-22 21:56:16: Frame processing time: 0.15 seconds
+2025-01-22 21:56:16: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:16: Successfully saved frame 15
+2025-01-22 21:56:16: Memory usage: 617.13 MB
+2025-01-22 21:56:16: Memory usage: 617.13 MB
+2025-01-22 21:56:16: Memory usage: 617.80 MB
+2025-01-22 21:56:16: Memory usage: 618.36 MB
+2025-01-22 21:56:16: Memory usage: 618.62 MB
+2025-01-22 21:56:16: Memory usage: 618.62 MB
+2025-01-22 21:56:16: Memory usage: 618.62 MB
+2025-01-22 21:56:16: Memory usage: 618.62 MB
+2025-01-22 21:56:16: Memory usage: 618.62 MB
+2025-01-22 21:56:16: Memory usage: 618.62 MB
+2025-01-22 21:56:16: Frame processing time: 0.14 seconds
+2025-01-22 21:56:16: Successfully saved frame 16
+2025-01-22 21:56:16: Memory usage: 617.13 MB
+2025-01-22 21:56:16: Memory usage: 617.13 MB
+2025-01-22 21:56:16: Memory usage: 617.61 MB
+2025-01-22 21:56:16: Memory usage: 618.11 MB
+2025-01-22 21:56:16: Memory usage: 618.61 MB
+2025-01-22 21:56:16: Memory usage: 618.62 MB
+2025-01-22 21:56:16: Memory usage: 618.62 MB
+2025-01-22 21:56:16: Memory usage: 618.62 MB
+2025-01-22 21:56:16: Memory usage: 618.62 MB
+2025-01-22 21:56:16: Memory usage: 618.62 MB
+2025-01-22 21:56:16: Frame processing time: 0.16 seconds
+2025-01-22 21:56:16: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:16: Successfully saved frame 17
+2025-01-22 21:56:16: Memory usage: 617.93 MB
+2025-01-22 21:56:16: Memory usage: 618.02 MB
+2025-01-22 21:56:16: Memory usage: 619.07 MB
+2025-01-22 21:56:16: Memory usage: 619.41 MB
+2025-01-22 21:56:16: Memory usage: 619.41 MB
+2025-01-22 21:56:16: Memory usage: 619.47 MB
+2025-01-22 21:56:16: Memory usage: 620.84 MB
+2025-01-22 21:56:16: Memory usage: 622.05 MB
+2025-01-22 21:56:16: Memory usage: 623.72 MB
+2025-01-22 21:56:16: Memory usage: 622.05 MB
+2025-01-22 21:56:17: Frame processing time: 0.15 seconds
+2025-01-22 21:56:17: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:17: Successfully saved frame 18
+2025-01-22 21:56:17: Memory usage: 617.93 MB
+2025-01-22 21:56:17: Memory usage: 618.16 MB
+2025-01-22 21:56:17: Memory usage: 619.05 MB
+2025-01-22 21:56:17: Memory usage: 619.41 MB
+2025-01-22 21:56:17: Memory usage: 619.41 MB
+2025-01-22 21:56:17: Memory usage: 619.41 MB
+2025-01-22 21:56:17: Memory usage: 619.41 MB
+2025-01-22 21:56:17: Memory usage: 619.41 MB
+2025-01-22 21:56:17: Memory usage: 619.41 MB
+2025-01-22 21:56:17: Memory usage: 619.41 MB
+2025-01-22 21:56:17: Frame processing time: 0.15 seconds
+2025-01-22 21:56:17: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:17: Successfully saved frame 19
+2025-01-22 21:56:17: Memory usage: 618.40 MB
+2025-01-22 21:56:17: Memory usage: 618.52 MB
+2025-01-22 21:56:17: Memory usage: 619.21 MB
+2025-01-22 21:56:17: Memory usage: 619.66 MB
+2025-01-22 21:56:17: Memory usage: 619.88 MB
+2025-01-22 21:56:17: Memory usage: 619.88 MB
+2025-01-22 21:56:17: Memory usage: 619.88 MB
+2025-01-22 21:56:17: Memory usage: 619.88 MB
+2025-01-22 21:56:17: Memory usage: 619.88 MB
+2025-01-22 21:56:17: Memory usage: 619.88 MB
+2025-01-22 21:56:17: Frame processing time: 0.17 seconds
+2025-01-22 21:56:17: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:17: Successfully saved frame 20
+2025-01-22 21:56:17: Memory usage: 617.82 MB
+2025-01-22 21:56:17: Memory usage: 618.03 MB
+2025-01-22 21:56:17: Memory usage: 618.66 MB
+2025-01-22 21:56:17: Memory usage: 619.12 MB
+2025-01-22 21:56:17: Memory usage: 619.31 MB
+2025-01-22 21:56:17: Memory usage: 619.31 MB
+2025-01-22 21:56:17: Memory usage: 619.31 MB
+2025-01-22 21:56:17: Memory usage: 619.31 MB
+2025-01-22 21:56:17: Memory usage: 619.31 MB
+2025-01-22 21:56:17: Memory usage: 619.31 MB
+2025-01-22 21:56:17: Frame processing time: 0.17 seconds
+2025-01-22 21:56:17: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:17: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:17: Successfully saved frame 21
+2025-01-22 21:56:17: Memory usage: 617.64 MB
+2025-01-22 21:56:17: Memory usage: 618.06 MB
+2025-01-22 21:56:17: Memory usage: 618.62 MB
+2025-01-22 21:56:17: Memory usage: 619.08 MB
+2025-01-22 21:56:17: Memory usage: 619.12 MB
+2025-01-22 21:56:17: Memory usage: 619.12 MB
+2025-01-22 21:56:17: Memory usage: 619.12 MB
+2025-01-22 21:56:17: Memory usage: 619.12 MB
+2025-01-22 21:56:17: Memory usage: 619.12 MB
+2025-01-22 21:56:17: Memory usage: 619.12 MB
+2025-01-22 21:56:17: Frame processing time: 0.16 seconds
+2025-01-22 21:56:17: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:17: Successfully saved frame 22
+2025-01-22 21:56:17: Memory usage: 617.64 MB
+2025-01-22 21:56:17: Memory usage: 617.64 MB
+2025-01-22 21:56:17: Memory usage: 618.22 MB
+2025-01-22 21:56:17: Memory usage: 618.79 MB
+2025-01-22 21:56:17: Memory usage: 619.12 MB
+2025-01-22 21:56:17: Memory usage: 619.12 MB
+2025-01-22 21:56:17: Memory usage: 619.12 MB
+2025-01-22 21:56:17: Memory usage: 619.12 MB
+2025-01-22 21:56:17: Memory usage: 619.12 MB
+2025-01-22 21:56:17: Memory usage: 619.12 MB
+2025-01-22 21:56:17: Frame processing time: 0.14 seconds
+2025-01-22 21:56:17: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:17: Successfully saved frame 23
+2025-01-22 21:56:17: Memory usage: 617.64 MB
+2025-01-22 21:56:17: Memory usage: 618.30 MB
+2025-01-22 21:56:17: Memory usage: 619.13 MB
+2025-01-22 21:56:17: Memory usage: 619.13 MB
+2025-01-22 21:56:17: Memory usage: 619.13 MB
+2025-01-22 21:56:17: Memory usage: 619.13 MB
+2025-01-22 21:56:17: Memory usage: 619.13 MB
+2025-01-22 21:56:17: Memory usage: 619.13 MB
+2025-01-22 21:56:17: Memory usage: 619.13 MB
+2025-01-22 21:56:17: Memory usage: 619.13 MB
+2025-01-22 21:56:18: Frame processing time: 0.15 seconds
+2025-01-22 21:56:18: Successfully saved frame 24
+2025-01-22 21:56:18: Memory usage: 617.64 MB
+2025-01-22 21:56:18: Memory usage: 617.79 MB
+2025-01-22 21:56:18: Memory usage: 618.37 MB
+2025-01-22 21:56:18: Memory usage: 618.95 MB
+2025-01-22 21:56:18: Memory usage: 619.13 MB
+2025-01-22 21:56:18: Memory usage: 619.13 MB
+2025-01-22 21:56:18: Memory usage: 619.13 MB
+2025-01-22 21:56:18: Memory usage: 619.13 MB
+2025-01-22 21:56:18: Memory usage: 619.13 MB
+2025-01-22 21:56:18: Memory usage: 619.13 MB
+2025-01-22 21:56:18: Frame processing time: 0.16 seconds
+2025-01-22 21:56:18: Successfully saved frame 25
+2025-01-22 21:56:18: Memory usage: 617.63 MB
+2025-01-22 21:56:18: Memory usage: 617.64 MB
+2025-01-22 21:56:18: Memory usage: 618.25 MB
+2025-01-22 21:56:18: Memory usage: 619.12 MB
+2025-01-22 21:56:18: Memory usage: 619.12 MB
+2025-01-22 21:56:18: Memory usage: 619.12 MB
+2025-01-22 21:56:18: Memory usage: 619.12 MB
+2025-01-22 21:56:18: Memory usage: 619.12 MB
+2025-01-22 21:56:18: Memory usage: 619.12 MB
+2025-01-22 21:56:18: Memory usage: 619.12 MB
+2025-01-22 21:56:18: Frame processing time: 0.15 seconds
+2025-01-22 21:56:18: Successfully saved frame 26
+2025-01-22 21:56:18: Memory usage: 617.75 MB
+2025-01-22 21:56:18: Memory usage: 617.75 MB
+2025-01-22 21:56:18: Memory usage: 618.18 MB
+2025-01-22 21:56:18: Memory usage: 618.68 MB
+2025-01-22 21:56:18: Memory usage: 619.18 MB
+2025-01-22 21:56:18: Memory usage: 619.23 MB
+2025-01-22 21:56:18: Memory usage: 619.23 MB
+2025-01-22 21:56:18: Memory usage: 619.23 MB
+2025-01-22 21:56:18: Memory usage: 619.23 MB
+2025-01-22 21:56:18: Memory usage: 619.23 MB
+2025-01-22 21:56:18: Frame processing time: 0.16 seconds
+2025-01-22 21:56:18: Successfully saved frame 27
+2025-01-22 21:56:18: Memory usage: 617.75 MB
+2025-01-22 21:56:18: Memory usage: 617.75 MB
+2025-01-22 21:56:18: Memory usage: 618.27 MB
+2025-01-22 21:56:18: Memory usage: 618.84 MB
+2025-01-22 21:56:18: Memory usage: 619.23 MB
+2025-01-22 21:56:18: Memory usage: 619.23 MB
+2025-01-22 21:56:18: Memory usage: 619.23 MB
+2025-01-22 21:56:18: Memory usage: 619.23 MB
+2025-01-22 21:56:18: Memory usage: 619.23 MB
+2025-01-22 21:56:18: Memory usage: 619.23 MB
+2025-01-22 21:56:18: Frame processing time: 0.14 seconds
+2025-01-22 21:56:18: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:18: Successfully saved frame 28
+2025-01-22 21:56:18: Memory usage: 617.76 MB
+2025-01-22 21:56:18: Memory usage: 618.35 MB
+2025-01-22 21:56:18: Memory usage: 619.24 MB
+2025-01-22 21:56:18: Memory usage: 619.24 MB
+2025-01-22 21:56:18: Memory usage: 619.24 MB
+2025-01-22 21:56:18: Memory usage: 619.24 MB
+2025-01-22 21:56:18: Memory usage: 619.24 MB
+2025-01-22 21:56:18: Memory usage: 619.24 MB
+2025-01-22 21:56:18: Memory usage: 619.24 MB
+2025-01-22 21:56:18: Memory usage: 619.24 MB
+2025-01-22 21:56:18: Frame processing time: 0.14 seconds
+2025-01-22 21:56:18: Successfully saved frame 29
+2025-01-22 21:56:18: Memory usage: 617.77 MB
+2025-01-22 21:56:18: Memory usage: 618.53 MB
+2025-01-22 21:56:18: Memory usage: 619.14 MB
+2025-01-22 21:56:18: Memory usage: 619.26 MB
+2025-01-22 21:56:18: Memory usage: 619.26 MB
+2025-01-22 21:56:18: Memory usage: 619.26 MB
+2025-01-22 21:56:18: Memory usage: 619.26 MB
+2025-01-22 21:56:18: Memory usage: 619.26 MB
+2025-01-22 21:56:18: Memory usage: 619.26 MB
+2025-01-22 21:56:18: Memory usage: 619.26 MB
+2025-01-22 21:56:19: Frame processing time: 0.16 seconds
+2025-01-22 21:56:19: Successfully saved frame 30
+2025-01-22 21:56:19: Memory usage: 617.77 MB
+2025-01-22 21:56:19: Memory usage: 618.16 MB
+2025-01-22 21:56:19: Memory usage: 618.79 MB
+2025-01-22 21:56:19: Memory usage: 619.25 MB
+2025-01-22 21:56:19: Memory usage: 619.25 MB
+2025-01-22 21:56:19: Memory usage: 619.25 MB
+2025-01-22 21:56:19: Memory usage: 619.25 MB
+2025-01-22 21:56:19: Memory usage: 619.25 MB
+2025-01-22 21:56:19: Memory usage: 619.25 MB
+2025-01-22 21:56:19: Memory usage: 619.25 MB
+2025-01-22 21:56:19: Frame processing time: 0.16 seconds
+2025-01-22 21:56:19: Successfully saved frame 31
+2025-01-22 21:56:19: Memory usage: 618.27 MB
+2025-01-22 21:56:19: Memory usage: 618.47 MB
+2025-01-22 21:56:19: Memory usage: 619.14 MB
+2025-01-22 21:56:19: Memory usage: 619.59 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Frame processing time: 0.14 seconds
+2025-01-22 21:56:19: Successfully saved frame 32
+2025-01-22 21:56:19: Memory usage: 618.27 MB
+2025-01-22 21:56:19: Memory usage: 618.36 MB
+2025-01-22 21:56:19: Memory usage: 619.27 MB
+2025-01-22 21:56:19: Memory usage: 619.68 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Frame processing time: 0.16 seconds
+2025-01-22 21:56:19: Successfully saved frame 33
+2025-01-22 21:56:19: Memory usage: 618.27 MB
+2025-01-22 21:56:19: Memory usage: 618.35 MB
+2025-01-22 21:56:19: Memory usage: 618.91 MB
+2025-01-22 21:56:19: Memory usage: 619.41 MB
+2025-01-22 21:56:19: Memory usage: 619.74 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Frame processing time: 0.15 seconds
+2025-01-22 21:56:19: Successfully saved frame 34
+2025-01-22 21:56:19: Memory usage: 618.27 MB
+2025-01-22 21:56:19: Memory usage: 618.27 MB
+2025-01-22 21:56:19: Memory usage: 618.88 MB
+2025-01-22 21:56:19: Memory usage: 619.38 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Frame processing time: 0.16 seconds
+2025-01-22 21:56:19: Successfully saved frame 35
+2025-01-22 21:56:19: Memory usage: 618.27 MB
+2025-01-22 21:56:19: Memory usage: 618.36 MB
+2025-01-22 21:56:19: Memory usage: 619.00 MB
+2025-01-22 21:56:19: Memory usage: 619.50 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:19: Memory usage: 619.75 MB
+2025-01-22 21:56:20: Frame processing time: 0.16 seconds
+2025-01-22 21:56:20: Successfully saved frame 36
+2025-01-22 21:56:20: Memory usage: 618.27 MB
+2025-01-22 21:56:20: Memory usage: 618.64 MB
+2025-01-22 21:56:20: Memory usage: 619.14 MB
+2025-01-22 21:56:20: Memory usage: 619.64 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Frame processing time: 0.23 seconds
+2025-01-22 21:56:20: Successfully saved frame 37
+2025-01-22 21:56:20: Memory usage: 618.27 MB
+2025-01-22 21:56:20: Memory usage: 618.28 MB
+2025-01-22 21:56:20: Memory usage: 618.84 MB
+2025-01-22 21:56:20: Memory usage: 619.34 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Frame processing time: 0.17 seconds
+2025-01-22 21:56:20: Successfully saved frame 38
+2025-01-22 21:56:20: Memory usage: 618.27 MB
+2025-01-22 21:56:20: Memory usage: 618.27 MB
+2025-01-22 21:56:20: Memory usage: 618.68 MB
+2025-01-22 21:56:20: Memory usage: 619.18 MB
+2025-01-22 21:56:20: Memory usage: 619.61 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Memory usage: 619.76 MB
+2025-01-22 21:56:20: Frame processing time: 0.15 seconds
+2025-01-22 21:56:20: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:20: Successfully saved frame 39
+2025-01-22 21:56:20: Memory usage: 618.29 MB
+2025-01-22 21:56:20: Memory usage: 618.29 MB
+2025-01-22 21:56:20: Memory usage: 618.93 MB
+2025-01-22 21:56:20: Memory usage: 619.71 MB
+2025-01-22 21:56:20: Memory usage: 619.77 MB
+2025-01-22 21:56:20: Memory usage: 619.77 MB
+2025-01-22 21:56:20: Memory usage: 619.77 MB
+2025-01-22 21:56:20: Memory usage: 619.77 MB
+2025-01-22 21:56:20: Memory usage: 619.77 MB
+2025-01-22 21:56:20: Memory usage: 619.77 MB
+2025-01-22 21:56:20: Frame processing time: 0.15 seconds
+2025-01-22 21:56:20: Successfully saved frame 40
+2025-01-22 21:56:20: Memory usage: 618.30 MB
+2025-01-22 21:56:20: Memory usage: 618.30 MB
+2025-01-22 21:56:20: Memory usage: 618.80 MB
+2025-01-22 21:56:20: Memory usage: 619.30 MB
+2025-01-22 21:56:20: Memory usage: 619.74 MB
+2025-01-22 21:56:20: Memory usage: 619.79 MB
+2025-01-22 21:56:20: Memory usage: 619.79 MB
+2025-01-22 21:56:20: Memory usage: 619.79 MB
+2025-01-22 21:56:20: Memory usage: 619.79 MB
+2025-01-22 21:56:20: Memory usage: 619.79 MB
+2025-01-22 21:56:20: Frame processing time: 0.17 seconds
+2025-01-22 21:56:20: Successfully saved frame 41
+2025-01-22 21:56:20: Memory usage: 618.28 MB
+2025-01-22 21:56:20: Memory usage: 618.29 MB
+2025-01-22 21:56:20: Memory usage: 618.85 MB
+2025-01-22 21:56:20: Memory usage: 619.35 MB
+2025-01-22 21:56:20: Memory usage: 619.77 MB
+2025-01-22 21:56:20: Memory usage: 619.77 MB
+2025-01-22 21:56:20: Memory usage: 619.77 MB
+2025-01-22 21:56:20: Memory usage: 619.77 MB
+2025-01-22 21:56:20: Memory usage: 619.77 MB
+2025-01-22 21:56:20: Memory usage: 619.77 MB
+2025-01-22 21:56:21: Frame processing time: 0.17 seconds
+2025-01-22 21:56:21: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:21: Successfully saved frame 42
+2025-01-22 21:56:21: Memory usage: 618.29 MB
+2025-01-22 21:56:21: Memory usage: 618.67 MB
+2025-01-22 21:56:21: Memory usage: 619.23 MB
+2025-01-22 21:56:21: Memory usage: 619.74 MB
+2025-01-22 21:56:21: Memory usage: 619.77 MB
+2025-01-22 21:56:21: Memory usage: 619.77 MB
+2025-01-22 21:56:21: Memory usage: 619.77 MB
+2025-01-22 21:56:21: Memory usage: 619.77 MB
+2025-01-22 21:56:21: Memory usage: 619.77 MB
+2025-01-22 21:56:21: Memory usage: 619.77 MB
+2025-01-22 21:56:21: Frame processing time: 0.17 seconds
+2025-01-22 21:56:21: Successfully saved frame 43
+2025-01-22 21:56:21: Memory usage: 618.29 MB
+2025-01-22 21:56:21: Memory usage: 618.29 MB
+2025-01-22 21:56:21: Memory usage: 618.81 MB
+2025-01-22 21:56:21: Memory usage: 619.25 MB
+2025-01-22 21:56:21: Memory usage: 619.61 MB
+2025-01-22 21:56:21: Memory usage: 619.77 MB
+2025-01-22 21:56:21: Memory usage: 619.77 MB
+2025-01-22 21:56:21: Memory usage: 619.77 MB
+2025-01-22 21:56:21: Memory usage: 619.77 MB
+2025-01-22 21:56:21: Memory usage: 619.77 MB
+2025-01-22 21:56:21: Frame processing time: 0.15 seconds
+2025-01-22 21:56:21: Successfully saved frame 44
+2025-01-22 21:56:21: Memory usage: 618.51 MB
+2025-01-22 21:56:21: Memory usage: 618.51 MB
+2025-01-22 21:56:21: Memory usage: 619.00 MB
+2025-01-22 21:56:21: Memory usage: 619.44 MB
+2025-01-22 21:56:21: Memory usage: 619.89 MB
+2025-01-22 21:56:21: Memory usage: 620.00 MB
+2025-01-22 21:56:21: Memory usage: 620.00 MB
+2025-01-22 21:56:21: Memory usage: 620.00 MB
+2025-01-22 21:56:21: Memory usage: 620.00 MB
+2025-01-22 21:56:21: Memory usage: 620.00 MB
+2025-01-22 21:56:21: Frame processing time: 0.17 seconds
+2025-01-22 21:56:21: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:21: Successfully saved frame 45
+2025-01-22 21:56:21: Memory usage: 618.52 MB
+2025-01-22 21:56:21: Memory usage: 618.70 MB
+2025-01-22 21:56:21: Memory usage: 619.44 MB
+2025-01-22 21:56:21: Memory usage: 619.93 MB
+2025-01-22 21:56:21: Memory usage: 620.01 MB
+2025-01-22 21:56:21: Memory usage: 620.01 MB
+2025-01-22 21:56:21: Memory usage: 620.01 MB
+2025-01-22 21:56:21: Memory usage: 620.01 MB
+2025-01-22 21:56:21: Memory usage: 620.01 MB
+2025-01-22 21:56:21: Memory usage: 620.01 MB
+2025-01-22 21:56:21: Frame processing time: 0.18 seconds
+2025-01-22 21:56:21: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:21: Successfully saved frame 46
+2025-01-22 21:56:21: Memory usage: 618.52 MB
+2025-01-22 21:56:21: Memory usage: 618.55 MB
+2025-01-22 21:56:21: Memory usage: 619.28 MB
+2025-01-22 21:56:21: Memory usage: 619.78 MB
+2025-01-22 21:56:21: Memory usage: 620.01 MB
+2025-01-22 21:56:21: Memory usage: 620.01 MB
+2025-01-22 21:56:21: Memory usage: 620.01 MB
+2025-01-22 21:56:21: Memory usage: 620.01 MB
+2025-01-22 21:56:21: Memory usage: 620.01 MB
+2025-01-22 21:56:21: Memory usage: 620.01 MB
+2025-01-22 21:56:22: Frame processing time: 0.17 seconds
+2025-01-22 21:56:22: Successfully saved frame 47
+2025-01-22 21:56:22: Memory usage: 618.52 MB
+2025-01-22 21:56:22: Memory usage: 618.93 MB
+2025-01-22 21:56:22: Memory usage: 619.50 MB
+2025-01-22 21:56:22: Memory usage: 619.96 MB
+2025-01-22 21:56:22: Memory usage: 620.01 MB
+2025-01-22 21:56:22: Memory usage: 620.01 MB
+2025-01-22 21:56:22: Memory usage: 620.01 MB
+2025-01-22 21:56:22: Memory usage: 620.01 MB
+2025-01-22 21:56:22: Memory usage: 620.01 MB
+2025-01-22 21:56:22: Memory usage: 620.01 MB
+2025-01-22 21:56:22: Frame processing time: 0.18 seconds
+2025-01-22 21:56:22: Successfully saved frame 48
+2025-01-22 21:56:22: Memory usage: 619.10 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Frame processing time: 0.17 seconds
+2025-01-22 21:56:22: Successfully saved frame 49
+2025-01-22 21:56:22: Memory usage: 619.10 MB
+2025-01-22 21:56:22: Memory usage: 619.46 MB
+2025-01-22 21:56:22: Memory usage: 620.08 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Frame processing time: 0.16 seconds
+2025-01-22 21:56:22: Successfully saved frame 50
+2025-01-22 21:56:22: Memory usage: 619.10 MB
+2025-01-22 21:56:22: Memory usage: 619.19 MB
+2025-01-22 21:56:22: Memory usage: 619.79 MB
+2025-01-22 21:56:22: Memory usage: 620.39 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Frame processing time: 0.18 seconds
+2025-01-22 21:56:22: Successfully saved frame 51
+2025-01-22 21:56:22: Memory usage: 619.10 MB
+2025-01-22 21:56:22: Memory usage: 619.27 MB
+2025-01-22 21:56:22: Memory usage: 619.91 MB
+2025-01-22 21:56:22: Memory usage: 620.55 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:22: Memory usage: 620.59 MB
+2025-01-22 21:56:23: Frame processing time: 0.27 seconds
+2025-01-22 21:56:23: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:23: Successfully saved frame 52
+2025-01-22 21:56:23: Memory usage: 619.11 MB
+2025-01-22 21:56:23: Memory usage: 619.27 MB
+2025-01-22 21:56:23: Memory usage: 619.91 MB
+2025-01-22 21:56:23: Memory usage: 620.36 MB
+2025-01-22 21:56:23: Memory usage: 620.59 MB
+2025-01-22 21:56:23: Memory usage: 620.59 MB
+2025-01-22 21:56:23: Memory usage: 620.59 MB
+2025-01-22 21:56:23: Memory usage: 620.59 MB
+2025-01-22 21:56:23: Memory usage: 620.59 MB
+2025-01-22 21:56:23: Memory usage: 620.59 MB
+2025-01-22 21:56:23: Frame processing time: 0.28 seconds
+2025-01-22 21:56:23: Successfully saved frame 53
+2025-01-22 21:56:23: Memory usage: 619.11 MB
+2025-01-22 21:56:23: Memory usage: 619.55 MB
+2025-01-22 21:56:23: Memory usage: 620.36 MB
+2025-01-22 21:56:23: Memory usage: 620.59 MB
+2025-01-22 21:56:23: Memory usage: 620.59 MB
+2025-01-22 21:56:23: Memory usage: 620.59 MB
+2025-01-22 21:56:23: Memory usage: 620.59 MB
+2025-01-22 21:56:23: Memory usage: 620.59 MB
+2025-01-22 21:56:23: Memory usage: 620.59 MB
+2025-01-22 21:56:23: Memory usage: 620.59 MB
+2025-01-22 21:56:23: Frame processing time: 0.26 seconds
+2025-01-22 21:56:23: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:23: Successfully saved frame 54
+2025-01-22 21:56:23: Memory usage: 619.12 MB
+2025-01-22 21:56:23: Memory usage: 619.27 MB
+2025-01-22 21:56:23: Memory usage: 620.60 MB
+2025-01-22 21:56:23: Memory usage: 620.60 MB
+2025-01-22 21:56:23: Memory usage: 620.60 MB
+2025-01-22 21:56:23: Memory usage: 620.60 MB
+2025-01-22 21:56:23: Memory usage: 620.60 MB
+2025-01-22 21:56:23: Memory usage: 620.60 MB
+2025-01-22 21:56:23: Memory usage: 620.60 MB
+2025-01-22 21:56:23: Memory usage: 620.60 MB
+2025-01-22 21:56:23: Frame processing time: 0.27 seconds
+2025-01-22 21:56:23: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:23: Successfully saved frame 55
+2025-01-22 21:56:23: Memory usage: 619.78 MB
+2025-01-22 21:56:23: Memory usage: 619.82 MB
+2025-01-22 21:56:23: Memory usage: 620.38 MB
+2025-01-22 21:56:23: Memory usage: 621.00 MB
+2025-01-22 21:56:23: Memory usage: 621.26 MB
+2025-01-22 21:56:23: Memory usage: 621.26 MB
+2025-01-22 21:56:23: Memory usage: 621.26 MB
+2025-01-22 21:56:23: Memory usage: 621.26 MB
+2025-01-22 21:56:23: Memory usage: 621.26 MB
+2025-01-22 21:56:23: Memory usage: 621.26 MB
+2025-01-22 21:56:24: Frame processing time: 0.29 seconds
+2025-01-22 21:56:24: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:24: Successfully saved frame 56
+2025-01-22 21:56:24: Memory usage: 619.45 MB
+2025-01-22 21:56:24: Memory usage: 619.61 MB
+2025-01-22 21:56:24: Memory usage: 620.12 MB
+2025-01-22 21:56:24: Memory usage: 620.72 MB
+2025-01-22 21:56:24: Memory usage: 620.94 MB
+2025-01-22 21:56:24: Memory usage: 620.94 MB
+2025-01-22 21:56:24: Memory usage: 620.94 MB
+2025-01-22 21:56:24: Memory usage: 620.94 MB
+2025-01-22 21:56:24: Memory usage: 620.94 MB
+2025-01-22 21:56:24: Memory usage: 620.94 MB
+2025-01-22 21:56:24: Frame processing time: 0.24 seconds
+2025-01-22 21:56:24: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:24: Successfully saved frame 57
+2025-01-22 21:56:24: Memory usage: 619.57 MB
+2025-01-22 21:56:24: Memory usage: 619.99 MB
+2025-01-22 21:56:24: Memory usage: 620.49 MB
+2025-01-22 21:56:24: Memory usage: 620.94 MB
+2025-01-22 21:56:24: Memory usage: 621.05 MB
+2025-01-22 21:56:24: Memory usage: 621.05 MB
+2025-01-22 21:56:24: Memory usage: 621.05 MB
+2025-01-22 21:56:24: Memory usage: 621.05 MB
+2025-01-22 21:56:24: Memory usage: 621.05 MB
+2025-01-22 21:56:24: Memory usage: 621.05 MB
+2025-01-22 21:56:24: Frame processing time: 0.26 seconds
+2025-01-22 21:56:24: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:24: Successfully saved frame 58
+2025-01-22 21:56:24: Memory usage: 619.03 MB
+2025-01-22 21:56:24: Memory usage: 619.16 MB
+2025-01-22 21:56:24: Memory usage: 619.70 MB
+2025-01-22 21:56:24: Memory usage: 620.20 MB
+2025-01-22 21:56:24: Memory usage: 620.52 MB
+2025-01-22 21:56:24: Memory usage: 620.52 MB
+2025-01-22 21:56:24: Memory usage: 620.52 MB
+2025-01-22 21:56:24: Memory usage: 620.52 MB
+2025-01-22 21:56:24: Memory usage: 620.52 MB
+2025-01-22 21:56:24: Memory usage: 620.52 MB
+2025-01-22 21:56:25: Frame processing time: 0.26 seconds
+2025-01-22 21:56:25: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:25: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:25: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:25: Successfully saved frame 59
+2025-01-22 21:56:25: Memory usage: 619.13 MB
+2025-01-22 21:56:25: Memory usage: 619.23 MB
+2025-01-22 21:56:25: Memory usage: 619.83 MB
+2025-01-22 21:56:25: Memory usage: 620.33 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Frame processing time: 0.25 seconds
+2025-01-22 21:56:25: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:25: Successfully saved frame 60
+2025-01-22 21:56:25: Memory usage: 619.14 MB
+2025-01-22 21:56:25: Memory usage: 619.25 MB
+2025-01-22 21:56:25: Memory usage: 620.04 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Frame processing time: 0.22 seconds
+2025-01-22 21:56:25: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:25: Successfully saved frame 61
+2025-01-22 21:56:25: Memory usage: 619.14 MB
+2025-01-22 21:56:25: Memory usage: 619.26 MB
+2025-01-22 21:56:25: Memory usage: 620.03 MB
+2025-01-22 21:56:25: Memory usage: 620.61 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Memory usage: 620.62 MB
+2025-01-22 21:56:25: Frame processing time: 0.22 seconds
+2025-01-22 21:56:25: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:25: Successfully saved frame 62
+2025-01-22 21:56:25: Memory usage: 619.23 MB
+2025-01-22 21:56:25: Memory usage: 619.32 MB
+2025-01-22 21:56:25: Memory usage: 619.92 MB
+2025-01-22 21:56:25: Memory usage: 620.44 MB
+2025-01-22 21:56:25: Memory usage: 620.71 MB
+2025-01-22 21:56:25: Memory usage: 620.71 MB
+2025-01-22 21:56:25: Memory usage: 620.71 MB
+2025-01-22 21:56:25: Memory usage: 620.71 MB
+2025-01-22 21:56:25: Memory usage: 620.71 MB
+2025-01-22 21:56:25: Memory usage: 620.71 MB
+2025-01-22 21:56:26: Frame processing time: 0.24 seconds
+2025-01-22 21:56:26: Successfully saved frame 63
+2025-01-22 21:56:26: Memory usage: 619.24 MB
+2025-01-22 21:56:26: Memory usage: 620.73 MB
+2025-01-22 21:56:26: Memory usage: 620.73 MB
+2025-01-22 21:56:26: Memory usage: 620.73 MB
+2025-01-22 21:56:26: Memory usage: 620.73 MB
+2025-01-22 21:56:26: Memory usage: 620.73 MB
+2025-01-22 21:56:26: Memory usage: 620.73 MB
+2025-01-22 21:56:26: Memory usage: 620.73 MB
+2025-01-22 21:56:26: Memory usage: 620.73 MB
+2025-01-22 21:56:26: Memory usage: 620.73 MB
+2025-01-22 21:56:26: Frame processing time: 0.25 seconds
+2025-01-22 21:56:26: Successfully saved frame 64
+2025-01-22 21:56:26: Memory usage: 619.30 MB
+2025-01-22 21:56:26: Memory usage: 619.39 MB
+2025-01-22 21:56:26: Memory usage: 620.04 MB
+2025-01-22 21:56:26: Memory usage: 620.54 MB
+2025-01-22 21:56:26: Memory usage: 620.79 MB
+2025-01-22 21:56:26: Memory usage: 620.79 MB
+2025-01-22 21:56:26: Memory usage: 620.79 MB
+2025-01-22 21:56:26: Memory usage: 620.79 MB
+2025-01-22 21:56:26: Memory usage: 620.79 MB
+2025-01-22 21:56:26: Memory usage: 620.79 MB
+2025-01-22 21:56:26: Frame processing time: 0.28 seconds
+2025-01-22 21:56:26: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:26: Successfully saved frame 65
+2025-01-22 21:56:26: Memory usage: 619.31 MB
+2025-01-22 21:56:26: Memory usage: 619.45 MB
+2025-01-22 21:56:26: Memory usage: 620.14 MB
+2025-01-22 21:56:26: Memory usage: 620.80 MB
+2025-01-22 21:56:26: Memory usage: 620.80 MB
+2025-01-22 21:56:26: Memory usage: 620.80 MB
+2025-01-22 21:56:26: Memory usage: 620.80 MB
+2025-01-22 21:56:26: Memory usage: 620.80 MB
+2025-01-22 21:56:26: Memory usage: 620.80 MB
+2025-01-22 21:56:26: Memory usage: 620.80 MB
+2025-01-22 21:56:26: Frame processing time: 0.27 seconds
+2025-01-22 21:56:26: Successfully saved frame 66
+2025-01-22 21:56:26: Memory usage: 619.31 MB
+2025-01-22 21:56:26: Memory usage: 619.88 MB
+2025-01-22 21:56:26: Memory usage: 620.50 MB
+2025-01-22 21:56:26: Memory usage: 620.80 MB
+2025-01-22 21:56:26: Memory usage: 620.80 MB
+2025-01-22 21:56:26: Memory usage: 620.80 MB
+2025-01-22 21:56:26: Memory usage: 620.80 MB
+2025-01-22 21:56:26: Memory usage: 620.80 MB
+2025-01-22 21:56:26: Memory usage: 620.80 MB
+2025-01-22 21:56:26: Memory usage: 620.80 MB
+2025-01-22 21:56:27: Frame processing time: 0.28 seconds
+2025-01-22 21:56:27: Successfully saved frame 67
+2025-01-22 21:56:27: Memory usage: 619.31 MB
+2025-01-22 21:56:27: Memory usage: 619.56 MB
+2025-01-22 21:56:27: Memory usage: 620.06 MB
+2025-01-22 21:56:27: Memory usage: 620.56 MB
+2025-01-22 21:56:27: Memory usage: 620.79 MB
+2025-01-22 21:56:27: Memory usage: 620.79 MB
+2025-01-22 21:56:27: Memory usage: 620.79 MB
+2025-01-22 21:56:27: Memory usage: 620.79 MB
+2025-01-22 21:56:27: Memory usage: 620.79 MB
+2025-01-22 21:56:27: Memory usage: 620.79 MB
+2025-01-22 21:56:27: Frame processing time: 0.25 seconds
+2025-01-22 21:56:27: Successfully saved frame 68
+2025-01-22 21:56:27: Memory usage: 619.30 MB
+2025-01-22 21:56:27: Memory usage: 619.65 MB
+2025-01-22 21:56:27: Memory usage: 620.28 MB
+2025-01-22 21:56:27: Memory usage: 620.78 MB
+2025-01-22 21:56:27: Memory usage: 620.79 MB
+2025-01-22 21:56:27: Memory usage: 620.79 MB
+2025-01-22 21:56:27: Memory usage: 620.79 MB
+2025-01-22 21:56:27: Memory usage: 620.79 MB
+2025-01-22 21:56:27: Memory usage: 620.79 MB
+2025-01-22 21:56:27: Memory usage: 620.79 MB
+2025-01-22 21:56:27: Frame processing time: 0.24 seconds
+2025-01-22 21:56:27: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:27: Successfully saved frame 69
+2025-01-22 21:56:27: Memory usage: 619.32 MB
+2025-01-22 21:56:27: Memory usage: 619.52 MB
+2025-01-22 21:56:27: Memory usage: 620.15 MB
+2025-01-22 21:56:27: Memory usage: 620.80 MB
+2025-01-22 21:56:27: Memory usage: 620.80 MB
+2025-01-22 21:56:27: Memory usage: 620.80 MB
+2025-01-22 21:56:27: Memory usage: 620.80 MB
+2025-01-22 21:56:27: Memory usage: 620.80 MB
+2025-01-22 21:56:27: Memory usage: 620.80 MB
+2025-01-22 21:56:27: Memory usage: 620.80 MB
+2025-01-22 21:56:27: Frame processing time: 0.18 seconds
+2025-01-22 21:56:27: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:27: Successfully saved frame 70
+2025-01-22 21:56:27: Memory usage: 619.32 MB
+2025-01-22 21:56:27: Memory usage: 619.46 MB
+2025-01-22 21:56:27: Memory usage: 620.28 MB
+2025-01-22 21:56:27: Memory usage: 620.81 MB
+2025-01-22 21:56:27: Memory usage: 620.81 MB
+2025-01-22 21:56:27: Memory usage: 620.81 MB
+2025-01-22 21:56:27: Memory usage: 620.81 MB
+2025-01-22 21:56:27: Memory usage: 620.81 MB
+2025-01-22 21:56:27: Memory usage: 620.81 MB
+2025-01-22 21:56:27: Memory usage: 620.81 MB
+2025-01-22 21:56:28: Frame processing time: 0.22 seconds
+2025-01-22 21:56:28: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:28: Successfully saved frame 71
+2025-01-22 21:56:28: Memory usage: 619.33 MB
+2025-01-22 21:56:28: Memory usage: 619.42 MB
+2025-01-22 21:56:28: Memory usage: 619.98 MB
+2025-01-22 21:56:28: Memory usage: 620.58 MB
+2025-01-22 21:56:28: Memory usage: 620.81 MB
+2025-01-22 21:56:28: Memory usage: 620.81 MB
+2025-01-22 21:56:28: Memory usage: 620.81 MB
+2025-01-22 21:56:28: Memory usage: 620.81 MB
+2025-01-22 21:56:28: Memory usage: 620.81 MB
+2025-01-22 21:56:28: Memory usage: 620.81 MB
+2025-01-22 21:56:28: Frame processing time: 0.22 seconds
+2025-01-22 21:56:28: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:28: Successfully saved frame 72
+2025-01-22 21:56:28: Memory usage: 619.31 MB
+2025-01-22 21:56:28: Memory usage: 619.63 MB
+2025-01-22 21:56:28: Memory usage: 620.13 MB
+2025-01-22 21:56:28: Memory usage: 620.69 MB
+2025-01-22 21:56:28: Memory usage: 620.80 MB
+2025-01-22 21:56:28: Memory usage: 620.80 MB
+2025-01-22 21:56:28: Memory usage: 620.80 MB
+2025-01-22 21:56:28: Memory usage: 620.80 MB
+2025-01-22 21:56:28: Memory usage: 620.80 MB
+2025-01-22 21:56:28: Memory usage: 620.80 MB
+2025-01-22 21:56:28: Frame processing time: 0.21 seconds
+2025-01-22 21:56:28: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:28: Successfully saved frame 73
+2025-01-22 21:56:28: Memory usage: 619.31 MB
+2025-01-22 21:56:28: Memory usage: 619.52 MB
+2025-01-22 21:56:28: Memory usage: 620.12 MB
+2025-01-22 21:56:28: Memory usage: 620.77 MB
+2025-01-22 21:56:28: Memory usage: 620.80 MB
+2025-01-22 21:56:28: Memory usage: 620.80 MB
+2025-01-22 21:56:28: Memory usage: 622.34 MB
+2025-01-22 21:56:28: Memory usage: 624.27 MB
+2025-01-22 21:56:28: Memory usage: 624.76 MB
+2025-01-22 21:56:28: Memory usage: 623.44 MB
+2025-01-22 21:56:28: Frame processing time: 0.26 seconds
+2025-01-22 21:56:28: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:28: Successfully saved frame 74
+2025-01-22 21:56:28: Memory usage: 619.32 MB
+2025-01-22 21:56:28: Memory usage: 619.62 MB
+2025-01-22 21:56:28: Memory usage: 620.12 MB
+2025-01-22 21:56:28: Memory usage: 620.50 MB
+2025-01-22 21:56:28: Memory usage: 620.80 MB
+2025-01-22 21:56:28: Memory usage: 620.80 MB
+2025-01-22 21:56:28: Memory usage: 620.80 MB
+2025-01-22 21:56:28: Memory usage: 620.80 MB
+2025-01-22 21:56:28: Memory usage: 620.80 MB
+2025-01-22 21:56:28: Memory usage: 620.80 MB
+2025-01-22 21:56:29: Frame processing time: 0.25 seconds
+2025-01-22 21:56:29: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:29: Successfully saved frame 75
+2025-01-22 21:56:29: Memory usage: 619.32 MB
+2025-01-22 21:56:29: Memory usage: 619.58 MB
+2025-01-22 21:56:29: Memory usage: 620.27 MB
+2025-01-22 21:56:29: Memory usage: 620.71 MB
+2025-01-22 21:56:29: Memory usage: 620.80 MB
+2025-01-22 21:56:29: Memory usage: 620.80 MB
+2025-01-22 21:56:29: Memory usage: 620.80 MB
+2025-01-22 21:56:29: Memory usage: 620.80 MB
+2025-01-22 21:56:29: Memory usage: 620.80 MB
+2025-01-22 21:56:29: Memory usage: 620.80 MB
+2025-01-22 21:56:29: Frame processing time: 0.31 seconds
+2025-01-22 21:56:29: Successfully saved frame 76
+2025-01-22 21:56:29: Memory usage: 619.31 MB
+2025-01-22 21:56:29: Memory usage: 619.54 MB
+2025-01-22 21:56:29: Memory usage: 620.31 MB
+2025-01-22 21:56:29: Memory usage: 620.73 MB
+2025-01-22 21:56:29: Memory usage: 620.80 MB
+2025-01-22 21:56:29: Memory usage: 620.80 MB
+2025-01-22 21:56:29: Memory usage: 620.80 MB
+2025-01-22 21:56:29: Memory usage: 620.80 MB
+2025-01-22 21:56:29: Memory usage: 620.80 MB
+2025-01-22 21:56:29: Memory usage: 620.80 MB
+2025-01-22 21:56:29: Frame processing time: 0.31 seconds
+2025-01-22 21:56:29: Successfully saved frame 77
+2025-01-22 21:56:29: Memory usage: 619.31 MB
+2025-01-22 21:56:29: Memory usage: 620.77 MB
+2025-01-22 21:56:29: Memory usage: 620.79 MB
+2025-01-22 21:56:29: Memory usage: 620.79 MB
+2025-01-22 21:56:29: Memory usage: 620.79 MB
+2025-01-22 21:56:29: Memory usage: 620.79 MB
+2025-01-22 21:56:29: Memory usage: 620.79 MB
+2025-01-22 21:56:29: Memory usage: 620.79 MB
+2025-01-22 21:56:29: Memory usage: 620.79 MB
+2025-01-22 21:56:29: Memory usage: 620.79 MB
+2025-01-22 21:56:30: Frame processing time: 0.23 seconds
+2025-01-22 21:56:30: Successfully saved frame 78
+2025-01-22 21:56:30: Memory usage: 619.96 MB
+2025-01-22 21:56:30: Memory usage: 620.07 MB
+2025-01-22 21:56:30: Memory usage: 620.87 MB
+2025-01-22 21:56:30: Memory usage: 621.45 MB
+2025-01-22 21:56:30: Memory usage: 621.45 MB
+2025-01-22 21:56:30: Memory usage: 621.45 MB
+2025-01-22 21:56:30: Memory usage: 621.45 MB
+2025-01-22 21:56:30: Memory usage: 621.45 MB
+2025-01-22 21:56:30: Memory usage: 621.45 MB
+2025-01-22 21:56:30: Memory usage: 621.45 MB
+2025-01-22 21:56:30: Frame processing time: 0.20 seconds
+2025-01-22 21:56:30: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:30: Successfully saved frame 79
+2025-01-22 21:56:30: Memory usage: 619.98 MB
+2025-01-22 21:56:30: Memory usage: 620.10 MB
+2025-01-22 21:56:30: Memory usage: 620.78 MB
+2025-01-22 21:56:30: Memory usage: 621.25 MB
+2025-01-22 21:56:30: Memory usage: 621.46 MB
+2025-01-22 21:56:30: Memory usage: 621.46 MB
+2025-01-22 21:56:30: Memory usage: 621.46 MB
+2025-01-22 21:56:30: Memory usage: 621.46 MB
+2025-01-22 21:56:30: Memory usage: 621.46 MB
+2025-01-22 21:56:30: Memory usage: 621.46 MB
+2025-01-22 21:56:30: Frame processing time: 0.25 seconds
+2025-01-22 21:56:30: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:30: Successfully saved frame 80
+2025-01-22 21:56:30: Memory usage: 619.52 MB
+2025-01-22 21:56:30: Memory usage: 619.82 MB
+2025-01-22 21:56:30: Memory usage: 620.38 MB
+2025-01-22 21:56:30: Memory usage: 620.88 MB
+2025-01-22 21:56:30: Memory usage: 621.01 MB
+2025-01-22 21:56:30: Memory usage: 621.01 MB
+2025-01-22 21:56:30: Memory usage: 621.01 MB
+2025-01-22 21:56:30: Memory usage: 621.01 MB
+2025-01-22 21:56:30: Memory usage: 621.01 MB
+2025-01-22 21:56:30: Memory usage: 621.01 MB
+2025-01-22 21:56:30: Frame processing time: 0.21 seconds
+2025-01-22 21:56:30: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:30: Successfully saved frame 81
+2025-01-22 21:56:30: Memory usage: 619.52 MB
+2025-01-22 21:56:30: Memory usage: 619.59 MB
+2025-01-22 21:56:30: Memory usage: 620.25 MB
+2025-01-22 21:56:30: Memory usage: 620.81 MB
+2025-01-22 21:56:30: Memory usage: 621.00 MB
+2025-01-22 21:56:30: Memory usage: 621.00 MB
+2025-01-22 21:56:30: Memory usage: 621.00 MB
+2025-01-22 21:56:30: Memory usage: 621.00 MB
+2025-01-22 21:56:30: Memory usage: 621.00 MB
+2025-01-22 21:56:30: Memory usage: 621.00 MB
+2025-01-22 21:56:31: Frame processing time: 0.20 seconds
+2025-01-22 21:56:31: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:31: Successfully saved frame 82
+2025-01-22 21:56:31: Memory usage: 619.52 MB
+2025-01-22 21:56:31: Memory usage: 619.55 MB
+2025-01-22 21:56:31: Memory usage: 620.08 MB
+2025-01-22 21:56:31: Memory usage: 620.46 MB
+2025-01-22 21:56:31: Memory usage: 620.89 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Frame processing time: 0.23 seconds
+2025-01-22 21:56:31: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:31: Successfully saved frame 83
+2025-01-22 21:56:31: Memory usage: 619.52 MB
+2025-01-22 21:56:31: Memory usage: 619.85 MB
+2025-01-22 21:56:31: Memory usage: 620.47 MB
+2025-01-22 21:56:31: Memory usage: 621.00 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Frame processing time: 0.20 seconds
+2025-01-22 21:56:31: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:31: Successfully saved frame 84
+2025-01-22 21:56:31: Memory usage: 619.52 MB
+2025-01-22 21:56:31: Memory usage: 619.90 MB
+2025-01-22 21:56:31: Memory usage: 620.46 MB
+2025-01-22 21:56:31: Memory usage: 620.96 MB
+2025-01-22 21:56:31: Memory usage: 621.00 MB
+2025-01-22 21:56:31: Memory usage: 621.00 MB
+2025-01-22 21:56:31: Memory usage: 621.00 MB
+2025-01-22 21:56:31: Memory usage: 621.00 MB
+2025-01-22 21:56:31: Memory usage: 621.00 MB
+2025-01-22 21:56:31: Memory usage: 621.00 MB
+2025-01-22 21:56:31: Frame processing time: 0.25 seconds
+2025-01-22 21:56:31: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:31: Successfully saved frame 85
+2025-01-22 21:56:31: Memory usage: 619.52 MB
+2025-01-22 21:56:31: Memory usage: 619.96 MB
+2025-01-22 21:56:31: Memory usage: 620.59 MB
+2025-01-22 21:56:31: Memory usage: 621.00 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: Memory usage: 621.01 MB
+2025-01-22 21:56:31: End of video reached
+2025-01-22 21:56:32: Frame processing time: 0.21 seconds
+2025-01-22 21:56:32: Successfully saved frame 86
+2025-01-22 21:56:32: Memory usage: 581.87 MB
+2025-01-22 21:56:32: Memory usage: 582.14 MB
+2025-01-22 21:56:32: Memory usage: 582.64 MB
+2025-01-22 21:56:32: Memory usage: 583.20 MB
+2025-01-22 21:56:32: Memory usage: 583.35 MB
+2025-01-22 21:56:32: Memory usage: 583.35 MB
+2025-01-22 21:56:32: Memory usage: 583.35 MB
+2025-01-22 21:56:32: Memory usage: 583.35 MB
+2025-01-22 21:56:32: Memory usage: 583.35 MB
+2025-01-22 21:56:32: Memory usage: 583.35 MB
+2025-01-22 21:56:32: Frame processing time: 0.17 seconds
+2025-01-22 21:56:32: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 21:56:32: Successfully saved frame 87
+2025-01-22 21:56:32: Memory usage: 570.43 MB
+2025-01-22 21:56:32: Memory usage: 570.52 MB
+2025-01-22 21:56:32: Memory usage: 570.44 MB
+2025-01-22 21:56:32: Memory usage: 570.14 MB
+2025-01-22 21:56:32: Memory usage: 569.15 MB
+2025-01-22 21:56:32: Memory usage: 569.15 MB
+2025-01-22 21:56:32: Memory usage: 568.27 MB
+2025-01-22 21:56:32: Memory usage: 567.28 MB
+2025-01-22 21:56:32: Memory usage: 567.28 MB
+2025-01-22 21:56:32: Memory usage: 567.28 MB
+2025-01-22 21:56:32: Frame processing time: 0.18 seconds
+2025-01-22 21:56:32: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 21:56:32: Successfully saved frame 88
+2025-01-22 21:56:32: Memory usage: 565.82 MB
+2025-01-22 21:56:32: Memory usage: 566.34 MB
+2025-01-22 21:56:32: Memory usage: 558.77 MB
+2025-01-22 21:56:32: Memory usage: 557.89 MB
+2025-01-22 21:56:32: Memory usage: 557.02 MB
+2025-01-22 21:56:32: Memory usage: 556.14 MB
+2025-01-22 21:56:32: Memory usage: 555.26 MB
+2025-01-22 21:56:32: Memory usage: 555.26 MB
+2025-01-22 22:08:10: Video loaded: C:/Users/Jason/Desktop/skudetectionapp/cam1_FM002_FM003_caesar_soba_160125_220125.mp4
+2025-01-22 22:08:17: Video processing started
+2025-01-22 22:08:17: Receive thread alive: True
+2025-01-22 22:08:17: Display thread alive: True
+2025-01-22 22:08:17: Total frames in video: 889
+2025-01-22 22:08:18: Frame processing time: 1.49 seconds
+2025-01-22 22:08:18: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:18: Successfully saved frame 1
+2025-01-22 22:08:18: Frame processing time: 0.16 seconds
+2025-01-22 22:08:18: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:18: Successfully saved frame 2
+2025-01-22 22:08:19: Frame processing time: 0.16 seconds
+2025-01-22 22:08:19: Successfully saved frame 3
+2025-01-22 22:08:19: Frame processing time: 0.19 seconds
+2025-01-22 22:08:19: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:19: Successfully saved frame 4
+2025-01-22 22:08:19: Frame processing time: 0.21 seconds
+2025-01-22 22:08:19: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:19: Successfully saved frame 5
+2025-01-22 22:08:19: Frame processing time: 0.22 seconds
+2025-01-22 22:08:19: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:19: Successfully saved frame 6
+2025-01-22 22:08:20: Frame processing time: 0.29 seconds
+2025-01-22 22:08:20: Successfully saved frame 7
+2025-01-22 22:08:20: Frame processing time: 0.31 seconds
+2025-01-22 22:08:20: Successfully saved frame 8
+2025-01-22 22:08:20: Frame processing time: 0.36 seconds
+2025-01-22 22:08:20: Successfully saved frame 9
+2025-01-22 22:08:21: Frame processing time: 0.27 seconds
+2025-01-22 22:08:21: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:08:21: Successfully saved frame 10
+2025-01-22 22:08:21: Frame processing time: 0.27 seconds
+2025-01-22 22:08:21: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:21: Successfully saved frame 11
+2025-01-22 22:08:21: Frame processing time: 0.29 seconds
+2025-01-22 22:08:21: Successfully saved frame 12
+2025-01-22 22:08:21: Frame processing time: 0.33 seconds
+2025-01-22 22:08:21: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:08:22: Successfully saved frame 13
+2025-01-22 22:08:22: Frame processing time: 0.28 seconds
+2025-01-22 22:08:22: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:08:22: Successfully saved frame 14
+2025-01-22 22:08:22: Frame processing time: 0.27 seconds
+2025-01-22 22:08:22: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:08:22: Successfully saved frame 15
+2025-01-22 22:08:22: Frame processing time: 0.31 seconds
+2025-01-22 22:08:22: Successfully saved frame 16
+2025-01-22 22:08:23: Frame processing time: 0.30 seconds
+2025-01-22 22:08:23: Successfully saved frame 17
+2025-01-22 22:08:23: Frame processing time: 0.29 seconds
+2025-01-22 22:08:23: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:08:23: Successfully saved frame 18
+2025-01-22 22:08:23: Frame processing time: 0.24 seconds
+2025-01-22 22:08:23: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:08:23: Successfully saved frame 19
+2025-01-22 22:08:24: Frame processing time: 0.28 seconds
+2025-01-22 22:08:24: Successfully saved frame 20
+2025-01-22 22:08:24: Frame processing time: 0.27 seconds
+2025-01-22 22:08:24: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:24: Successfully saved frame 21
+2025-01-22 22:08:24: Frame processing time: 0.32 seconds
+2025-01-22 22:08:24: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:24: Successfully saved frame 22
+2025-01-22 22:08:25: Frame processing time: 0.30 seconds
+2025-01-22 22:08:25: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:25: Successfully saved frame 23
+2025-01-22 22:08:25: Frame processing time: 0.30 seconds
+2025-01-22 22:08:25: Successfully saved frame 24
+2025-01-22 22:08:25: Frame processing time: 0.27 seconds
+2025-01-22 22:08:25: Successfully saved frame 25
+2025-01-22 22:08:26: Frame processing time: 0.25 seconds
+2025-01-22 22:08:26: Successfully saved frame 26
+2025-01-22 22:08:26: Frame processing time: 0.27 seconds
+2025-01-22 22:08:26: Successfully saved frame 27
+2025-01-22 22:08:26: Frame processing time: 0.26 seconds
+2025-01-22 22:08:26: Successfully saved frame 28
+2025-01-22 22:08:26: Frame processing time: 0.29 seconds
+2025-01-22 22:08:26: Successfully saved frame 29
+2025-01-22 22:08:27: Frame processing time: 0.36 seconds
+2025-01-22 22:08:27: Successfully saved frame 30
+2025-01-22 22:08:27: Frame processing time: 0.27 seconds
+2025-01-22 22:08:27: Successfully saved frame 31
+2025-01-22 22:08:27: Frame processing time: 0.23 seconds
+2025-01-22 22:08:27: Successfully saved frame 32
+2025-01-22 22:08:28: Frame processing time: 0.24 seconds
+2025-01-22 22:08:28: Successfully saved frame 33
+2025-01-22 22:08:28: Frame processing time: 0.27 seconds
+2025-01-22 22:08:28: Successfully saved frame 34
+2025-01-22 22:08:28: Frame processing time: 0.27 seconds
+2025-01-22 22:08:28: Successfully saved frame 35
+2025-01-22 22:08:29: Frame processing time: 0.28 seconds
+2025-01-22 22:08:29: Successfully saved frame 36
+2025-01-22 22:08:29: Frame processing time: 0.28 seconds
+2025-01-22 22:08:29: Successfully saved frame 37
+2025-01-22 22:08:29: Frame processing time: 0.28 seconds
+2025-01-22 22:08:29: Successfully saved frame 38
+2025-01-22 22:08:29: Frame processing time: 0.26 seconds
+2025-01-22 22:08:29: Successfully saved frame 39
+2025-01-22 22:08:30: Frame processing time: 0.27 seconds
+2025-01-22 22:08:30: Successfully saved frame 40
+2025-01-22 22:08:30: Frame processing time: 0.28 seconds
+2025-01-22 22:08:30: Successfully saved frame 41
+2025-01-22 22:08:30: Frame processing time: 0.30 seconds
+2025-01-22 22:08:30: Successfully saved frame 42
+2025-01-22 22:08:31: Frame processing time: 0.31 seconds
+2025-01-22 22:08:31: Successfully saved frame 43
+2025-01-22 22:08:31: Frame processing time: 0.27 seconds
+2025-01-22 22:08:31: Successfully saved frame 44
+2025-01-22 22:08:31: Frame processing time: 0.24 seconds
+2025-01-22 22:08:31: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:08:31: Successfully saved frame 45
+2025-01-22 22:08:31: Frame processing time: 0.24 seconds
+2025-01-22 22:08:31: Successfully saved frame 46
+2025-01-22 22:08:32: Frame processing time: 0.29 seconds
+2025-01-22 22:08:32: Successfully saved frame 47
+2025-01-22 22:08:32: Frame processing time: 0.30 seconds
+2025-01-22 22:08:32: Successfully saved frame 48
+2025-01-22 22:08:32: Frame processing time: 0.29 seconds
+2025-01-22 22:08:32: Successfully saved frame 49
+2025-01-22 22:08:33: Frame processing time: 0.28 seconds
+2025-01-22 22:08:33: Successfully saved frame 50
+2025-01-22 22:08:33: Frame processing time: 0.38 seconds
+2025-01-22 22:08:33: Successfully saved frame 51
+2025-01-22 22:08:33: Frame processing time: 0.23 seconds
+2025-01-22 22:08:33: Successfully saved frame 52
+2025-01-22 22:08:34: Frame processing time: 0.25 seconds
+2025-01-22 22:08:34: Successfully saved frame 53
+2025-01-22 22:08:34: Frame processing time: 0.26 seconds
+2025-01-22 22:08:34: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:34: Successfully saved frame 54
+2025-01-22 22:08:34: Frame processing time: 0.29 seconds
+2025-01-22 22:08:34: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:34: Successfully saved frame 55
+2025-01-22 22:08:35: Frame processing time: 0.27 seconds
+2025-01-22 22:08:35: Successfully saved frame 56
+2025-01-22 22:08:35: Frame processing time: 0.28 seconds
+2025-01-22 22:08:35: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:35: Successfully saved frame 57
+2025-01-22 22:08:35: Frame processing time: 0.27 seconds
+2025-01-22 22:08:35: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:08:35: Successfully saved frame 58
+2025-01-22 22:08:36: Frame processing time: 0.31 seconds
+2025-01-22 22:08:36: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:08:36: Successfully saved frame 59
+2025-01-22 22:08:36: Frame processing time: 0.31 seconds
+2025-01-22 22:08:36: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:08:36: Successfully saved frame 60
+2025-01-22 22:08:36: Frame processing time: 0.25 seconds
+2025-01-22 22:08:36: Successfully saved frame 61
+2025-01-22 22:08:36: Frame processing time: 0.25 seconds
+2025-01-22 22:08:36: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:08:36: Successfully saved frame 62
+2025-01-22 22:08:37: Frame processing time: 0.25 seconds
+2025-01-22 22:08:37: Successfully saved frame 63
+2025-01-22 22:08:37: Frame processing time: 0.26 seconds
+2025-01-22 22:08:37: Successfully saved frame 64
+2025-01-22 22:08:37: Frame processing time: 0.31 seconds
+2025-01-22 22:08:37: Successfully saved frame 65
+2025-01-22 22:08:38: Frame processing time: 0.24 seconds
+2025-01-22 22:08:38: Successfully saved frame 66
+2025-01-22 22:08:38: Frame processing time: 0.27 seconds
+2025-01-22 22:08:38: Successfully saved frame 67
+2025-01-22 22:08:38: Frame processing time: 0.25 seconds
+2025-01-22 22:08:38: Successfully saved frame 68
+2025-01-22 22:08:38: Frame processing time: 0.25 seconds
+2025-01-22 22:08:38: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:08:38: Successfully saved frame 69
+2025-01-22 22:08:39: Frame processing time: 0.25 seconds
+2025-01-22 22:08:39: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:08:39: Successfully saved frame 70
+2025-01-22 22:08:39: Frame processing time: 0.23 seconds
+2025-01-22 22:08:39: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:08:39: Successfully saved frame 71
+2025-01-22 22:08:39: Frame processing time: 0.26 seconds
+2025-01-22 22:08:39: Successfully saved frame 72
+2025-01-22 22:08:39: Frame processing time: 0.23 seconds
+2025-01-22 22:08:40: Successfully saved frame 73
+2025-01-22 22:08:40: Frame processing time: 0.25 seconds
+2025-01-22 22:08:40: Successfully saved frame 74
+2025-01-22 22:08:40: Frame processing time: 0.23 seconds
+2025-01-22 22:08:40: Successfully saved frame 75
+2025-01-22 22:08:40: Frame processing time: 0.28 seconds
+2025-01-22 22:08:40: Successfully saved frame 76
+2025-01-22 22:08:41: Frame processing time: 0.35 seconds
+2025-01-22 22:08:41: Successfully saved frame 77
+2025-01-22 22:08:41: Frame processing time: 0.33 seconds
+2025-01-22 22:08:41: Successfully saved frame 78
+2025-01-22 22:08:41: Frame processing time: 0.35 seconds
+2025-01-22 22:08:41: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:41: Successfully saved frame 79
+2025-01-22 22:08:42: Frame processing time: 0.26 seconds
+2025-01-22 22:08:42: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:42: Successfully saved frame 80
+2025-01-22 22:08:42: Frame processing time: 0.25 seconds
+2025-01-22 22:08:42: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:42: Successfully saved frame 81
+2025-01-22 22:08:42: Frame processing time: 0.23 seconds
+2025-01-22 22:08:42: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:42: Successfully saved frame 82
+2025-01-22 22:08:43: Frame processing time: 0.27 seconds
+2025-01-22 22:08:43: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:43: Successfully saved frame 83
+2025-01-22 22:08:43: Frame processing time: 0.31 seconds
+2025-01-22 22:08:43: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:43: Successfully saved frame 84
+2025-01-22 22:08:43: Frame processing time: 0.30 seconds
+2025-01-22 22:08:43: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:43: Successfully saved frame 85
+2025-01-22 22:08:43: End of video reached
+2025-01-22 22:08:44: Frame processing time: 0.28 seconds
+2025-01-22 22:08:44: Successfully saved frame 86
+2025-01-22 22:08:44: Frame processing time: 0.26 seconds
+2025-01-22 22:08:44: Successfully saved frame 87
+2025-01-22 22:08:44: Frame processing time: 0.26 seconds
+2025-01-22 22:08:44: Warning: Label salad green not found in SKU_MAPPING
+2025-01-22 22:08:44: Successfully saved frame 88
+2025-01-22 22:10:41: Video loaded: C:/Users/Jason/Desktop/skudetectionapp/cam1_FM002_FM003_caesar_soba_160125_220125.mp4
+2025-01-22 22:10:44: Video processing started
+2025-01-22 22:10:44: Receive thread alive: True
+2025-01-22 22:10:44: Display thread alive: True
+2025-01-22 22:10:44: Total frames in video: 889
+2025-01-22 22:10:45: Frame processing time: 1.49 seconds
+2025-01-22 22:10:45: Successfully saved frame 1
+2025-01-22 22:10:46: Frame processing time: 0.16 seconds
+2025-01-22 22:10:46: Successfully saved frame 2
+2025-01-22 22:10:46: Frame processing time: 0.15 seconds
+2025-01-22 22:10:46: Successfully saved frame 3
+2025-01-22 22:10:46: Frame processing time: 0.15 seconds
+2025-01-22 22:10:46: Successfully saved frame 4
+2025-01-22 22:10:46: Frame processing time: 0.15 seconds
+2025-01-22 22:10:46: Successfully saved frame 5
+2025-01-22 22:10:46: Frame processing time: 0.15 seconds
+2025-01-22 22:10:46: Successfully saved frame 6
+2025-01-22 22:10:46: Frame processing time: 0.17 seconds
+2025-01-22 22:10:46: Successfully saved frame 7
+2025-01-22 22:10:47: Frame processing time: 0.19 seconds
+2025-01-22 22:10:47: Successfully saved frame 8
+2025-01-22 22:10:47: Frame processing time: 0.20 seconds
+2025-01-22 22:10:47: Successfully saved frame 9
+2025-01-22 22:10:47: Frame processing time: 0.29 seconds
+2025-01-22 22:10:47: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:10:47: Successfully saved frame 10
+2025-01-22 22:10:47: Frame processing time: 0.26 seconds
+2025-01-22 22:10:47: Successfully saved frame 11
+2025-01-22 22:10:48: Frame processing time: 0.26 seconds
+2025-01-22 22:10:48: Successfully saved frame 12
+2025-01-22 22:10:48: Frame processing time: 0.27 seconds
+2025-01-22 22:10:48: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:10:48: Successfully saved frame 13
+2025-01-22 22:10:48: Frame processing time: 0.28 seconds
+2025-01-22 22:10:48: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:10:48: Successfully saved frame 14
+2025-01-22 22:10:49: Frame processing time: 0.25 seconds
+2025-01-22 22:10:49: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:10:49: Successfully saved frame 15
+2025-01-22 22:10:49: Frame processing time: 0.31 seconds
+2025-01-22 22:10:49: Successfully saved frame 16
+2025-01-22 22:10:49: Frame processing time: 0.32 seconds
+2025-01-22 22:10:49: Successfully saved frame 17
+2025-01-22 22:10:50: Frame processing time: 0.29 seconds
+2025-01-22 22:10:50: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:10:50: Successfully saved frame 18
+2025-01-22 22:10:50: Frame processing time: 0.27 seconds
+2025-01-22 22:10:50: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:10:50: Successfully saved frame 19
+2025-01-22 22:10:50: Frame processing time: 0.30 seconds
+2025-01-22 22:10:50: Successfully saved frame 20
+2025-01-22 22:10:51: Frame processing time: 0.27 seconds
+2025-01-22 22:10:51: Successfully saved frame 21
+2025-01-22 22:10:51: Frame processing time: 0.27 seconds
+2025-01-22 22:10:51: Successfully saved frame 22
+2025-01-22 22:10:51: Frame processing time: 0.28 seconds
+2025-01-22 22:10:51: Successfully saved frame 23
+2025-01-22 22:10:51: Frame processing time: 0.33 seconds
+2025-01-22 22:10:52: Successfully saved frame 24
+2025-01-22 22:10:52: Frame processing time: 0.31 seconds
+2025-01-22 22:10:52: Successfully saved frame 25
+2025-01-22 22:10:52: Frame processing time: 0.31 seconds
+2025-01-22 22:10:52: Successfully saved frame 26
+2025-01-22 22:10:53: Frame processing time: 0.31 seconds
+2025-01-22 22:10:53: Successfully saved frame 27
+2025-01-22 22:10:53: Frame processing time: 0.25 seconds
+2025-01-22 22:10:53: Successfully saved frame 28
+2025-01-22 22:10:53: Frame processing time: 0.26 seconds
+2025-01-22 22:10:53: Successfully saved frame 29
+2025-01-22 22:10:53: Frame processing time: 0.24 seconds
+2025-01-22 22:10:53: Successfully saved frame 30
+2025-01-22 22:10:54: Frame processing time: 0.28 seconds
+2025-01-22 22:10:54: Successfully saved frame 31
+2025-01-22 22:10:54: Frame processing time: 0.28 seconds
+2025-01-22 22:10:54: Successfully saved frame 32
+2025-01-22 22:10:54: Frame processing time: 0.28 seconds
+2025-01-22 22:10:54: Successfully saved frame 33
+2025-01-22 22:10:55: Frame processing time: 0.26 seconds
+2025-01-22 22:10:55: Successfully saved frame 34
+2025-01-22 22:10:55: Frame processing time: 0.33 seconds
+2025-01-22 22:10:55: Successfully saved frame 35
+2025-01-22 22:10:55: Frame processing time: 0.24 seconds
+2025-01-22 22:10:55: Successfully saved frame 36
+2025-01-22 22:10:55: Frame processing time: 0.29 seconds
+2025-01-22 22:10:55: Successfully saved frame 37
+2025-01-22 22:10:56: Frame processing time: 0.25 seconds
+2025-01-22 22:10:56: Successfully saved frame 38
+2025-01-22 22:10:56: Frame processing time: 0.27 seconds
+2025-01-22 22:10:56: Successfully saved frame 39
+2025-01-22 22:10:56: Frame processing time: 0.25 seconds
+2025-01-22 22:10:56: Successfully saved frame 40
+2025-01-22 22:10:57: Frame processing time: 0.27 seconds
+2025-01-22 22:10:57: Successfully saved frame 41
+2025-01-22 22:10:57: Frame processing time: 0.30 seconds
+2025-01-22 22:10:57: Successfully saved frame 42
+2025-01-22 22:10:57: Frame processing time: 0.32 seconds
+2025-01-22 22:10:57: Successfully saved frame 43
+2025-01-22 22:10:58: Frame processing time: 0.40 seconds
+2025-01-22 22:10:58: Successfully saved frame 44
+2025-01-22 22:10:58: Frame processing time: 0.31 seconds
+2025-01-22 22:10:58: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:10:58: Successfully saved frame 45
+2025-01-22 22:10:58: Frame processing time: 0.28 seconds
+2025-01-22 22:10:58: Successfully saved frame 46
+2025-01-22 22:10:59: Frame processing time: 0.30 seconds
+2025-01-22 22:10:59: Successfully saved frame 47
+2025-01-22 22:10:59: Frame processing time: 0.31 seconds
+2025-01-22 22:10:59: Successfully saved frame 48
+2025-01-22 22:10:59: Frame processing time: 0.26 seconds
+2025-01-22 22:10:59: Successfully saved frame 49
+2025-01-22 22:11:00: Frame processing time: 0.31 seconds
+2025-01-22 22:11:00: Successfully saved frame 50
+2025-01-22 22:11:00: Frame processing time: 0.27 seconds
+2025-01-22 22:11:00: Successfully saved frame 51
+2025-01-22 22:11:00: Frame processing time: 0.26 seconds
+2025-01-22 22:11:00: Successfully saved frame 52
+2025-01-22 22:11:00: Frame processing time: 0.26 seconds
+2025-01-22 22:11:00: Successfully saved frame 53
+2025-01-22 22:11:01: Frame processing time: 0.29 seconds
+2025-01-22 22:11:01: Successfully saved frame 54
+2025-01-22 22:11:01: Frame processing time: 0.27 seconds
+2025-01-22 22:11:01: Successfully saved frame 55
+2025-01-22 22:11:01: Frame processing time: 0.24 seconds
+2025-01-22 22:11:01: Successfully saved frame 56
+2025-01-22 22:11:02: Frame processing time: 0.35 seconds
+2025-01-22 22:11:02: Successfully saved frame 57
+2025-01-22 22:11:02: Frame processing time: 0.27 seconds
+2025-01-22 22:11:02: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:11:02: Successfully saved frame 58
+2025-01-22 22:11:02: Frame processing time: 0.29 seconds
+2025-01-22 22:11:02: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:11:02: Successfully saved frame 59
+2025-01-22 22:11:03: Frame processing time: 0.24 seconds
+2025-01-22 22:11:03: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:11:03: Successfully saved frame 60
+2025-01-22 22:11:03: Frame processing time: 0.28 seconds
+2025-01-22 22:11:03: Successfully saved frame 61
+2025-01-22 22:11:03: Frame processing time: 0.24 seconds
+2025-01-22 22:11:03: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:11:03: Successfully saved frame 62
+2025-01-22 22:11:03: Frame processing time: 0.33 seconds
+2025-01-22 22:11:04: Successfully saved frame 63
+2025-01-22 22:11:04: Frame processing time: 0.30 seconds
+2025-01-22 22:11:04: Successfully saved frame 64
+2025-01-22 22:11:04: Frame processing time: 0.28 seconds
+2025-01-22 22:11:04: Successfully saved frame 65
+2025-01-22 22:11:04: Frame processing time: 0.32 seconds
+2025-01-22 22:11:04: Successfully saved frame 66
+2025-01-22 22:11:05: Frame processing time: 0.28 seconds
+2025-01-22 22:11:05: Successfully saved frame 67
+2025-01-22 22:11:05: Frame processing time: 0.30 seconds
+2025-01-22 22:11:05: Successfully saved frame 68
+2025-01-22 22:11:05: Frame processing time: 0.29 seconds
+2025-01-22 22:11:05: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:11:05: Successfully saved frame 69
+2025-01-22 22:11:06: Frame processing time: 0.29 seconds
+2025-01-22 22:11:06: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:11:06: Successfully saved frame 70
+2025-01-22 22:11:06: Frame processing time: 0.28 seconds
+2025-01-22 22:11:06: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:11:06: Successfully saved frame 71
+2025-01-22 22:11:06: Frame processing time: 0.28 seconds
+2025-01-22 22:11:06: Successfully saved frame 72
+2025-01-22 22:11:07: Frame processing time: 0.29 seconds
+2025-01-22 22:11:07: Successfully saved frame 73
+2025-01-22 22:11:07: Frame processing time: 0.30 seconds
+2025-01-22 22:11:07: Successfully saved frame 74
+2025-01-22 22:11:07: Frame processing time: 0.32 seconds
+2025-01-22 22:11:07: Successfully saved frame 75
+2025-01-22 22:11:08: Frame processing time: 0.30 seconds
+2025-01-22 22:11:08: Successfully saved frame 76
+2025-01-22 22:11:08: Frame processing time: 0.36 seconds
+2025-01-22 22:11:08: Successfully saved frame 77
+2025-01-22 22:11:08: Frame processing time: 0.31 seconds
+2025-01-22 22:11:08: Successfully saved frame 78
+2025-01-22 22:11:09: Frame processing time: 0.30 seconds
+2025-01-22 22:11:09: Successfully saved frame 79
+2025-01-22 22:11:09: Frame processing time: 0.31 seconds
+2025-01-22 22:11:09: Successfully saved frame 80
+2025-01-22 22:11:09: Frame processing time: 0.29 seconds
+2025-01-22 22:11:09: Successfully saved frame 81
+2025-01-22 22:11:10: Frame processing time: 0.30 seconds
+2025-01-22 22:11:10: Successfully saved frame 82
+2025-01-22 22:11:10: Frame processing time: 0.31 seconds
+2025-01-22 22:11:10: Successfully saved frame 83
+2025-01-22 22:11:10: Frame processing time: 0.30 seconds
+2025-01-22 22:11:10: Successfully saved frame 84
+2025-01-22 22:11:11: Frame processing time: 0.36 seconds
+2025-01-22 22:11:11: Successfully saved frame 85
+2025-01-22 22:11:11: End of video reached
+2025-01-22 22:11:11: Frame processing time: 0.34 seconds
+2025-01-22 22:11:11: Successfully saved frame 86
+2025-01-22 22:11:11: Frame processing time: 0.28 seconds
+2025-01-22 22:11:11: Successfully saved frame 87
+2025-01-22 22:11:12: Frame processing time: 0.24 seconds
+2025-01-22 22:11:12: Successfully saved frame 88
+2025-01-22 22:18:16: Video loaded: C:/Users/Jason/Desktop/skudetectionapp/cam1_FM002_FM003_caesar_soba_160125_220125.mp4
+2025-01-22 22:18:20: Video processing started
+2025-01-22 22:18:20: Receive thread alive: True
+2025-01-22 22:18:20: Display thread alive: True
+2025-01-22 22:18:20: Total frames in video: 889
+2025-01-22 22:18:21: Frame processing time: 1.50 seconds
+2025-01-22 22:18:21: Successfully saved frame 1
+2025-01-22 22:18:21: Frame processing time: 0.15 seconds
+2025-01-22 22:18:21: Successfully saved frame 2
+2025-01-22 22:18:22: Frame processing time: 0.14 seconds
+2025-01-22 22:18:22: Successfully saved frame 3
+2025-01-22 22:18:22: Frame processing time: 0.16 seconds
+2025-01-22 22:18:22: Successfully saved frame 4
+2025-01-22 22:18:22: Frame processing time: 0.16 seconds
+2025-01-22 22:18:22: Successfully saved frame 5
+2025-01-22 22:18:22: Frame processing time: 0.15 seconds
+2025-01-22 22:18:22: Successfully saved frame 6
+2025-01-22 22:18:22: Frame processing time: 0.13 seconds
+2025-01-22 22:18:22: Successfully saved frame 7
+2025-01-22 22:18:22: Frame processing time: 0.17 seconds
+2025-01-22 22:18:22: Successfully saved frame 8
+2025-01-22 22:18:23: Frame processing time: 0.17 seconds
+2025-01-22 22:18:23: Successfully saved frame 9
+2025-01-22 22:18:23: Frame processing time: 0.16 seconds
+2025-01-22 22:18:23: Successfully saved frame 10
+2025-01-22 22:18:23: Frame processing time: 0.18 seconds
+2025-01-22 22:18:23: Successfully saved frame 11
+2025-01-22 22:18:23: Frame processing time: 0.14 seconds
+2025-01-22 22:18:23: Successfully saved frame 12
+2025-01-22 22:18:23: Frame processing time: 0.14 seconds
+2025-01-22 22:18:23: Successfully saved frame 13
+2025-01-22 22:18:23: Frame processing time: 0.13 seconds
+2025-01-22 22:18:23: Successfully saved frame 14
+2025-01-22 22:18:24: Frame processing time: 0.14 seconds
+2025-01-22 22:18:24: Successfully saved frame 15
+2025-01-22 22:18:24: Frame processing time: 0.13 seconds
+2025-01-22 22:18:24: Successfully saved frame 16
+2025-01-22 22:18:24: Frame processing time: 0.14 seconds
+2025-01-22 22:18:24: Successfully saved frame 17
+2025-01-22 22:18:24: Frame processing time: 0.15 seconds
+2025-01-22 22:18:24: Successfully saved frame 18
+2025-01-22 22:18:24: Frame processing time: 0.17 seconds
+2025-01-22 22:18:24: Successfully saved frame 19
+2025-01-22 22:18:24: Frame processing time: 0.16 seconds
+2025-01-22 22:18:24: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:24: Successfully saved frame 20
+2025-01-22 22:18:25: Frame processing time: 0.15 seconds
+2025-01-22 22:18:25: Successfully saved frame 21
+2025-01-22 22:18:25: Frame processing time: 0.16 seconds
+2025-01-22 22:18:25: Successfully saved frame 22
+2025-01-22 22:18:25: Frame processing time: 0.17 seconds
+2025-01-22 22:18:25: Successfully saved frame 23
+2025-01-22 22:18:25: Frame processing time: 0.17 seconds
+2025-01-22 22:18:25: Successfully saved frame 24
+2025-01-22 22:18:25: Frame processing time: 0.26 seconds
+2025-01-22 22:18:25: Successfully saved frame 25
+2025-01-22 22:18:26: Frame processing time: 0.22 seconds
+2025-01-22 22:18:26: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:26: Successfully saved frame 26
+2025-01-22 22:18:26: Frame processing time: 0.28 seconds
+2025-01-22 22:18:26: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:26: Successfully saved frame 27
+2025-01-22 22:18:26: Frame processing time: 0.25 seconds
+2025-01-22 22:18:26: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:26: Successfully saved frame 28
+2025-01-22 22:18:27: Frame processing time: 0.24 seconds
+2025-01-22 22:18:27: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:27: Successfully saved frame 29
+2025-01-22 22:18:27: Frame processing time: 0.24 seconds
+2025-01-22 22:18:27: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:27: Successfully saved frame 30
+2025-01-22 22:18:27: Frame processing time: 0.30 seconds
+2025-01-22 22:18:27: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:27: Successfully saved frame 31
+2025-01-22 22:18:27: Frame processing time: 0.30 seconds
+2025-01-22 22:18:27: Successfully saved frame 32
+2025-01-22 22:18:28: Frame processing time: 0.32 seconds
+2025-01-22 22:18:28: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:28: Successfully saved frame 33
+2025-01-22 22:18:28: Frame processing time: 0.32 seconds
+2025-01-22 22:18:28: Successfully saved frame 34
+2025-01-22 22:18:28: Frame processing time: 0.29 seconds
+2025-01-22 22:18:29: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:29: Successfully saved frame 35
+2025-01-22 22:18:29: Frame processing time: 0.30 seconds
+2025-01-22 22:18:29: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:29: Successfully saved frame 36
+2025-01-22 22:18:29: Frame processing time: 0.29 seconds
+2025-01-22 22:18:29: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:29: Successfully saved frame 37
+2025-01-22 22:18:29: Frame processing time: 0.25 seconds
+2025-01-22 22:18:29: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:29: Successfully saved frame 38
+2025-01-22 22:18:30: Frame processing time: 0.23 seconds
+2025-01-22 22:18:30: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:30: Successfully saved frame 39
+2025-01-22 22:18:30: Frame processing time: 0.25 seconds
+2025-01-22 22:18:30: Successfully saved frame 40
+2025-01-22 22:18:30: Frame processing time: 0.30 seconds
+2025-01-22 22:18:30: Successfully saved frame 41
+2025-01-22 22:18:31: Frame processing time: 0.28 seconds
+2025-01-22 22:18:31: Successfully saved frame 42
+2025-01-22 22:18:31: Frame processing time: 0.26 seconds
+2025-01-22 22:18:31: Successfully saved frame 43
+2025-01-22 22:18:31: Frame processing time: 0.27 seconds
+2025-01-22 22:18:31: Successfully saved frame 44
+2025-01-22 22:18:31: Frame processing time: 0.21 seconds
+2025-01-22 22:18:31: Successfully saved frame 45
+2025-01-22 22:18:32: Frame processing time: 0.23 seconds
+2025-01-22 22:18:32: Successfully saved frame 46
+2025-01-22 22:18:32: Frame processing time: 0.22 seconds
+2025-01-22 22:18:32: Successfully saved frame 47
+2025-01-22 22:18:32: Frame processing time: 0.24 seconds
+2025-01-22 22:18:32: Successfully saved frame 48
+2025-01-22 22:18:32: Frame processing time: 0.22 seconds
+2025-01-22 22:18:32: Successfully saved frame 49
+2025-01-22 22:18:33: Frame processing time: 0.24 seconds
+2025-01-22 22:18:33: Successfully saved frame 50
+2025-01-22 22:18:33: Frame processing time: 0.29 seconds
+2025-01-22 22:18:33: Successfully saved frame 51
+2025-01-22 22:18:33: Frame processing time: 0.27 seconds
+2025-01-22 22:18:33: Successfully saved frame 52
+2025-01-22 22:18:34: Frame processing time: 0.25 seconds
+2025-01-22 22:18:34: Successfully saved frame 53
+2025-01-22 22:18:34: Frame processing time: 0.26 seconds
+2025-01-22 22:18:34: Successfully saved frame 54
+2025-01-22 22:18:34: Frame processing time: 0.23 seconds
+2025-01-22 22:18:34: Successfully saved frame 55
+2025-01-22 22:18:34: Frame processing time: 0.21 seconds
+2025-01-22 22:18:34: Successfully saved frame 56
+2025-01-22 22:18:35: Frame processing time: 0.25 seconds
+2025-01-22 22:18:35: Successfully saved frame 57
+2025-01-22 22:18:35: Frame processing time: 0.26 seconds
+2025-01-22 22:18:35: Successfully saved frame 58
+2025-01-22 22:18:35: Frame processing time: 0.29 seconds
+2025-01-22 22:18:35: Successfully saved frame 59
+2025-01-22 22:18:35: Frame processing time: 0.25 seconds
+2025-01-22 22:18:36: Successfully saved frame 60
+2025-01-22 22:18:36: Frame processing time: 0.25 seconds
+2025-01-22 22:18:36: Successfully saved frame 61
+2025-01-22 22:18:36: Frame processing time: 0.24 seconds
+2025-01-22 22:18:36: Successfully saved frame 62
+2025-01-22 22:18:36: Frame processing time: 0.24 seconds
+2025-01-22 22:18:36: Successfully saved frame 63
+2025-01-22 22:18:37: Frame processing time: 0.27 seconds
+2025-01-22 22:18:37: Successfully saved frame 64
+2025-01-22 22:18:37: Frame processing time: 0.23 seconds
+2025-01-22 22:18:37: Successfully saved frame 65
+2025-01-22 22:18:37: Frame processing time: 0.28 seconds
+2025-01-22 22:18:37: Successfully saved frame 66
+2025-01-22 22:18:37: Frame processing time: 0.25 seconds
+2025-01-22 22:18:37: Successfully saved frame 67
+2025-01-22 22:18:38: Frame processing time: 0.26 seconds
+2025-01-22 22:18:38: Successfully saved frame 68
+2025-01-22 22:18:38: Frame processing time: 0.28 seconds
+2025-01-22 22:18:38: Successfully saved frame 69
+2025-01-22 22:18:38: Frame processing time: 0.29 seconds
+2025-01-22 22:18:38: Successfully saved frame 70
+2025-01-22 22:18:39: Frame processing time: 0.23 seconds
+2025-01-22 22:18:39: Successfully saved frame 71
+2025-01-22 22:18:39: Frame processing time: 0.22 seconds
+2025-01-22 22:18:39: Successfully saved frame 72
+2025-01-22 22:18:39: Frame processing time: 0.21 seconds
+2025-01-22 22:18:39: Successfully saved frame 73
+2025-01-22 22:18:39: Frame processing time: 0.22 seconds
+2025-01-22 22:18:39: Successfully saved frame 74
+2025-01-22 22:18:40: Frame processing time: 0.21 seconds
+2025-01-22 22:18:40: Successfully saved frame 75
+2025-01-22 22:18:40: Frame processing time: 0.22 seconds
+2025-01-22 22:18:40: Successfully saved frame 76
+2025-01-22 22:18:40: Frame processing time: 0.20 seconds
+2025-01-22 22:18:40: Successfully saved frame 77
+2025-01-22 22:18:40: Frame processing time: 0.22 seconds
+2025-01-22 22:18:40: Successfully saved frame 78
+2025-01-22 22:18:41: Frame processing time: 0.30 seconds
+2025-01-22 22:18:41: Successfully saved frame 79
+2025-01-22 22:18:41: Frame processing time: 0.31 seconds
+2025-01-22 22:18:41: Successfully saved frame 80
+2025-01-22 22:18:41: Frame processing time: 0.26 seconds
+2025-01-22 22:18:41: Successfully saved frame 81
+2025-01-22 22:18:41: Frame processing time: 0.30 seconds
+2025-01-22 22:18:42: Successfully saved frame 82
+2025-01-22 22:18:42: Frame processing time: 0.25 seconds
+2025-01-22 22:18:42: Successfully saved frame 83
+2025-01-22 22:18:42: Frame processing time: 0.24 seconds
+2025-01-22 22:18:42: Successfully saved frame 84
+2025-01-22 22:18:42: Frame processing time: 0.21 seconds
+2025-01-22 22:18:42: Successfully saved frame 85
+2025-01-22 22:18:43: Frame processing time: 0.23 seconds
+2025-01-22 22:18:43: Successfully saved frame 86
+2025-01-22 22:18:43: Frame processing time: 0.27 seconds
+2025-01-22 22:18:43: Successfully saved frame 87
+2025-01-22 22:18:43: Frame processing time: 0.23 seconds
+2025-01-22 22:18:43: Successfully saved frame 88
+2025-01-22 22:18:43: Frame processing time: 0.25 seconds
+2025-01-22 22:18:43: Successfully saved frame 89
+2025-01-22 22:18:44: Frame processing time: 0.25 seconds
+2025-01-22 22:18:44: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:44: Successfully saved frame 90
+2025-01-22 22:18:44: Frame processing time: 0.22 seconds
+2025-01-22 22:18:44: Successfully saved frame 91
+2025-01-22 22:18:44: Frame processing time: 0.21 seconds
+2025-01-22 22:18:44: Successfully saved frame 92
+2025-01-22 22:18:44: Frame processing time: 0.24 seconds
+2025-01-22 22:18:44: Successfully saved frame 93
+2025-01-22 22:18:45: Frame processing time: 0.24 seconds
+2025-01-22 22:18:45: Successfully saved frame 94
+2025-01-22 22:18:45: Frame processing time: 0.24 seconds
+2025-01-22 22:18:45: Successfully saved frame 95
+2025-01-22 22:18:45: Frame processing time: 0.37 seconds
+2025-01-22 22:18:45: Successfully saved frame 96
+2025-01-22 22:18:46: Frame processing time: 0.26 seconds
+2025-01-22 22:18:46: Successfully saved frame 97
+2025-01-22 22:18:46: Frame processing time: 0.27 seconds
+2025-01-22 22:18:46: Successfully saved frame 98
+2025-01-22 22:18:46: Frame processing time: 0.22 seconds
+2025-01-22 22:18:46: Successfully saved frame 99
+2025-01-22 22:18:46: Frame processing time: 0.25 seconds
+2025-01-22 22:18:46: Successfully saved frame 100
+2025-01-22 22:18:47: Frame processing time: 0.22 seconds
+2025-01-22 22:18:47: Successfully saved frame 101
+2025-01-22 22:18:47: Frame processing time: 0.24 seconds
+2025-01-22 22:18:47: Successfully saved frame 102
+2025-01-22 22:18:47: Frame processing time: 0.23 seconds
+2025-01-22 22:18:47: Successfully saved frame 103
+2025-01-22 22:18:47: Frame processing time: 0.22 seconds
+2025-01-22 22:18:47: Successfully saved frame 104
+2025-01-22 22:18:48: Frame processing time: 0.23 seconds
+2025-01-22 22:18:48: Successfully saved frame 105
+2025-01-22 22:18:48: Frame processing time: 0.26 seconds
+2025-01-22 22:18:48: Successfully saved frame 106
+2025-01-22 22:18:48: Frame processing time: 0.25 seconds
+2025-01-22 22:18:48: Successfully saved frame 107
+2025-01-22 22:18:48: Frame processing time: 0.24 seconds
+2025-01-22 22:18:48: Successfully saved frame 108
+2025-01-22 22:18:49: Frame processing time: 0.23 seconds
+2025-01-22 22:18:49: Successfully saved frame 109
+2025-01-22 22:18:49: Frame processing time: 0.22 seconds
+2025-01-22 22:18:49: Successfully saved frame 110
+2025-01-22 22:18:49: Frame processing time: 0.22 seconds
+2025-01-22 22:18:49: Successfully saved frame 111
+2025-01-22 22:18:49: Frame processing time: 0.23 seconds
+2025-01-22 22:18:49: Successfully saved frame 112
+2025-01-22 22:18:50: Frame processing time: 0.24 seconds
+2025-01-22 22:18:50: Successfully saved frame 113
+2025-01-22 22:18:50: Frame processing time: 0.27 seconds
+2025-01-22 22:18:50: Successfully saved frame 114
+2025-01-22 22:18:50: Frame processing time: 0.23 seconds
+2025-01-22 22:18:50: Successfully saved frame 115
+2025-01-22 22:18:51: Frame processing time: 0.24 seconds
+2025-01-22 22:18:51: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:51: Successfully saved frame 116
+2025-01-22 22:18:51: Frame processing time: 0.26 seconds
+2025-01-22 22:18:51: Successfully saved frame 117
+2025-01-22 22:18:51: Frame processing time: 0.26 seconds
+2025-01-22 22:18:51: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:51: Successfully saved frame 118
+2025-01-22 22:18:51: Frame processing time: 0.30 seconds
+2025-01-22 22:18:51: Successfully saved frame 119
+2025-01-22 22:18:52: Frame processing time: 0.27 seconds
+2025-01-22 22:18:52: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:52: Successfully saved frame 120
+2025-01-22 22:18:52: Frame processing time: 0.22 seconds
+2025-01-22 22:18:52: Successfully saved frame 121
+2025-01-22 22:18:52: Frame processing time: 0.23 seconds
+2025-01-22 22:18:52: Successfully saved frame 122
+2025-01-22 22:18:52: Frame processing time: 0.21 seconds
+2025-01-22 22:18:52: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:52: Successfully saved frame 123
+2025-01-22 22:18:53: Frame processing time: 0.28 seconds
+2025-01-22 22:18:53: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:53: Successfully saved frame 124
+2025-01-22 22:18:53: Frame processing time: 0.21 seconds
+2025-01-22 22:18:53: Successfully saved frame 125
+2025-01-22 22:18:53: Frame processing time: 0.22 seconds
+2025-01-22 22:18:53: Successfully saved frame 126
+2025-01-22 22:18:53: Frame processing time: 0.22 seconds
+2025-01-22 22:18:54: Successfully saved frame 127
+2025-01-22 22:18:54: Frame processing time: 0.23 seconds
+2025-01-22 22:18:54: Successfully saved frame 128
+2025-01-22 22:18:54: Frame processing time: 0.25 seconds
+2025-01-22 22:18:54: Successfully saved frame 129
+2025-01-22 22:18:54: Frame processing time: 0.23 seconds
+2025-01-22 22:18:54: Successfully saved frame 130
+2025-01-22 22:18:54: Frame processing time: 0.21 seconds
+2025-01-22 22:18:55: Successfully saved frame 131
+2025-01-22 22:18:55: Frame processing time: 0.20 seconds
+2025-01-22 22:18:55: Successfully saved frame 132
+2025-01-22 22:18:55: Frame processing time: 0.21 seconds
+2025-01-22 22:18:55: Successfully saved frame 133
+2025-01-22 22:18:55: Frame processing time: 0.21 seconds
+2025-01-22 22:18:55: Successfully saved frame 134
+2025-01-22 22:18:55: Frame processing time: 0.23 seconds
+2025-01-22 22:18:55: Successfully saved frame 135
+2025-01-22 22:18:56: Frame processing time: 0.24 seconds
+2025-01-22 22:18:56: Successfully saved frame 136
+2025-01-22 22:18:56: Frame processing time: 0.26 seconds
+2025-01-22 22:18:56: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:56: Successfully saved frame 137
+2025-01-22 22:18:56: Frame processing time: 0.30 seconds
+2025-01-22 22:18:56: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:56: Successfully saved frame 138
+2025-01-22 22:18:57: Frame processing time: 0.26 seconds
+2025-01-22 22:18:57: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:57: Successfully saved frame 139
+2025-01-22 22:18:57: Frame processing time: 0.22 seconds
+2025-01-22 22:18:57: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:57: Successfully saved frame 140
+2025-01-22 22:18:57: Frame processing time: 0.21 seconds
+2025-01-22 22:18:57: Successfully saved frame 141
+2025-01-22 22:18:57: Frame processing time: 0.20 seconds
+2025-01-22 22:18:57: Warning: Label salad purple not found in SKU_MAPPING
+2025-01-22 22:18:57: Successfully saved frame 142
+2025-01-22 22:18:58: Frame processing time: 0.21 seconds
+2025-01-22 22:18:58: Successfully saved frame 143
+2025-01-22 22:18:58: Frame processing time: 0.26 seconds
+2025-01-22 22:18:58: Successfully saved frame 144
+2025-01-22 22:18:58: Frame processing time: 0.21 seconds
+2025-01-22 22:18:58: Successfully saved frame 145
+2025-01-22 22:18:58: Frame processing time: 0.23 seconds
+2025-01-22 22:18:58: Successfully saved frame 146
+2025-01-22 22:18:59: Frame processing time: 0.22 seconds
+2025-01-22 22:18:59: Successfully saved frame 147
+2025-01-22 22:18:59: Frame processing time: 0.21 seconds
+2025-01-22 22:18:59: Successfully saved frame 148
+2025-01-22 22:18:59: Frame processing time: 0.28 seconds
+2025-01-22 22:18:59: Successfully saved frame 149
+2025-01-22 22:18:59: Frame processing time: 0.27 seconds
+2025-01-22 22:18:59: Successfully saved frame 150
+2025-01-22 22:19:00: Frame processing time: 0.27 seconds
+2025-01-22 22:19:00: Successfully saved frame 151
+2025-01-22 22:19:00: Frame processing time: 0.29 seconds
+2025-01-22 22:19:00: Successfully saved frame 152
+2025-01-22 22:19:00: Frame processing time: 0.28 seconds
+2025-01-22 22:19:00: Successfully saved frame 153
+2025-01-22 22:19:01: Frame processing time: 0.26 seconds
+2025-01-22 22:19:01: Successfully saved frame 154
+2025-01-22 22:19:01: Frame processing time: 0.25 seconds
+2025-01-22 22:19:01: Successfully saved frame 155
+2025-01-22 22:19:01: Frame processing time: 0.28 seconds
+2025-01-22 22:19:01: Successfully saved frame 156
+2025-01-22 22:19:01: Frame processing time: 0.28 seconds
+2025-01-22 22:19:01: Successfully saved frame 157
+2025-01-22 22:19:02: Frame processing time: 0.28 seconds
+2025-01-22 22:19:02: Successfully saved frame 158
+2025-01-22 22:19:02: Frame processing time: 0.22 seconds
+2025-01-22 22:19:02: Successfully saved frame 159
+2025-01-22 22:19:02: Frame processing time: 0.22 seconds
+2025-01-22 22:19:02: Successfully saved frame 160
+2025-01-22 22:19:03: Frame processing time: 0.20 seconds
+2025-01-22 22:19:03: Successfully saved frame 161
+2025-01-22 22:19:03: Frame processing time: 0.27 seconds
+2025-01-22 22:19:03: Successfully saved frame 162
+2025-01-22 22:19:03: Frame processing time: 0.29 seconds
+2025-01-22 22:19:03: Successfully saved frame 163
+2025-01-22 22:19:03: Frame processing time: 0.23 seconds
+2025-01-22 22:19:03: Successfully saved frame 164
+2025-01-22 22:19:04: Frame processing time: 0.23 seconds
+2025-01-22 22:19:04: Successfully saved frame 165
+2025-01-22 22:19:04: Frame processing time: 0.22 seconds
+2025-01-22 22:19:04: Successfully saved frame 166
+2025-01-22 22:19:04: Frame processing time: 0.29 seconds
+2025-01-22 22:19:04: Successfully saved frame 167
+2025-01-22 22:19:04: Frame processing time: 0.24 seconds
+2025-01-22 22:19:05: Successfully saved frame 168
+2025-01-22 22:19:05: Frame processing time: 0.22 seconds
+2025-01-22 22:19:05: Successfully saved frame 169
+2025-01-22 22:19:05: Frame processing time: 0.22 seconds
+2025-01-22 22:19:05: Successfully saved frame 170
+2025-01-22 22:19:05: Frame processing time: 0.25 seconds
+2025-01-22 22:19:05: Successfully saved frame 171
+2025-01-22 22:19:05: End of video reached
+2025-01-22 22:19:06: Frame processing time: 0.25 seconds
+2025-01-22 22:19:06: Successfully saved frame 172
+2025-01-22 22:19:06: Frame processing time: 0.28 seconds
+2025-01-22 22:19:06: Successfully saved frame 173
+2025-01-22 22:19:06: Frame processing time: 0.30 seconds
+2025-01-22 22:19:06: Successfully saved frame 174
+2025-01-22 22:19:06: Frame processing time: 0.26 seconds
+2025-01-22 22:19:07: Successfully saved frame 175
+2025-01-22 22:19:07: Frame processing time: 0.20 seconds
+2025-01-22 22:19:07: Successfully saved frame 176
+2025-01-22 22:19:07: Frame processing time: 0.20 seconds
+2025-01-22 22:19:07: Successfully saved frame 177
