@@ -9,6 +9,8 @@ from ultralytics import YOLO
 from PySide6.QtWidgets import QApplication, QLabel, QVBoxLayout, QPushButton, QWidget, QFileDialog
 from PySide6.QtGui import QImage, QPixmap
 from PySide6.QtCore import QTimer, Qt
+import zipfile
+import shutil
 
 # SKU mapping
 SKU_MAPPING = {
@@ -17,7 +19,7 @@ SKU_MAPPING = {
     "pudding": 2706,
     "yogurt": 2604,
     "salad green": 11011,
-    "salad green": 11012
+    "salad purple": 11012
 }
 
 class YOLOVideoApp(QWidget):
@@ -150,6 +152,8 @@ class YOLOVideoApp(QWidget):
                         self.queue_status_label.setText(f"Queue Status: {self.queue.qsize()}/{self.max_queue_size}")
                     else:
                         self.log_debug("End of video reached")
+                        # Prepare CVAT export when video ends
+                        self.prepare_cvat_upload()
                         break
                 else:
                     time.sleep(0.1)
@@ -204,10 +208,10 @@ class YOLOVideoApp(QWidget):
             self.log_debug(f"Error in display_frames: {str(e)}")
 
     def save_frame_and_annotations(self, frame, results):
-        """Save frame and its annotations with enhanced debugging"""
         try:
-            image_path = os.path.join(self.output_dir, "images", f"frame_{self.frame_count:06d}.jpg")
-            label_path = os.path.join(self.output_dir, "labels", f"frame_{self.frame_count:06d}.txt")
+            base_name = f"frame_{self.frame_count:06d}"
+            image_path = os.path.join(self.output_dir, "images", f"{base_name}.jpg")
+            label_path = os.path.join(self.output_dir, "labels", f"{base_name}.txt")
 
             # Debug print
             print(f"\nProcessing results for frame {self.frame_count}")
@@ -372,6 +376,78 @@ class YOLOVideoApp(QWidget):
                        cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 255, 0), 2)
             
         cv2.imwrite(os.path.join(debug_dir, f"debug_frame_{frame_number}.jpg"), debug_frame)
+
+    def prepare_cvat_files(self):
+        """Prepare necessary files for CVAT YOLO format"""
+        try:
+            # Create cvat_dataset directory
+            cvat_dataset_dir = "cvat_dataset"
+            obj_train_data_dir = os.path.join(cvat_dataset_dir, "obj_train_data")
+            os.makedirs(cvat_dataset_dir, exist_ok=True)
+            os.makedirs(obj_train_data_dir, exist_ok=True)
+
+            # Create obj.names file
+            with open(os.path.join(cvat_dataset_dir, "obj.names"), 'w') as f:
+                for class_name in SKU_MAPPING.keys():
+                    f.write(f"{class_name}\n")
+
+            # Create obj.data file
+            with open(os.path.join(cvat_dataset_dir, "obj.data"), 'w') as f:
+                f.write(f"classes = {len(SKU_MAPPING)}\n")
+                f.write("train = train.txt\n")
+                f.write("names = obj.names\n")
+                f.write("backup = backup/\n")
+
+            # Copy images and labels to obj_train_data
+            images_dir = os.path.join(self.output_dir, "images")
+            labels_dir = os.path.join(self.output_dir, "labels")
+        
+            # Create train.txt with proper paths
+            with open(os.path.join(cvat_dataset_dir, "train.txt"), 'w') as f:
+                for image in os.listdir(images_dir):
+                    if image.endswith(('.jpg', '.jpeg', '.png')):
+                        # Copy image
+                        shutil.copy2(
+                            os.path.join(images_dir, image),
+                            os.path.join(obj_train_data_dir, image)
+                        )
+                    
+                        # Copy corresponding label file
+                        label_file = image.rsplit('.', 1)[0] + '.txt'
+                        if os.path.exists(os.path.join(labels_dir, label_file)):
+                            shutil.copy2(
+                                os.path.join(labels_dir, label_file),
+                                os.path.join(obj_train_data_dir, label_file)
+                            )
+                    
+                        # Write to train.txt
+                        f.write(f"obj_train_data/{image}\n")
+
+            self.log_debug("Created CVAT YOLO format configuration files")
+
+        except Exception as e:
+            self.log_debug(f"Error preparing CVAT files: {str(e)}")
+
+    def prepare_cvat_upload(self):
+        """Prepare dataset for CVAT upload"""
+        try:
+            # First ensure all configuration files are created
+            self.prepare_cvat_files()
+
+            # Create a zip file containing everything
+            dataset_zip = "cvat_dataset.zip"
+            with zipfile.ZipFile(dataset_zip, 'w') as zipf:
+                # Add all files from cvat_dataset directory
+                for root, dirs, files in os.walk("cvat_dataset"):
+                    for file in files:
+                        file_path = os.path.join(root, file)
+                        arcname = os.path.relpath(file_path, "cvat_dataset")
+                        zipf.write(file_path, arcname)
+
+            self.log_debug(f"Created {dataset_zip} for CVAT upload")
+
+        except Exception as e:
+            self.log_debug(f"Error preparing CVAT upload: {str(e)}")
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
