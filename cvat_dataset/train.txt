@@ -169,3 +169,9 @@ obj_train_data/frame_000167.jpg
 obj_train_data/frame_000168.jpg
 obj_train_data/frame_000169.jpg
 obj_train_data/frame_000170.jpg
+obj_train_data/frame_000171.jpg
+obj_train_data/frame_000172.jpg
+obj_train_data/frame_000173.jpg
+obj_train_data/frame_000174.jpg
+obj_train_data/frame_000175.jpg
+obj_train_data/frame_000176.jpg
