@@ -160,5 +160,10 @@ except Exception as e:
 # sudo apt -y install libgl1-mesa-glx
 # pip3 install --upgrade pip
 # python3.9 -m pip install fastdup
+# in case of cant find images 
+# In WSL terminal
+# mkdir -p ~/fastdup_images
+# cp -r /mnt/c/Users/Jason/Desktop/skudetectionapp/fastdup/images/default/* ~/fastdup_images/
+# ls -la ~/fastdup_images  # Verify files were copied
 # to run
 # in wsl run python3.9 /mnt/c/Users/Jason/Desktop/skudetectionapp/fastdup/main.py
