@@ -1,0 +1,46 @@
+1 sudo apt update && sudo apt upgrade -y
+2 sudo apt install python3 python3-pip git -y
+3 python3 --version
+4 sudo apt install unzip
+5 unzip generic_cam1_drinks_FM002_FM003_220125_yolo.zip
+6 sudo apt install python3.10-venv
+7 python3 -m venv yolo_env
+8 source yolo_env/bin/activate
+9 sudo nano data.yaml
+10 cd generic_cam1_drinks_FM002_FM003_220125_yolo
+11 ls
+12 mv images ~/
+13 mv labels ~/
+14 cd ~
+15 ls
+16 pip install ultralytics
+17 sudo apt install nvidia-cuda-toolkit
+18 nvcc --version
+19 nvidia-smi
+20 lspci | grep -i nvidia
+21 sudo apt-get update
+22 sudo apt-get install -y ubuntu-drivers-common
+23 sudo apt-get update
+24 ubuntu-drivers devices
+25 sudo reboot
+26 source yolo_env/bin/activate
+27 yolo task=detect mode=train model=yolov8n.pt data=/home/reca/data.yaml epochs=10 imgsz=640 device=0
+28 ls
+29 cd runs/detect/train3
+30 ls
+31 cd weights
+32 ls
+33 history
+
+sudo apt-get purge nvidia*
+sudo apt-get autoremove
+
+# Add NVIDIA package repositories
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-keyring_1.1-1_all.deb
+sudo dpkg -i cuda-keyring_1.1-1_all.deb
+sudo apt-get update
+
+# Install NVIDIA driver and CUDA
+sudo apt-get -y install cuda-drivers
+
+

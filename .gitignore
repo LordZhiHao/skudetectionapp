@@ -12,3 +12,5 @@ fastdup/images
 output_dataset/
 cvat_dataset/
 debug_images/
+generic_yolo_training_results/generic_model_training.zip
+generic_yolo_training_results/generic_model_training/

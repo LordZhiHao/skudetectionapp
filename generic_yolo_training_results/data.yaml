@@ -1,0 +1,41 @@
+train: /images/train # Path to training images
+val: /images/val # Path to validation images
+
+nc: 1 # Number of classes
+names: ["Object"] # List of class names
+# names: [
+#     "Salad Green",
+#     "Salad Orange",
+#     "Salad Purple",
+#     "Salad SkyBlue",
+#     "Wrap Blue",
+#     "Wrap Brown",
+#     "Wrap Green",
+#     "Wrap Yellow",
+#     "Onigiri Brown",
+#     "Onigiri Red",
+#     "Onigiri Blue",
+#     "Onigiri",
+#     "SW Pink",
+#     "SW Red",
+#     "SW Yellow",
+#     "SW Blue",
+#     "SW Orange",
+#     "Minisalad Green",
+#     "Minisalad Purple",
+#     "Minisalad Yellow",
+#     "SW Peach",
+#     "Yogurt Blue",
+#     "Yogurt Yellow",
+#     "Oats Purple",
+#     "Oats Blue",
+#     "Coca Cola",
+#     "100 Plus",
+#     "Cakes",
+#     "Sandwiches",
+#     "Cold Brew Coffee",
+#     "Bottled Tea",
+#     "Mineral Water",
+#     "Bottled Milo",
+#     "Blackcurrent cans",
+#   ] # List of class names
