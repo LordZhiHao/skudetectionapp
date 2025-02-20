@@ -8,7 +8,7 @@ def train_yolo():
 
     config = {
     # define dataset
-    'data': 'data.yaml',
+    'data': 'augmented_data.yaml',
     # configure model (key settings)
     'epochs': 100,
     'imgsz': 640,
