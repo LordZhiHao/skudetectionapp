@@ -21,7 +21,7 @@ for label_path in label_paths:
         for line in lines:
             parts = line.strip().split()
             if parts:  # Check if line is not empty
-                parts[0] = '1'  # Replace first number with '1'
+                parts[0] = '0'  # Replace first number with '1'
                 modified_lines.append(' '.join(parts) + '\n')
         
         # Write back to file
