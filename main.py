@@ -13,13 +13,17 @@ import zipfile
 import shutil
 
 # SKU mapping
+# SKU_MAPPING = {
+#     "wraps": 1601,
+#     "salads": 1101,
+#     "pudding": 2706,
+#     "yogurt": 2604,
+#     "salad green": 11011,
+#     "salad purple": 11012
+# }
+
 SKU_MAPPING = {
-    "wraps": 1601,
-    "salads": 1101,
-    "pudding": 2706,
-    "yogurt": 2604,
-    "salad green": 11011,
-    "salad purple": 11012
+    "Object": 1
 }
 
 class YOLOVideoApp(QWidget):
@@ -451,7 +455,8 @@ class YOLOVideoApp(QWidget):
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    yolo_app = YOLOVideoApp("best.pt")
+    model_path = "./finetune_yolo_data_augmentation/exp/weights/best.pt" # update model path here
+    yolo_app = YOLOVideoApp(model_path)
     
     # Verify setup
     yolo_app.verify_class_mapping()

@@ -4117,3 +4117,1540 @@
 2025-01-24 12:59:06: Frame processing time: 0.17 seconds
 2025-01-24 12:59:06: Successfully saved frame 176
 2025-01-24 12:59:07: Created cvat_dataset.zip for CVAT upload
+2025-02-21 11:22:01: Video loaded: C:/Users/Jason/Desktop/skudetectionapp/Inferencing_1.mp4
+2025-02-21 11:22:05: Video processing started
+2025-02-21 11:22:05: Receive thread alive: True
+2025-02-21 11:22:05: Display thread alive: True
+2025-02-21 11:22:05: Total frames in video: 3640
+2025-02-21 11:22:23: Frame processing time: 17.44 seconds
+2025-02-21 11:22:23: Successfully saved frame 1
+2025-02-21 11:22:23: Frame processing time: 0.30 seconds
+2025-02-21 11:22:23: Successfully saved frame 2
+2025-02-21 11:22:24: Frame processing time: 0.42 seconds
+2025-02-21 11:22:24: Successfully saved frame 3
+2025-02-21 11:22:25: Frame processing time: 0.64 seconds
+2025-02-21 11:22:25: Successfully saved frame 4
+2025-02-21 11:22:25: Frame processing time: 0.56 seconds
+2025-02-21 11:22:25: Successfully saved frame 5
+2025-02-21 11:22:26: Frame processing time: 0.51 seconds
+2025-02-21 11:22:26: Successfully saved frame 6
+2025-02-21 11:22:26: Frame processing time: 0.40 seconds
+2025-02-21 11:22:26: Successfully saved frame 7
+2025-02-21 11:22:27: Frame processing time: 0.45 seconds
+2025-02-21 11:22:27: Successfully saved frame 8
+2025-02-21 11:22:27: Frame processing time: 0.50 seconds
+2025-02-21 11:22:27: Successfully saved frame 9
+2025-02-21 11:22:28: Frame processing time: 0.51 seconds
+2025-02-21 11:22:28: Successfully saved frame 10
+2025-02-21 11:22:28: Frame processing time: 0.45 seconds
+2025-02-21 11:22:28: Successfully saved frame 11
+2025-02-21 11:22:29: Frame processing time: 0.48 seconds
+2025-02-21 11:22:29: Successfully saved frame 12
+2025-02-21 11:22:29: Frame processing time: 0.45 seconds
+2025-02-21 11:22:29: Successfully saved frame 13
+2025-02-21 11:22:30: Frame processing time: 0.47 seconds
+2025-02-21 11:22:30: Successfully saved frame 14
+2025-02-21 11:22:30: Frame processing time: 0.50 seconds
+2025-02-21 11:22:31: Successfully saved frame 15
+2025-02-21 11:22:31: Frame processing time: 0.50 seconds
+2025-02-21 11:22:31: Successfully saved frame 16
+2025-02-21 11:22:32: Frame processing time: 0.49 seconds
+2025-02-21 11:22:32: Successfully saved frame 17
+2025-02-21 11:22:32: Frame processing time: 0.52 seconds
+2025-02-21 11:22:32: Successfully saved frame 18
+2025-02-21 11:22:33: Frame processing time: 0.50 seconds
+2025-02-21 11:22:33: Successfully saved frame 19
+2025-02-21 11:22:33: Frame processing time: 0.47 seconds
+2025-02-21 11:22:33: Successfully saved frame 20
+2025-02-21 11:22:34: Frame processing time: 0.45 seconds
+2025-02-21 11:22:34: Successfully saved frame 21
+2025-02-21 11:22:34: Frame processing time: 0.45 seconds
+2025-02-21 11:22:34: Successfully saved frame 22
+2025-02-21 11:22:35: Frame processing time: 0.45 seconds
+2025-02-21 11:22:35: Successfully saved frame 23
+2025-02-21 11:22:35: Frame processing time: 0.44 seconds
+2025-02-21 11:22:35: Successfully saved frame 24
+2025-02-21 11:22:36: Frame processing time: 0.52 seconds
+2025-02-21 11:22:36: Successfully saved frame 25
+2025-02-21 11:22:36: Frame processing time: 0.45 seconds
+2025-02-21 11:22:36: Successfully saved frame 26
+2025-02-21 11:22:37: Frame processing time: 0.46 seconds
+2025-02-21 11:22:37: Successfully saved frame 27
+2025-02-21 11:22:37: Frame processing time: 0.41 seconds
+2025-02-21 11:22:37: Successfully saved frame 28
+2025-02-21 11:22:38: Frame processing time: 0.41 seconds
+2025-02-21 11:22:38: Successfully saved frame 29
+2025-02-21 11:22:38: Frame processing time: 0.41 seconds
+2025-02-21 11:22:38: Successfully saved frame 30
+2025-02-21 11:22:39: Frame processing time: 0.50 seconds
+2025-02-21 11:22:39: Successfully saved frame 31
+2025-02-21 11:22:39: Frame processing time: 0.48 seconds
+2025-02-21 11:22:39: Successfully saved frame 32
+2025-02-21 11:22:40: Video processing stopped
+2025-02-21 11:22:40: Frame processing time: 0.53 seconds
+2025-02-21 11:22:40: Successfully saved frame 33
+2025-02-21 11:26:48: Video loaded: C:/Users/Jason/Desktop/skudetectionapp/Inferencing_1.mp4
+2025-02-21 11:26:55: Video processing started
+2025-02-21 11:26:55: Receive thread alive: True
+2025-02-21 11:26:55: Display thread alive: True
+2025-02-21 11:26:55: Total frames in video: 3640
+2025-02-21 11:26:57: Frame processing time: 1.54 seconds
+2025-02-21 11:26:57: Successfully saved frame 1
+2025-02-21 11:26:57: Frame processing time: 0.12 seconds
+2025-02-21 11:26:57: Successfully saved frame 2
+2025-02-21 11:26:57: Frame processing time: 0.10 seconds
+2025-02-21 11:26:57: Successfully saved frame 3
+2025-02-21 11:26:57: Frame processing time: 0.10 seconds
+2025-02-21 11:26:57: Successfully saved frame 4
+2025-02-21 11:26:58: Frame processing time: 0.09 seconds
+2025-02-21 11:26:58: Successfully saved frame 5
+2025-02-21 11:26:58: Frame processing time: 0.12 seconds
+2025-02-21 11:26:58: Successfully saved frame 6
+2025-02-21 11:26:58: Frame processing time: 0.10 seconds
+2025-02-21 11:26:58: Successfully saved frame 7
+2025-02-21 11:26:58: Frame processing time: 0.10 seconds
+2025-02-21 11:26:58: Successfully saved frame 8
+2025-02-21 11:26:58: Frame processing time: 0.10 seconds
+2025-02-21 11:26:58: Successfully saved frame 9
+2025-02-21 11:26:58: Frame processing time: 0.12 seconds
+2025-02-21 11:26:58: Successfully saved frame 10
+2025-02-21 11:26:58: Frame processing time: 0.12 seconds
+2025-02-21 11:26:58: Successfully saved frame 11
+2025-02-21 11:26:58: Frame processing time: 0.11 seconds
+2025-02-21 11:26:58: Successfully saved frame 12
+2025-02-21 11:26:59: Frame processing time: 0.11 seconds
+2025-02-21 11:26:59: Successfully saved frame 13
+2025-02-21 11:26:59: Frame processing time: 0.11 seconds
+2025-02-21 11:26:59: Successfully saved frame 14
+2025-02-21 11:26:59: Frame processing time: 0.10 seconds
+2025-02-21 11:26:59: Successfully saved frame 15
+2025-02-21 11:26:59: Frame processing time: 0.12 seconds
+2025-02-21 11:26:59: Successfully saved frame 16
+2025-02-21 11:26:59: Frame processing time: 0.11 seconds
+2025-02-21 11:26:59: Successfully saved frame 17
+2025-02-21 11:26:59: Frame processing time: 0.11 seconds
+2025-02-21 11:26:59: Successfully saved frame 18
+2025-02-21 11:26:59: Frame processing time: 0.10 seconds
+2025-02-21 11:26:59: Successfully saved frame 19
+2025-02-21 11:26:59: Frame processing time: 0.08 seconds
+2025-02-21 11:26:59: Successfully saved frame 20
+2025-02-21 11:27:00: Frame processing time: 0.12 seconds
+2025-02-21 11:27:00: Successfully saved frame 21
+2025-02-21 11:27:00: Frame processing time: 0.10 seconds
+2025-02-21 11:27:00: Successfully saved frame 22
+2025-02-21 11:27:00: Frame processing time: 0.09 seconds
+2025-02-21 11:27:00: Successfully saved frame 23
+2025-02-21 11:27:00: Frame processing time: 0.08 seconds
+2025-02-21 11:27:00: Successfully saved frame 24
+2025-02-21 11:27:00: Frame processing time: 0.10 seconds
+2025-02-21 11:27:00: Successfully saved frame 25
+2025-02-21 11:27:00: Frame processing time: 0.11 seconds
+2025-02-21 11:27:00: Successfully saved frame 26
+2025-02-21 11:27:00: Frame processing time: 0.09 seconds
+2025-02-21 11:27:00: Successfully saved frame 27
+2025-02-21 11:27:00: Frame processing time: 0.09 seconds
+2025-02-21 11:27:00: Successfully saved frame 28
+2025-02-21 11:27:00: Frame processing time: 0.08 seconds
+2025-02-21 11:27:00: Successfully saved frame 29
+2025-02-21 11:27:01: Frame processing time: 0.10 seconds
+2025-02-21 11:27:01: Successfully saved frame 30
+2025-02-21 11:27:01: Frame processing time: 0.11 seconds
+2025-02-21 11:27:01: Successfully saved frame 31
+2025-02-21 11:27:01: Frame processing time: 0.10 seconds
+2025-02-21 11:27:01: Successfully saved frame 32
+2025-02-21 11:27:01: Frame processing time: 0.11 seconds
+2025-02-21 11:27:01: Successfully saved frame 33
+2025-02-21 11:27:01: Frame processing time: 0.09 seconds
+2025-02-21 11:27:01: Successfully saved frame 34
+2025-02-21 11:27:01: Frame processing time: 0.11 seconds
+2025-02-21 11:27:01: Successfully saved frame 35
+2025-02-21 11:27:01: Frame processing time: 0.09 seconds
+2025-02-21 11:27:01: Successfully saved frame 36
+2025-02-21 11:27:01: Frame processing time: 0.10 seconds
+2025-02-21 11:27:01: Successfully saved frame 37
+2025-02-21 11:27:02: Frame processing time: 0.14 seconds
+2025-02-21 11:27:02: Successfully saved frame 38
+2025-02-21 11:27:02: Frame processing time: 0.16 seconds
+2025-02-21 11:27:02: Successfully saved frame 39
+2025-02-21 11:27:02: Frame processing time: 0.22 seconds
+2025-02-21 11:27:02: Successfully saved frame 40
+2025-02-21 11:27:02: Frame processing time: 0.26 seconds
+2025-02-21 11:27:02: Successfully saved frame 41
+2025-02-21 11:27:03: Frame processing time: 0.29 seconds
+2025-02-21 11:27:03: Successfully saved frame 42
+2025-02-21 11:27:03: Frame processing time: 0.30 seconds
+2025-02-21 11:27:03: Successfully saved frame 43
+2025-02-21 11:27:03: Frame processing time: 0.30 seconds
+2025-02-21 11:27:04: Successfully saved frame 44
+2025-02-21 11:27:04: Frame processing time: 0.34 seconds
+2025-02-21 11:27:04: Successfully saved frame 45
+2025-02-21 11:27:04: Frame processing time: 0.35 seconds
+2025-02-21 11:27:04: Successfully saved frame 46
+2025-02-21 11:27:05: Frame processing time: 0.33 seconds
+2025-02-21 11:27:05: Successfully saved frame 47
+2025-02-21 11:27:05: Frame processing time: 0.33 seconds
+2025-02-21 11:27:05: Successfully saved frame 48
+2025-02-21 11:27:05: Frame processing time: 0.34 seconds
+2025-02-21 11:27:06: Successfully saved frame 49
+2025-02-21 11:27:06: Frame processing time: 0.34 seconds
+2025-02-21 11:27:06: Successfully saved frame 50
+2025-02-21 11:27:06: Frame processing time: 0.36 seconds
+2025-02-21 11:27:06: Successfully saved frame 51
+2025-02-21 11:27:07: Frame processing time: 0.31 seconds
+2025-02-21 11:27:07: Successfully saved frame 52
+2025-02-21 11:27:07: Frame processing time: 0.28 seconds
+2025-02-21 11:27:07: Successfully saved frame 53
+2025-02-21 11:27:07: Frame processing time: 0.29 seconds
+2025-02-21 11:27:07: Successfully saved frame 54
+2025-02-21 11:27:08: Frame processing time: 0.37 seconds
+2025-02-21 11:27:08: Successfully saved frame 55
+2025-02-21 11:27:08: Frame processing time: 0.29 seconds
+2025-02-21 11:27:08: Successfully saved frame 56
+2025-02-21 11:27:08: Frame processing time: 0.27 seconds
+2025-02-21 11:27:09: Successfully saved frame 57
+2025-02-21 11:27:09: Frame processing time: 0.26 seconds
+2025-02-21 11:27:09: Successfully saved frame 58
+2025-02-21 11:27:09: Frame processing time: 0.23 seconds
+2025-02-21 11:27:09: Successfully saved frame 59
+2025-02-21 11:27:09: Frame processing time: 0.25 seconds
+2025-02-21 11:27:09: Successfully saved frame 60
+2025-02-21 11:27:10: Frame processing time: 0.25 seconds
+2025-02-21 11:27:10: Successfully saved frame 61
+2025-02-21 11:27:10: Frame processing time: 0.26 seconds
+2025-02-21 11:27:10: Successfully saved frame 62
+2025-02-21 11:27:10: Frame processing time: 0.27 seconds
+2025-02-21 11:27:10: Successfully saved frame 63
+2025-02-21 11:27:11: Frame processing time: 0.26 seconds
+2025-02-21 11:27:11: Successfully saved frame 64
+2025-02-21 11:27:11: Frame processing time: 0.29 seconds
+2025-02-21 11:27:11: Successfully saved frame 65
+2025-02-21 11:27:11: Frame processing time: 0.27 seconds
+2025-02-21 11:27:11: Successfully saved frame 66
+2025-02-21 11:27:12: Frame processing time: 0.28 seconds
+2025-02-21 11:27:12: Successfully saved frame 67
+2025-02-21 11:27:12: Frame processing time: 0.22 seconds
+2025-02-21 11:27:12: Successfully saved frame 68
+2025-02-21 11:27:12: Frame processing time: 0.26 seconds
+2025-02-21 11:27:12: Successfully saved frame 69
+2025-02-21 11:27:12: Frame processing time: 0.22 seconds
+2025-02-21 11:27:12: Successfully saved frame 70
+2025-02-21 11:27:13: Frame processing time: 0.23 seconds
+2025-02-21 11:27:13: Successfully saved frame 71
+2025-02-21 11:27:13: Frame processing time: 0.22 seconds
+2025-02-21 11:27:13: Successfully saved frame 72
+2025-02-21 11:27:13: Frame processing time: 0.22 seconds
+2025-02-21 11:27:13: Successfully saved frame 73
+2025-02-21 11:27:14: Frame processing time: 0.21 seconds
+2025-02-21 11:27:14: Successfully saved frame 74
+2025-02-21 11:27:14: Frame processing time: 0.22 seconds
+2025-02-21 11:27:14: Successfully saved frame 75
+2025-02-21 11:27:14: Frame processing time: 0.24 seconds
+2025-02-21 11:27:14: Successfully saved frame 76
+2025-02-21 11:27:14: Frame processing time: 0.29 seconds
+2025-02-21 11:27:14: Successfully saved frame 77
+2025-02-21 11:27:15: Frame processing time: 0.29 seconds
+2025-02-21 11:27:15: Successfully saved frame 78
+2025-02-21 11:27:15: Frame processing time: 0.24 seconds
+2025-02-21 11:27:15: Successfully saved frame 79
+2025-02-21 11:27:15: Frame processing time: 0.26 seconds
+2025-02-21 11:27:15: Successfully saved frame 80
+2025-02-21 11:27:16: Frame processing time: 0.24 seconds
+2025-02-21 11:27:16: Successfully saved frame 81
+2025-02-21 11:27:16: Frame processing time: 0.24 seconds
+2025-02-21 11:27:16: Successfully saved frame 82
+2025-02-21 11:27:16: Frame processing time: 0.22 seconds
+2025-02-21 11:27:16: Successfully saved frame 83
+2025-02-21 11:27:16: Frame processing time: 0.23 seconds
+2025-02-21 11:27:17: Successfully saved frame 84
+2025-02-21 11:27:17: Frame processing time: 0.21 seconds
+2025-02-21 11:27:17: Successfully saved frame 85
+2025-02-21 11:27:17: Frame processing time: 0.23 seconds
+2025-02-21 11:27:17: Successfully saved frame 86
+2025-02-21 11:27:17: Frame processing time: 0.26 seconds
+2025-02-21 11:27:17: Successfully saved frame 87
+2025-02-21 11:27:18: Frame processing time: 0.29 seconds
+2025-02-21 11:27:18: Successfully saved frame 88
+2025-02-21 11:27:18: Frame processing time: 0.25 seconds
+2025-02-21 11:27:18: Successfully saved frame 89
+2025-02-21 11:27:18: Frame processing time: 0.32 seconds
+2025-02-21 11:27:18: Successfully saved frame 90
+2025-02-21 11:27:19: Frame processing time: 0.21 seconds
+2025-02-21 11:27:19: Successfully saved frame 91
+2025-02-21 11:27:19: Frame processing time: 0.26 seconds
+2025-02-21 11:27:19: Successfully saved frame 92
+2025-02-21 11:27:19: Frame processing time: 0.22 seconds
+2025-02-21 11:27:19: Successfully saved frame 93
+2025-02-21 11:27:19: Frame processing time: 0.22 seconds
+2025-02-21 11:27:19: Successfully saved frame 94
+2025-02-21 11:27:20: Frame processing time: 0.18 seconds
+2025-02-21 11:27:20: Successfully saved frame 95
+2025-02-21 11:27:20: Frame processing time: 0.19 seconds
+2025-02-21 11:27:20: Successfully saved frame 96
+2025-02-21 11:27:20: Frame processing time: 0.25 seconds
+2025-02-21 11:27:20: Successfully saved frame 97
+2025-02-21 11:27:20: Frame processing time: 0.24 seconds
+2025-02-21 11:27:20: Successfully saved frame 98
+2025-02-21 11:27:21: Frame processing time: 0.23 seconds
+2025-02-21 11:27:21: Successfully saved frame 99
+2025-02-21 11:27:21: Frame processing time: 0.20 seconds
+2025-02-21 11:27:21: Successfully saved frame 100
+2025-02-21 11:27:21: Frame processing time: 0.21 seconds
+2025-02-21 11:27:21: Successfully saved frame 101
+2025-02-21 11:27:21: Frame processing time: 0.18 seconds
+2025-02-21 11:27:21: Successfully saved frame 102
+2025-02-21 11:27:22: Frame processing time: 0.25 seconds
+2025-02-21 11:27:22: Successfully saved frame 103
+2025-02-21 11:27:22: Frame processing time: 0.23 seconds
+2025-02-21 11:27:22: Successfully saved frame 104
+2025-02-21 11:27:22: Frame processing time: 0.22 seconds
+2025-02-21 11:27:22: Successfully saved frame 105
+2025-02-21 11:27:22: Frame processing time: 0.20 seconds
+2025-02-21 11:27:23: Successfully saved frame 106
+2025-02-21 11:27:23: Frame processing time: 0.20 seconds
+2025-02-21 11:27:23: Successfully saved frame 107
+2025-02-21 11:27:23: Frame processing time: 0.19 seconds
+2025-02-21 11:27:23: Successfully saved frame 108
+2025-02-21 11:27:23: Frame processing time: 0.26 seconds
+2025-02-21 11:27:23: Successfully saved frame 109
+2025-02-21 11:27:24: Frame processing time: 0.23 seconds
+2025-02-21 11:27:24: Successfully saved frame 110
+2025-02-21 11:27:24: Frame processing time: 0.24 seconds
+2025-02-21 11:27:24: Successfully saved frame 111
+2025-02-21 11:27:24: Frame processing time: 0.21 seconds
+2025-02-21 11:27:24: Successfully saved frame 112
+2025-02-21 11:27:24: Frame processing time: 0.27 seconds
+2025-02-21 11:27:24: Successfully saved frame 113
+2025-02-21 11:27:25: Frame processing time: 0.23 seconds
+2025-02-21 11:27:25: Successfully saved frame 114
+2025-02-21 11:27:25: Frame processing time: 0.26 seconds
+2025-02-21 11:27:25: Successfully saved frame 115
+2025-02-21 11:27:25: Frame processing time: 0.24 seconds
+2025-02-21 11:27:25: Successfully saved frame 116
+2025-02-21 11:27:25: Frame processing time: 0.19 seconds
+2025-02-21 11:27:26: Successfully saved frame 117
+2025-02-21 11:27:26: Frame processing time: 0.22 seconds
+2025-02-21 11:27:26: Successfully saved frame 118
+2025-02-21 11:27:26: Frame processing time: 0.24 seconds
+2025-02-21 11:27:26: Successfully saved frame 119
+2025-02-21 11:27:26: Frame processing time: 0.27 seconds
+2025-02-21 11:27:26: Successfully saved frame 120
+2025-02-21 11:27:27: Frame processing time: 0.20 seconds
+2025-02-21 11:27:27: Successfully saved frame 121
+2025-02-21 11:27:27: Frame processing time: 0.19 seconds
+2025-02-21 11:27:27: Successfully saved frame 122
+2025-02-21 11:27:27: Frame processing time: 0.24 seconds
+2025-02-21 11:27:27: Successfully saved frame 123
+2025-02-21 11:27:27: Frame processing time: 0.24 seconds
+2025-02-21 11:27:27: Successfully saved frame 124
+2025-02-21 11:27:28: Frame processing time: 0.22 seconds
+2025-02-21 11:27:28: Successfully saved frame 125
+2025-02-21 11:27:28: Frame processing time: 0.19 seconds
+2025-02-21 11:27:28: Successfully saved frame 126
+2025-02-21 11:27:28: Frame processing time: 0.21 seconds
+2025-02-21 11:27:28: Successfully saved frame 127
+2025-02-21 11:27:28: Frame processing time: 0.23 seconds
+2025-02-21 11:27:28: Successfully saved frame 128
+2025-02-21 11:27:29: Frame processing time: 0.25 seconds
+2025-02-21 11:27:29: Successfully saved frame 129
+2025-02-21 11:27:29: Frame processing time: 0.20 seconds
+2025-02-21 11:27:29: Successfully saved frame 130
+2025-02-21 11:27:29: Frame processing time: 0.19 seconds
+2025-02-21 11:27:29: Successfully saved frame 131
+2025-02-21 11:27:29: Frame processing time: 0.21 seconds
+2025-02-21 11:27:29: Successfully saved frame 132
+2025-02-21 11:27:30: Frame processing time: 0.17 seconds
+2025-02-21 11:27:30: Successfully saved frame 133
+2025-02-21 11:27:30: Frame processing time: 0.18 seconds
+2025-02-21 11:27:30: Successfully saved frame 134
+2025-02-21 11:27:30: Frame processing time: 0.19 seconds
+2025-02-21 11:27:30: Successfully saved frame 135
+2025-02-21 11:27:30: Frame processing time: 0.25 seconds
+2025-02-21 11:27:30: Successfully saved frame 136
+2025-02-21 11:27:31: Frame processing time: 0.21 seconds
+2025-02-21 11:27:31: Successfully saved frame 137
+2025-02-21 11:27:31: Frame processing time: 0.20 seconds
+2025-02-21 11:27:31: Successfully saved frame 138
+2025-02-21 11:27:31: Frame processing time: 0.23 seconds
+2025-02-21 11:27:31: Successfully saved frame 139
+2025-02-21 11:27:31: Frame processing time: 0.29 seconds
+2025-02-21 11:27:32: Successfully saved frame 140
+2025-02-21 11:27:32: Frame processing time: 0.23 seconds
+2025-02-21 11:27:32: Successfully saved frame 141
+2025-02-21 11:27:32: Frame processing time: 0.19 seconds
+2025-02-21 11:27:32: Successfully saved frame 142
+2025-02-21 11:27:32: Frame processing time: 0.20 seconds
+2025-02-21 11:27:32: Successfully saved frame 143
+2025-02-21 11:27:32: Frame processing time: 0.20 seconds
+2025-02-21 11:27:33: Successfully saved frame 144
+2025-02-21 11:27:33: Frame processing time: 0.18 seconds
+2025-02-21 11:27:33: Successfully saved frame 145
+2025-02-21 11:27:33: Frame processing time: 0.15 seconds
+2025-02-21 11:27:33: Successfully saved frame 146
+2025-02-21 11:27:33: Frame processing time: 0.20 seconds
+2025-02-21 11:27:33: Successfully saved frame 147
+2025-02-21 11:27:33: Frame processing time: 0.20 seconds
+2025-02-21 11:27:33: Successfully saved frame 148
+2025-02-21 11:27:34: Frame processing time: 0.20 seconds
+2025-02-21 11:27:34: Successfully saved frame 149
+2025-02-21 11:27:34: Frame processing time: 0.18 seconds
+2025-02-21 11:27:34: Successfully saved frame 150
+2025-02-21 11:27:34: Frame processing time: 0.25 seconds
+2025-02-21 11:27:34: Successfully saved frame 151
+2025-02-21 11:27:34: Frame processing time: 0.24 seconds
+2025-02-21 11:27:34: Successfully saved frame 152
+2025-02-21 11:27:35: Frame processing time: 0.21 seconds
+2025-02-21 11:27:35: Successfully saved frame 153
+2025-02-21 11:27:35: Frame processing time: 0.19 seconds
+2025-02-21 11:27:35: Successfully saved frame 154
+2025-02-21 11:27:35: Frame processing time: 0.16 seconds
+2025-02-21 11:27:35: Successfully saved frame 155
+2025-02-21 11:27:35: Frame processing time: 0.24 seconds
+2025-02-21 11:27:35: Successfully saved frame 156
+2025-02-21 11:27:36: Frame processing time: 0.18 seconds
+2025-02-21 11:27:36: Successfully saved frame 157
+2025-02-21 11:27:36: Frame processing time: 0.18 seconds
+2025-02-21 11:27:36: Successfully saved frame 158
+2025-02-21 11:27:36: Frame processing time: 0.16 seconds
+2025-02-21 11:27:36: Successfully saved frame 159
+2025-02-21 11:27:36: Frame processing time: 0.19 seconds
+2025-02-21 11:27:36: Successfully saved frame 160
+2025-02-21 11:27:37: Frame processing time: 0.25 seconds
+2025-02-21 11:27:37: Successfully saved frame 161
+2025-02-21 11:27:37: Frame processing time: 0.21 seconds
+2025-02-21 11:27:37: Successfully saved frame 162
+2025-02-21 11:27:37: Frame processing time: 0.24 seconds
+2025-02-21 11:27:37: Successfully saved frame 163
+2025-02-21 11:27:37: Frame processing time: 0.28 seconds
+2025-02-21 11:27:37: Successfully saved frame 164
+2025-02-21 11:27:38: Frame processing time: 0.23 seconds
+2025-02-21 11:27:38: Successfully saved frame 165
+2025-02-21 11:27:38: Frame processing time: 0.20 seconds
+2025-02-21 11:27:38: Successfully saved frame 166
+2025-02-21 11:27:38: Frame processing time: 0.16 seconds
+2025-02-21 11:27:38: Successfully saved frame 167
+2025-02-21 11:27:38: Frame processing time: 0.22 seconds
+2025-02-21 11:27:38: Successfully saved frame 168
+2025-02-21 11:27:39: Frame processing time: 0.19 seconds
+2025-02-21 11:27:39: Successfully saved frame 169
+2025-02-21 11:27:39: Frame processing time: 0.21 seconds
+2025-02-21 11:27:39: Successfully saved frame 170
+2025-02-21 11:27:39: Frame processing time: 0.18 seconds
+2025-02-21 11:27:39: Successfully saved frame 171
+2025-02-21 11:27:39: Frame processing time: 0.23 seconds
+2025-02-21 11:27:39: Successfully saved frame 172
+2025-02-21 11:27:40: Frame processing time: 0.23 seconds
+2025-02-21 11:27:40: Successfully saved frame 173
+2025-02-21 11:27:40: Frame processing time: 0.21 seconds
+2025-02-21 11:27:40: Successfully saved frame 174
+2025-02-21 11:27:40: Frame processing time: 0.24 seconds
+2025-02-21 11:27:40: Successfully saved frame 175
+2025-02-21 11:27:40: Frame processing time: 0.22 seconds
+2025-02-21 11:27:40: Successfully saved frame 176
+2025-02-21 11:27:41: Frame processing time: 0.26 seconds
+2025-02-21 11:27:41: Successfully saved frame 177
+2025-02-21 11:27:41: Frame processing time: 0.24 seconds
+2025-02-21 11:27:41: Successfully saved frame 178
+2025-02-21 11:27:41: Frame processing time: 0.21 seconds
+2025-02-21 11:27:41: Successfully saved frame 179
+2025-02-21 11:27:42: Frame processing time: 0.19 seconds
+2025-02-21 11:27:42: Successfully saved frame 180
+2025-02-21 11:27:42: Frame processing time: 0.17 seconds
+2025-02-21 11:27:42: Successfully saved frame 181
+2025-02-21 11:27:42: Frame processing time: 0.20 seconds
+2025-02-21 11:27:42: Successfully saved frame 182
+2025-02-21 11:27:42: Frame processing time: 0.22 seconds
+2025-02-21 11:27:42: Successfully saved frame 183
+2025-02-21 11:27:42: Frame processing time: 0.23 seconds
+2025-02-21 11:27:43: Successfully saved frame 184
+2025-02-21 11:27:43: Frame processing time: 0.21 seconds
+2025-02-21 11:27:43: Successfully saved frame 185
+2025-02-21 11:27:43: Frame processing time: 0.26 seconds
+2025-02-21 11:27:43: Successfully saved frame 186
+2025-02-21 11:27:43: Frame processing time: 0.28 seconds
+2025-02-21 11:27:43: Successfully saved frame 187
+2025-02-21 11:27:44: Frame processing time: 0.19 seconds
+2025-02-21 11:27:44: Successfully saved frame 188
+2025-02-21 11:27:44: Frame processing time: 0.24 seconds
+2025-02-21 11:27:44: Successfully saved frame 189
+2025-02-21 11:27:44: Frame processing time: 0.22 seconds
+2025-02-21 11:27:44: Successfully saved frame 190
+2025-02-21 11:27:44: Frame processing time: 0.22 seconds
+2025-02-21 11:27:44: Successfully saved frame 191
+2025-02-21 11:27:45: Frame processing time: 0.20 seconds
+2025-02-21 11:27:45: Successfully saved frame 192
+2025-02-21 11:27:45: Frame processing time: 0.17 seconds
+2025-02-21 11:27:45: Successfully saved frame 193
+2025-02-21 11:27:45: Frame processing time: 0.23 seconds
+2025-02-21 11:27:45: Successfully saved frame 194
+2025-02-21 11:27:45: Frame processing time: 0.23 seconds
+2025-02-21 11:27:45: Successfully saved frame 195
+2025-02-21 11:27:46: Frame processing time: 0.22 seconds
+2025-02-21 11:27:46: Successfully saved frame 196
+2025-02-21 11:27:46: Frame processing time: 0.22 seconds
+2025-02-21 11:27:46: Successfully saved frame 197
+2025-02-21 11:27:46: Frame processing time: 0.18 seconds
+2025-02-21 11:27:46: Successfully saved frame 198
+2025-02-21 11:27:47: Frame processing time: 0.25 seconds
+2025-02-21 11:27:47: Successfully saved frame 199
+2025-02-21 11:27:47: Frame processing time: 0.22 seconds
+2025-02-21 11:27:47: Successfully saved frame 200
+2025-02-21 11:27:47: Frame processing time: 0.21 seconds
+2025-02-21 11:27:47: Successfully saved frame 201
+2025-02-21 11:27:47: Frame processing time: 0.18 seconds
+2025-02-21 11:27:47: Successfully saved frame 202
+2025-02-21 11:27:47: Frame processing time: 0.20 seconds
+2025-02-21 11:27:48: Successfully saved frame 203
+2025-02-21 11:27:48: Frame processing time: 0.20 seconds
+2025-02-21 11:27:48: Successfully saved frame 204
+2025-02-21 11:27:48: Frame processing time: 0.19 seconds
+2025-02-21 11:27:48: Successfully saved frame 205
+2025-02-21 11:27:48: Frame processing time: 0.23 seconds
+2025-02-21 11:27:48: Successfully saved frame 206
+2025-02-21 11:27:49: Frame processing time: 0.24 seconds
+2025-02-21 11:27:49: Successfully saved frame 207
+2025-02-21 11:27:49: Frame processing time: 0.23 seconds
+2025-02-21 11:27:49: Successfully saved frame 208
+2025-02-21 11:27:49: Frame processing time: 0.20 seconds
+2025-02-21 11:27:49: Successfully saved frame 209
+2025-02-21 11:27:49: Frame processing time: 0.27 seconds
+2025-02-21 11:27:50: Successfully saved frame 210
+2025-02-21 11:27:50: Frame processing time: 0.25 seconds
+2025-02-21 11:27:50: Successfully saved frame 211
+2025-02-21 11:27:50: Frame processing time: 0.24 seconds
+2025-02-21 11:27:50: Successfully saved frame 212
+2025-02-21 11:27:50: Frame processing time: 0.21 seconds
+2025-02-21 11:27:50: Successfully saved frame 213
+2025-02-21 11:27:51: Frame processing time: 0.23 seconds
+2025-02-21 11:27:51: Successfully saved frame 214
+2025-02-21 11:27:51: Frame processing time: 0.23 seconds
+2025-02-21 11:27:51: Successfully saved frame 215
+2025-02-21 11:27:51: Frame processing time: 0.20 seconds
+2025-02-21 11:27:51: Successfully saved frame 216
+2025-02-21 11:27:51: Frame processing time: 0.24 seconds
+2025-02-21 11:27:51: Successfully saved frame 217
+2025-02-21 11:27:52: Frame processing time: 0.26 seconds
+2025-02-21 11:27:52: Successfully saved frame 218
+2025-02-21 11:27:52: Frame processing time: 0.21 seconds
+2025-02-21 11:27:52: Successfully saved frame 219
+2025-02-21 11:27:52: Frame processing time: 0.23 seconds
+2025-02-21 11:27:52: Successfully saved frame 220
+2025-02-21 11:27:53: Frame processing time: 0.23 seconds
+2025-02-21 11:27:53: Successfully saved frame 221
+2025-02-21 11:27:53: Frame processing time: 0.20 seconds
+2025-02-21 11:27:53: Successfully saved frame 222
+2025-02-21 11:27:53: Frame processing time: 0.21 seconds
+2025-02-21 11:27:53: Successfully saved frame 223
+2025-02-21 11:27:53: Frame processing time: 0.21 seconds
+2025-02-21 11:27:53: Successfully saved frame 224
+2025-02-21 11:27:54: Frame processing time: 0.21 seconds
+2025-02-21 11:27:54: Successfully saved frame 225
+2025-02-21 11:27:54: Frame processing time: 0.21 seconds
+2025-02-21 11:27:54: Successfully saved frame 226
+2025-02-21 11:27:54: Frame processing time: 0.24 seconds
+2025-02-21 11:27:54: Successfully saved frame 227
+2025-02-21 11:27:54: Frame processing time: 0.23 seconds
+2025-02-21 11:27:54: Successfully saved frame 228
+2025-02-21 11:27:55: Frame processing time: 0.23 seconds
+2025-02-21 11:27:55: Successfully saved frame 229
+2025-02-21 11:27:55: Frame processing time: 0.23 seconds
+2025-02-21 11:27:55: Successfully saved frame 230
+2025-02-21 11:27:55: Frame processing time: 0.24 seconds
+2025-02-21 11:27:55: Successfully saved frame 231
+2025-02-21 11:27:55: Frame processing time: 0.24 seconds
+2025-02-21 11:27:55: Successfully saved frame 232
+2025-02-21 11:27:56: Frame processing time: 0.21 seconds
+2025-02-21 11:27:56: Successfully saved frame 233
+2025-02-21 11:27:56: Frame processing time: 0.26 seconds
+2025-02-21 11:27:56: Successfully saved frame 234
+2025-02-21 11:27:56: Frame processing time: 0.19 seconds
+2025-02-21 11:27:56: Successfully saved frame 235
+2025-02-21 11:27:56: Frame processing time: 0.22 seconds
+2025-02-21 11:27:57: Successfully saved frame 236
+2025-02-21 11:27:57: Frame processing time: 0.20 seconds
+2025-02-21 11:27:57: Successfully saved frame 237
+2025-02-21 11:27:57: Frame processing time: 0.21 seconds
+2025-02-21 11:27:57: Successfully saved frame 238
+2025-02-21 11:27:57: Frame processing time: 0.24 seconds
+2025-02-21 11:27:57: Successfully saved frame 239
+2025-02-21 11:27:58: Frame processing time: 0.27 seconds
+2025-02-21 11:27:58: Successfully saved frame 240
+2025-02-21 11:27:58: Frame processing time: 0.19 seconds
+2025-02-21 11:27:58: Successfully saved frame 241
+2025-02-21 11:27:58: Frame processing time: 0.18 seconds
+2025-02-21 11:27:58: Successfully saved frame 242
+2025-02-21 11:27:58: Frame processing time: 0.18 seconds
+2025-02-21 11:27:58: Successfully saved frame 243
+2025-02-21 11:27:59: Frame processing time: 0.27 seconds
+2025-02-21 11:27:59: Successfully saved frame 244
+2025-02-21 11:27:59: Frame processing time: 0.23 seconds
+2025-02-21 11:27:59: Successfully saved frame 245
+2025-02-21 11:27:59: Frame processing time: 0.20 seconds
+2025-02-21 11:27:59: Successfully saved frame 246
+2025-02-21 11:27:59: Frame processing time: 0.20 seconds
+2025-02-21 11:27:59: Successfully saved frame 247
+2025-02-21 11:28:00: Frame processing time: 0.25 seconds
+2025-02-21 11:28:00: Successfully saved frame 248
+2025-02-21 11:28:00: Frame processing time: 0.23 seconds
+2025-02-21 11:28:00: Successfully saved frame 249
+2025-02-21 11:28:00: Frame processing time: 0.23 seconds
+2025-02-21 11:28:00: Successfully saved frame 250
+2025-02-21 11:28:00: Frame processing time: 0.24 seconds
+2025-02-21 11:28:00: Successfully saved frame 251
+2025-02-21 11:28:01: Frame processing time: 0.23 seconds
+2025-02-21 11:28:01: Successfully saved frame 252
+2025-02-21 11:28:01: Frame processing time: 0.22 seconds
+2025-02-21 11:28:01: Successfully saved frame 253
+2025-02-21 11:28:01: Frame processing time: 0.20 seconds
+2025-02-21 11:28:01: Successfully saved frame 254
+2025-02-21 11:28:01: Frame processing time: 0.22 seconds
+2025-02-21 11:28:01: Successfully saved frame 255
+2025-02-21 11:28:02: Frame processing time: 0.19 seconds
+2025-02-21 11:28:02: Successfully saved frame 256
+2025-02-21 11:28:02: Frame processing time: 0.24 seconds
+2025-02-21 11:28:02: Successfully saved frame 257
+2025-02-21 11:28:02: Frame processing time: 0.23 seconds
+2025-02-21 11:28:02: Successfully saved frame 258
+2025-02-21 11:28:03: Frame processing time: 0.23 seconds
+2025-02-21 11:28:03: Successfully saved frame 259
+2025-02-21 11:28:03: Frame processing time: 0.23 seconds
+2025-02-21 11:28:03: Successfully saved frame 260
+2025-02-21 11:28:03: Frame processing time: 0.20 seconds
+2025-02-21 11:28:03: Successfully saved frame 261
+2025-02-21 11:28:03: Frame processing time: 0.27 seconds
+2025-02-21 11:28:03: Successfully saved frame 262
+2025-02-21 11:28:04: Frame processing time: 0.27 seconds
+2025-02-21 11:28:04: Successfully saved frame 263
+2025-02-21 11:28:04: Frame processing time: 0.23 seconds
+2025-02-21 11:28:04: Successfully saved frame 264
+2025-02-21 11:28:04: Frame processing time: 0.23 seconds
+2025-02-21 11:28:04: Successfully saved frame 265
+2025-02-21 11:28:04: Frame processing time: 0.21 seconds
+2025-02-21 11:28:04: Successfully saved frame 266
+2025-02-21 11:28:05: Frame processing time: 0.21 seconds
+2025-02-21 11:28:05: Successfully saved frame 267
+2025-02-21 11:28:05: Frame processing time: 0.26 seconds
+2025-02-21 11:28:05: Successfully saved frame 268
+2025-02-21 11:28:05: Frame processing time: 0.21 seconds
+2025-02-21 11:28:05: Successfully saved frame 269
+2025-02-21 11:28:06: Frame processing time: 0.21 seconds
+2025-02-21 11:28:06: Successfully saved frame 270
+2025-02-21 11:28:06: Frame processing time: 0.23 seconds
+2025-02-21 11:28:06: Successfully saved frame 271
+2025-02-21 11:28:06: Frame processing time: 0.23 seconds
+2025-02-21 11:28:06: Successfully saved frame 272
+2025-02-21 11:28:06: Frame processing time: 0.25 seconds
+2025-02-21 11:28:06: Successfully saved frame 273
+2025-02-21 11:28:07: Frame processing time: 0.24 seconds
+2025-02-21 11:28:07: Successfully saved frame 274
+2025-02-21 11:28:07: Frame processing time: 0.24 seconds
+2025-02-21 11:28:07: Successfully saved frame 275
+2025-02-21 11:28:07: Frame processing time: 0.23 seconds
+2025-02-21 11:28:07: Successfully saved frame 276
+2025-02-21 11:28:08: Frame processing time: 0.23 seconds
+2025-02-21 11:28:08: Successfully saved frame 277
+2025-02-21 11:28:08: Frame processing time: 0.24 seconds
+2025-02-21 11:28:08: Successfully saved frame 278
+2025-02-21 11:28:08: Frame processing time: 0.23 seconds
+2025-02-21 11:28:08: Successfully saved frame 279
+2025-02-21 11:28:08: Frame processing time: 0.19 seconds
+2025-02-21 11:28:08: Successfully saved frame 280
+2025-02-21 11:28:09: Frame processing time: 0.26 seconds
+2025-02-21 11:28:09: Successfully saved frame 281
+2025-02-21 11:28:09: Frame processing time: 0.25 seconds
+2025-02-21 11:28:09: Successfully saved frame 282
+2025-02-21 11:28:09: Frame processing time: 0.27 seconds
+2025-02-21 11:28:09: Successfully saved frame 283
+2025-02-21 11:28:10: Frame processing time: 0.26 seconds
+2025-02-21 11:28:10: Successfully saved frame 284
+2025-02-21 11:28:10: Frame processing time: 0.23 seconds
+2025-02-21 11:28:10: Successfully saved frame 285
+2025-02-21 11:28:10: Frame processing time: 0.24 seconds
+2025-02-21 11:28:10: Successfully saved frame 286
+2025-02-21 11:28:10: Frame processing time: 0.22 seconds
+2025-02-21 11:28:10: Successfully saved frame 287
+2025-02-21 11:28:11: Frame processing time: 0.21 seconds
+2025-02-21 11:28:11: Successfully saved frame 288
+2025-02-21 11:28:11: Frame processing time: 0.24 seconds
+2025-02-21 11:28:11: Successfully saved frame 289
+2025-02-21 11:28:11: Frame processing time: 0.24 seconds
+2025-02-21 11:28:11: Successfully saved frame 290
+2025-02-21 11:28:11: Frame processing time: 0.25 seconds
+2025-02-21 11:28:12: Successfully saved frame 291
+2025-02-21 11:28:12: Frame processing time: 0.24 seconds
+2025-02-21 11:28:12: Successfully saved frame 292
+2025-02-21 11:28:12: Frame processing time: 0.28 seconds
+2025-02-21 11:28:12: Successfully saved frame 293
+2025-02-21 11:28:12: Frame processing time: 0.30 seconds
+2025-02-21 11:28:12: Successfully saved frame 294
+2025-02-21 11:28:13: Frame processing time: 0.26 seconds
+2025-02-21 11:28:13: Successfully saved frame 295
+2025-02-21 11:28:13: Frame processing time: 0.23 seconds
+2025-02-21 11:28:13: Successfully saved frame 296
+2025-02-21 11:28:13: Frame processing time: 0.28 seconds
+2025-02-21 11:28:13: Successfully saved frame 297
+2025-02-21 11:28:14: Frame processing time: 0.26 seconds
+2025-02-21 11:28:14: Successfully saved frame 298
+2025-02-21 11:28:14: Frame processing time: 0.25 seconds
+2025-02-21 11:28:14: Successfully saved frame 299
+2025-02-21 11:28:14: Frame processing time: 0.25 seconds
+2025-02-21 11:28:14: Successfully saved frame 300
+2025-02-21 11:28:15: Frame processing time: 0.27 seconds
+2025-02-21 11:28:15: Successfully saved frame 301
+2025-02-21 11:28:15: Frame processing time: 0.24 seconds
+2025-02-21 11:28:15: Successfully saved frame 302
+2025-02-21 11:28:15: Frame processing time: 0.23 seconds
+2025-02-21 11:28:15: Successfully saved frame 303
+2025-02-21 11:28:15: Frame processing time: 0.29 seconds
+2025-02-21 11:28:16: Successfully saved frame 304
+2025-02-21 11:28:16: Frame processing time: 0.40 seconds
+2025-02-21 11:28:16: Successfully saved frame 305
+2025-02-21 11:28:16: Frame processing time: 0.26 seconds
+2025-02-21 11:28:16: Successfully saved frame 306
+2025-02-21 11:28:17: Frame processing time: 0.26 seconds
+2025-02-21 11:28:17: Successfully saved frame 307
+2025-02-21 11:28:17: Frame processing time: 0.26 seconds
+2025-02-21 11:28:17: Successfully saved frame 308
+2025-02-21 11:28:17: Frame processing time: 0.24 seconds
+2025-02-21 11:28:17: Successfully saved frame 309
+2025-02-21 11:28:17: Frame processing time: 0.23 seconds
+2025-02-21 11:28:17: Successfully saved frame 310
+2025-02-21 11:28:18: Frame processing time: 0.23 seconds
+2025-02-21 11:28:18: Successfully saved frame 311
+2025-02-21 11:28:18: Frame processing time: 0.20 seconds
+2025-02-21 11:28:18: Successfully saved frame 312
+2025-02-21 11:28:18: Frame processing time: 0.24 seconds
+2025-02-21 11:28:18: Successfully saved frame 313
+2025-02-21 11:28:18: Frame processing time: 0.25 seconds
+2025-02-21 11:28:19: Successfully saved frame 314
+2025-02-21 11:28:19: Frame processing time: 0.23 seconds
+2025-02-21 11:28:19: Successfully saved frame 315
+2025-02-21 11:28:19: Frame processing time: 0.21 seconds
+2025-02-21 11:28:19: Successfully saved frame 316
+2025-02-21 11:28:19: Frame processing time: 0.22 seconds
+2025-02-21 11:28:19: Successfully saved frame 317
+2025-02-21 11:28:20: Frame processing time: 0.21 seconds
+2025-02-21 11:28:20: Successfully saved frame 318
+2025-02-21 11:28:20: Frame processing time: 0.21 seconds
+2025-02-21 11:28:20: Successfully saved frame 319
+2025-02-21 11:28:20: Frame processing time: 0.26 seconds
+2025-02-21 11:28:20: Successfully saved frame 320
+2025-02-21 11:28:20: Frame processing time: 0.25 seconds
+2025-02-21 11:28:20: Successfully saved frame 321
+2025-02-21 11:28:21: Frame processing time: 0.20 seconds
+2025-02-21 11:28:21: Successfully saved frame 322
+2025-02-21 11:28:21: Frame processing time: 0.20 seconds
+2025-02-21 11:28:21: Successfully saved frame 323
+2025-02-21 11:28:21: Frame processing time: 0.22 seconds
+2025-02-21 11:28:21: Successfully saved frame 324
+2025-02-21 11:28:21: Frame processing time: 0.25 seconds
+2025-02-21 11:28:21: Successfully saved frame 325
+2025-02-21 11:28:22: Frame processing time: 0.23 seconds
+2025-02-21 11:28:22: Successfully saved frame 326
+2025-02-21 11:28:22: Frame processing time: 0.23 seconds
+2025-02-21 11:28:22: Successfully saved frame 327
+2025-02-21 11:28:22: Frame processing time: 0.22 seconds
+2025-02-21 11:28:22: Successfully saved frame 328
+2025-02-21 11:28:23: Frame processing time: 0.25 seconds
+2025-02-21 11:28:23: Successfully saved frame 329
+2025-02-21 11:28:23: Frame processing time: 0.28 seconds
+2025-02-21 11:28:23: Successfully saved frame 330
+2025-02-21 11:28:23: Frame processing time: 0.24 seconds
+2025-02-21 11:28:23: Successfully saved frame 331
+2025-02-21 11:28:23: Frame processing time: 0.29 seconds
+2025-02-21 11:28:24: Successfully saved frame 332
+2025-02-21 11:28:24: Frame processing time: 0.23 seconds
+2025-02-21 11:28:24: Successfully saved frame 333
+2025-02-21 11:28:24: Frame processing time: 0.23 seconds
+2025-02-21 11:28:24: Successfully saved frame 334
+2025-02-21 11:28:24: Frame processing time: 0.26 seconds
+2025-02-21 11:28:24: Successfully saved frame 335
+2025-02-21 11:28:25: Frame processing time: 0.25 seconds
+2025-02-21 11:28:25: Successfully saved frame 336
+2025-02-21 11:28:25: Frame processing time: 0.23 seconds
+2025-02-21 11:28:25: Successfully saved frame 337
+2025-02-21 11:28:25: Frame processing time: 0.21 seconds
+2025-02-21 11:28:25: Successfully saved frame 338
+2025-02-21 11:28:25: Frame processing time: 0.29 seconds
+2025-02-21 11:28:26: Successfully saved frame 339
+2025-02-21 11:28:26: Frame processing time: 0.24 seconds
+2025-02-21 11:28:26: Successfully saved frame 340
+2025-02-21 11:28:26: Frame processing time: 0.22 seconds
+2025-02-21 11:28:26: Successfully saved frame 341
+2025-02-21 11:28:26: Frame processing time: 0.22 seconds
+2025-02-21 11:28:26: Successfully saved frame 342
+2025-02-21 11:28:27: Frame processing time: 0.20 seconds
+2025-02-21 11:28:27: Successfully saved frame 343
+2025-02-21 11:28:27: Frame processing time: 0.25 seconds
+2025-02-21 11:28:27: Successfully saved frame 344
+2025-02-21 11:28:27: Frame processing time: 0.35 seconds
+2025-02-21 11:28:27: Successfully saved frame 345
+2025-02-21 11:28:28: Frame processing time: 0.24 seconds
+2025-02-21 11:28:28: Successfully saved frame 346
+2025-02-21 11:28:28: Frame processing time: 0.23 seconds
+2025-02-21 11:28:28: Successfully saved frame 347
+2025-02-21 11:28:28: Frame processing time: 0.21 seconds
+2025-02-21 11:28:28: Successfully saved frame 348
+2025-02-21 11:28:29: Frame processing time: 0.23 seconds
+2025-02-21 11:28:29: Successfully saved frame 349
+2025-02-21 11:28:29: Frame processing time: 0.23 seconds
+2025-02-21 11:28:29: Successfully saved frame 350
+2025-02-21 11:28:29: Frame processing time: 0.22 seconds
+2025-02-21 11:28:29: Successfully saved frame 351
+2025-02-21 11:28:29: Frame processing time: 0.26 seconds
+2025-02-21 11:28:29: Successfully saved frame 352
+2025-02-21 11:28:30: Frame processing time: 0.24 seconds
+2025-02-21 11:28:30: Successfully saved frame 353
+2025-02-21 11:28:30: Frame processing time: 0.25 seconds
+2025-02-21 11:28:30: Successfully saved frame 354
+2025-02-21 11:28:30: Frame processing time: 0.23 seconds
+2025-02-21 11:28:30: Successfully saved frame 355
+2025-02-21 11:28:31: Frame processing time: 0.24 seconds
+2025-02-21 11:28:31: Successfully saved frame 356
+2025-02-21 11:28:31: Frame processing time: 0.21 seconds
+2025-02-21 11:28:31: Successfully saved frame 357
+2025-02-21 11:28:31: Frame processing time: 0.30 seconds
+2025-02-21 11:28:31: Successfully saved frame 358
+2025-02-21 11:28:31: Frame processing time: 0.22 seconds
+2025-02-21 11:28:31: Successfully saved frame 359
+2025-02-21 11:28:32: Frame processing time: 0.22 seconds
+2025-02-21 11:28:32: Successfully saved frame 360
+2025-02-21 11:28:32: Frame processing time: 0.20 seconds
+2025-02-21 11:28:32: Successfully saved frame 361
+2025-02-21 11:28:32: Frame processing time: 0.19 seconds
+2025-02-21 11:28:32: Successfully saved frame 362
+2025-02-21 11:28:32: Frame processing time: 0.16 seconds
+2025-02-21 11:28:32: Successfully saved frame 363
+2025-02-21 11:28:33: Frame processing time: 0.22 seconds
+2025-02-21 11:28:33: Successfully saved frame 364
+2025-02-21 11:28:33: Frame processing time: 0.22 seconds
+2025-02-21 11:28:33: Successfully saved frame 365
+2025-02-21 11:28:33: Frame processing time: 0.19 seconds
+2025-02-21 11:28:33: Successfully saved frame 366
+2025-02-21 11:28:33: Frame processing time: 0.22 seconds
+2025-02-21 11:28:33: Successfully saved frame 367
+2025-02-21 11:28:34: Frame processing time: 0.26 seconds
+2025-02-21 11:28:34: Successfully saved frame 368
+2025-02-21 11:28:34: Frame processing time: 0.19 seconds
+2025-02-21 11:28:34: Successfully saved frame 369
+2025-02-21 11:28:34: Frame processing time: 0.24 seconds
+2025-02-21 11:28:34: Successfully saved frame 370
+2025-02-21 11:28:34: Frame processing time: 0.21 seconds
+2025-02-21 11:28:34: Successfully saved frame 371
+2025-02-21 11:28:35: Frame processing time: 0.17 seconds
+2025-02-21 11:28:35: Successfully saved frame 372
+2025-02-21 11:28:35: Frame processing time: 0.20 seconds
+2025-02-21 11:28:35: Successfully saved frame 373
+2025-02-21 11:28:35: Frame processing time: 0.23 seconds
+2025-02-21 11:28:35: Successfully saved frame 374
+2025-02-21 11:28:35: Frame processing time: 0.19 seconds
+2025-02-21 11:28:35: Successfully saved frame 375
+2025-02-21 11:28:36: Frame processing time: 0.21 seconds
+2025-02-21 11:28:36: Successfully saved frame 376
+2025-02-21 11:28:36: Frame processing time: 0.20 seconds
+2025-02-21 11:28:36: Successfully saved frame 377
+2025-02-21 11:28:36: Frame processing time: 0.23 seconds
+2025-02-21 11:28:36: Successfully saved frame 378
+2025-02-21 11:28:36: Frame processing time: 0.26 seconds
+2025-02-21 11:28:37: Successfully saved frame 379
+2025-02-21 11:28:37: Frame processing time: 0.23 seconds
+2025-02-21 11:28:37: Successfully saved frame 380
+2025-02-21 11:28:37: Frame processing time: 0.18 seconds
+2025-02-21 11:28:37: Successfully saved frame 381
+2025-02-21 11:28:37: Frame processing time: 0.24 seconds
+2025-02-21 11:28:37: Successfully saved frame 382
+2025-02-21 11:28:38: Frame processing time: 0.24 seconds
+2025-02-21 11:28:38: Successfully saved frame 383
+2025-02-21 11:28:38: Frame processing time: 0.21 seconds
+2025-02-21 11:28:38: Successfully saved frame 384
+2025-02-21 11:28:38: Frame processing time: 0.18 seconds
+2025-02-21 11:28:38: Successfully saved frame 385
+2025-02-21 11:28:38: Frame processing time: 0.18 seconds
+2025-02-21 11:28:38: Successfully saved frame 386
+2025-02-21 11:28:39: Frame processing time: 0.17 seconds
+2025-02-21 11:28:39: Successfully saved frame 387
+2025-02-21 11:28:39: Frame processing time: 0.18 seconds
+2025-02-21 11:28:39: Successfully saved frame 388
+2025-02-21 11:28:39: Frame processing time: 0.21 seconds
+2025-02-21 11:28:39: Successfully saved frame 389
+2025-02-21 11:28:39: Frame processing time: 0.23 seconds
+2025-02-21 11:28:39: Successfully saved frame 390
+2025-02-21 11:28:40: Frame processing time: 0.24 seconds
+2025-02-21 11:28:40: Successfully saved frame 391
+2025-02-21 11:28:40: Frame processing time: 0.29 seconds
+2025-02-21 11:28:40: Successfully saved frame 392
+2025-02-21 11:28:40: Frame processing time: 0.25 seconds
+2025-02-21 11:28:40: Successfully saved frame 393
+2025-02-21 11:28:40: Frame processing time: 0.24 seconds
+2025-02-21 11:28:40: Successfully saved frame 394
+2025-02-21 11:28:41: Frame processing time: 0.21 seconds
+2025-02-21 11:28:41: Successfully saved frame 395
+2025-02-21 11:28:41: Frame processing time: 0.19 seconds
+2025-02-21 11:28:41: Successfully saved frame 396
+2025-02-21 11:28:41: Frame processing time: 0.17 seconds
+2025-02-21 11:28:41: Successfully saved frame 397
+2025-02-21 11:28:42: Frame processing time: 0.32 seconds
+2025-02-21 11:28:42: Successfully saved frame 398
+2025-02-21 11:28:42: Frame processing time: 0.20 seconds
+2025-02-21 11:28:42: Successfully saved frame 399
+2025-02-21 11:28:42: Frame processing time: 0.19 seconds
+2025-02-21 11:28:42: Successfully saved frame 400
+2025-02-21 11:28:42: Frame processing time: 0.25 seconds
+2025-02-21 11:28:42: Successfully saved frame 401
+2025-02-21 11:28:43: Frame processing time: 0.24 seconds
+2025-02-21 11:28:43: Successfully saved frame 402
+2025-02-21 11:28:43: Frame processing time: 0.20 seconds
+2025-02-21 11:28:43: Successfully saved frame 403
+2025-02-21 11:28:43: Frame processing time: 0.15 seconds
+2025-02-21 11:28:43: Successfully saved frame 404
+2025-02-21 11:28:43: Frame processing time: 0.22 seconds
+2025-02-21 11:28:43: Successfully saved frame 405
+2025-02-21 11:28:44: Frame processing time: 0.23 seconds
+2025-02-21 11:28:44: Successfully saved frame 406
+2025-02-21 11:28:44: Frame processing time: 0.22 seconds
+2025-02-21 11:28:44: Successfully saved frame 407
+2025-02-21 11:28:44: Frame processing time: 0.19 seconds
+2025-02-21 11:28:44: Successfully saved frame 408
+2025-02-21 11:28:44: Frame processing time: 0.18 seconds
+2025-02-21 11:28:44: Successfully saved frame 409
+2025-02-21 11:28:45: Frame processing time: 0.22 seconds
+2025-02-21 11:28:45: Successfully saved frame 410
+2025-02-21 11:28:45: Frame processing time: 0.21 seconds
+2025-02-21 11:28:45: Successfully saved frame 411
+2025-02-21 11:28:45: Frame processing time: 0.20 seconds
+2025-02-21 11:28:45: Successfully saved frame 412
+2025-02-21 11:28:45: Frame processing time: 0.20 seconds
+2025-02-21 11:28:45: Successfully saved frame 413
+2025-02-21 11:28:46: Frame processing time: 0.23 seconds
+2025-02-21 11:28:46: Successfully saved frame 414
+2025-02-21 11:28:46: Frame processing time: 0.21 seconds
+2025-02-21 11:28:46: Successfully saved frame 415
+2025-02-21 11:28:46: Frame processing time: 0.21 seconds
+2025-02-21 11:28:46: Successfully saved frame 416
+2025-02-21 11:28:46: Frame processing time: 0.19 seconds
+2025-02-21 11:28:46: Successfully saved frame 417
+2025-02-21 11:28:47: Frame processing time: 0.21 seconds
+2025-02-21 11:28:47: Successfully saved frame 418
+2025-02-21 11:28:47: Frame processing time: 0.25 seconds
+2025-02-21 11:28:47: Successfully saved frame 419
+2025-02-21 11:28:47: Frame processing time: 0.20 seconds
+2025-02-21 11:28:47: Successfully saved frame 420
+2025-02-21 11:28:47: Frame processing time: 0.27 seconds
+2025-02-21 11:28:47: Successfully saved frame 421
+2025-02-21 11:28:48: Frame processing time: 0.22 seconds
+2025-02-21 11:28:48: Successfully saved frame 422
+2025-02-21 11:28:48: Frame processing time: 0.22 seconds
+2025-02-21 11:28:48: Successfully saved frame 423
+2025-02-21 11:28:48: Frame processing time: 0.23 seconds
+2025-02-21 11:28:48: Successfully saved frame 424
+2025-02-21 11:28:49: Frame processing time: 0.28 seconds
+2025-02-21 11:28:49: Successfully saved frame 425
+2025-02-21 11:28:49: Frame processing time: 0.21 seconds
+2025-02-21 11:28:49: Successfully saved frame 426
+2025-02-21 11:28:49: Frame processing time: 0.18 seconds
+2025-02-21 11:28:49: Successfully saved frame 427
+2025-02-21 11:28:49: Frame processing time: 0.18 seconds
+2025-02-21 11:28:49: Successfully saved frame 428
+2025-02-21 11:28:49: Frame processing time: 0.21 seconds
+2025-02-21 11:28:50: Successfully saved frame 429
+2025-02-21 11:28:50: Frame processing time: 0.22 seconds
+2025-02-21 11:28:50: Successfully saved frame 430
+2025-02-21 11:28:50: Frame processing time: 0.24 seconds
+2025-02-21 11:28:50: Successfully saved frame 431
+2025-02-21 11:28:50: Frame processing time: 0.20 seconds
+2025-02-21 11:28:50: Successfully saved frame 432
+2025-02-21 11:28:51: Frame processing time: 0.20 seconds
+2025-02-21 11:28:51: Successfully saved frame 433
+2025-02-21 11:28:51: Frame processing time: 0.22 seconds
+2025-02-21 11:28:51: Successfully saved frame 434
+2025-02-21 11:28:51: Frame processing time: 0.23 seconds
+2025-02-21 11:28:51: Successfully saved frame 435
+2025-02-21 11:28:51: Frame processing time: 0.22 seconds
+2025-02-21 11:28:51: Successfully saved frame 436
+2025-02-21 11:28:52: Frame processing time: 0.21 seconds
+2025-02-21 11:28:52: Successfully saved frame 437
+2025-02-21 11:28:52: Frame processing time: 0.19 seconds
+2025-02-21 11:28:52: Successfully saved frame 438
+2025-02-21 11:28:52: Frame processing time: 0.22 seconds
+2025-02-21 11:28:52: Successfully saved frame 439
+2025-02-21 11:28:52: Frame processing time: 0.19 seconds
+2025-02-21 11:28:52: Successfully saved frame 440
+2025-02-21 11:28:53: Frame processing time: 0.20 seconds
+2025-02-21 11:28:53: Successfully saved frame 441
+2025-02-21 11:28:53: Frame processing time: 0.21 seconds
+2025-02-21 11:28:53: Successfully saved frame 442
+2025-02-21 11:28:53: Frame processing time: 0.22 seconds
+2025-02-21 11:28:53: Successfully saved frame 443
+2025-02-21 11:28:53: Frame processing time: 0.20 seconds
+2025-02-21 11:28:53: Successfully saved frame 444
+2025-02-21 11:28:54: Frame processing time: 0.20 seconds
+2025-02-21 11:28:54: Successfully saved frame 445
+2025-02-21 11:28:54: Frame processing time: 0.21 seconds
+2025-02-21 11:28:54: Successfully saved frame 446
+2025-02-21 11:28:54: Frame processing time: 0.26 seconds
+2025-02-21 11:28:54: Successfully saved frame 447
+2025-02-21 11:28:54: Frame processing time: 0.23 seconds
+2025-02-21 11:28:54: Successfully saved frame 448
+2025-02-21 11:28:55: Frame processing time: 0.26 seconds
+2025-02-21 11:28:55: Successfully saved frame 449
+2025-02-21 11:28:55: Frame processing time: 0.27 seconds
+2025-02-21 11:28:55: Successfully saved frame 450
+2025-02-21 11:28:55: Frame processing time: 0.23 seconds
+2025-02-21 11:28:55: Successfully saved frame 451
+2025-02-21 11:28:56: Frame processing time: 0.22 seconds
+2025-02-21 11:28:56: Successfully saved frame 452
+2025-02-21 11:28:56: Frame processing time: 0.22 seconds
+2025-02-21 11:28:56: Successfully saved frame 453
+2025-02-21 11:28:56: Frame processing time: 0.23 seconds
+2025-02-21 11:28:56: Successfully saved frame 454
+2025-02-21 11:28:56: Frame processing time: 0.23 seconds
+2025-02-21 11:28:56: Successfully saved frame 455
+2025-02-21 11:28:57: Frame processing time: 0.20 seconds
+2025-02-21 11:28:57: Successfully saved frame 456
+2025-02-21 11:28:57: Frame processing time: 0.24 seconds
+2025-02-21 11:28:57: Successfully saved frame 457
+2025-02-21 11:28:57: Frame processing time: 0.22 seconds
+2025-02-21 11:28:57: Successfully saved frame 458
+2025-02-21 11:28:58: Frame processing time: 0.36 seconds
+2025-02-21 11:28:58: Successfully saved frame 459
+2025-02-21 11:28:58: Frame processing time: 0.22 seconds
+2025-02-21 11:28:58: Successfully saved frame 460
+2025-02-21 11:28:58: Frame processing time: 0.19 seconds
+2025-02-21 11:28:58: Successfully saved frame 461
+2025-02-21 11:28:58: Frame processing time: 0.25 seconds
+2025-02-21 11:28:58: Successfully saved frame 462
+2025-02-21 11:28:59: Frame processing time: 0.27 seconds
+2025-02-21 11:28:59: Successfully saved frame 463
+2025-02-21 11:28:59: Frame processing time: 0.22 seconds
+2025-02-21 11:28:59: Successfully saved frame 464
+2025-02-21 11:28:59: Frame processing time: 0.25 seconds
+2025-02-21 11:28:59: Successfully saved frame 465
+2025-02-21 11:28:59: Frame processing time: 0.24 seconds
+2025-02-21 11:29:00: Successfully saved frame 466
+2025-02-21 11:29:00: Frame processing time: 0.21 seconds
+2025-02-21 11:29:00: Successfully saved frame 467
+2025-02-21 11:29:00: Frame processing time: 0.28 seconds
+2025-02-21 11:29:00: Successfully saved frame 468
+2025-02-21 11:29:00: Frame processing time: 0.32 seconds
+2025-02-21 11:29:00: Successfully saved frame 469
+2025-02-21 11:29:01: Frame processing time: 0.20 seconds
+2025-02-21 11:29:01: Successfully saved frame 470
+2025-02-21 11:29:01: Frame processing time: 0.24 seconds
+2025-02-21 11:29:01: Successfully saved frame 471
+2025-02-21 11:29:01: Frame processing time: 0.24 seconds
+2025-02-21 11:29:01: Successfully saved frame 472
+2025-02-21 11:29:02: Frame processing time: 0.26 seconds
+2025-02-21 11:29:02: Successfully saved frame 473
+2025-02-21 11:29:02: Frame processing time: 0.20 seconds
+2025-02-21 11:29:02: Successfully saved frame 474
+2025-02-21 11:29:02: Frame processing time: 0.26 seconds
+2025-02-21 11:29:02: Successfully saved frame 475
+2025-02-21 11:29:02: Frame processing time: 0.23 seconds
+2025-02-21 11:29:02: Successfully saved frame 476
+2025-02-21 11:29:03: Frame processing time: 0.24 seconds
+2025-02-21 11:29:03: Successfully saved frame 477
+2025-02-21 11:29:03: Frame processing time: 0.23 seconds
+2025-02-21 11:29:03: Successfully saved frame 478
+2025-02-21 11:29:03: Frame processing time: 0.23 seconds
+2025-02-21 11:29:03: Successfully saved frame 479
+2025-02-21 11:29:03: Frame processing time: 0.22 seconds
+2025-02-21 11:29:03: Successfully saved frame 480
+2025-02-21 11:29:04: Frame processing time: 0.21 seconds
+2025-02-21 11:29:04: Successfully saved frame 481
+2025-02-21 11:29:04: Frame processing time: 0.27 seconds
+2025-02-21 11:29:04: Successfully saved frame 482
+2025-02-21 11:29:04: Frame processing time: 0.22 seconds
+2025-02-21 11:29:04: Successfully saved frame 483
+2025-02-21 11:29:05: Frame processing time: 0.26 seconds
+2025-02-21 11:29:05: Successfully saved frame 484
+2025-02-21 11:29:05: Frame processing time: 0.22 seconds
+2025-02-21 11:29:05: Successfully saved frame 485
+2025-02-21 11:29:05: Frame processing time: 0.22 seconds
+2025-02-21 11:29:05: Successfully saved frame 486
+2025-02-21 11:29:05: Frame processing time: 0.22 seconds
+2025-02-21 11:29:05: Successfully saved frame 487
+2025-02-21 11:29:06: Frame processing time: 0.27 seconds
+2025-02-21 11:29:06: Successfully saved frame 488
+2025-02-21 11:29:06: Frame processing time: 0.23 seconds
+2025-02-21 11:29:06: Successfully saved frame 489
+2025-02-21 11:29:06: Frame processing time: 0.22 seconds
+2025-02-21 11:29:06: Successfully saved frame 490
+2025-02-21 11:29:06: Frame processing time: 0.23 seconds
+2025-02-21 11:29:07: Successfully saved frame 491
+2025-02-21 11:29:07: Frame processing time: 0.25 seconds
+2025-02-21 11:29:07: Successfully saved frame 492
+2025-02-21 11:29:07: Frame processing time: 0.22 seconds
+2025-02-21 11:29:07: Successfully saved frame 493
+2025-02-21 11:29:07: Frame processing time: 0.20 seconds
+2025-02-21 11:29:07: Successfully saved frame 494
+2025-02-21 11:29:08: Frame processing time: 0.21 seconds
+2025-02-21 11:29:08: Successfully saved frame 495
+2025-02-21 11:29:08: Frame processing time: 0.24 seconds
+2025-02-21 11:29:08: Successfully saved frame 496
+2025-02-21 11:29:08: Frame processing time: 0.30 seconds
+2025-02-21 11:29:08: Successfully saved frame 497
+2025-02-21 11:29:08: Frame processing time: 0.25 seconds
+2025-02-21 11:29:08: Successfully saved frame 498
+2025-02-21 11:29:09: Frame processing time: 0.23 seconds
+2025-02-21 11:29:09: Successfully saved frame 499
+2025-02-21 11:29:09: Frame processing time: 0.24 seconds
+2025-02-21 11:29:09: Successfully saved frame 500
+2025-02-21 11:29:09: Frame processing time: 0.23 seconds
+2025-02-21 11:29:09: Successfully saved frame 501
+2025-02-21 11:29:10: Frame processing time: 0.24 seconds
+2025-02-21 11:29:10: Successfully saved frame 502
+2025-02-21 11:29:10: Frame processing time: 0.23 seconds
+2025-02-21 11:29:10: Successfully saved frame 503
+2025-02-21 11:29:10: Frame processing time: 0.26 seconds
+2025-02-21 11:29:10: Successfully saved frame 504
+2025-02-21 11:29:10: Frame processing time: 0.21 seconds
+2025-02-21 11:29:10: Successfully saved frame 505
+2025-02-21 11:29:11: Frame processing time: 0.22 seconds
+2025-02-21 11:29:11: Successfully saved frame 506
+2025-02-21 11:29:11: Frame processing time: 0.25 seconds
+2025-02-21 11:29:11: Successfully saved frame 507
+2025-02-21 11:29:11: Frame processing time: 0.22 seconds
+2025-02-21 11:29:11: Successfully saved frame 508
+2025-02-21 11:29:11: Frame processing time: 0.22 seconds
+2025-02-21 11:29:11: Successfully saved frame 509
+2025-02-21 11:29:12: Frame processing time: 0.24 seconds
+2025-02-21 11:29:12: Successfully saved frame 510
+2025-02-21 11:29:12: Frame processing time: 0.22 seconds
+2025-02-21 11:29:12: Successfully saved frame 511
+2025-02-21 11:29:12: Frame processing time: 0.21 seconds
+2025-02-21 11:29:12: Successfully saved frame 512
+2025-02-21 11:29:13: Frame processing time: 0.28 seconds
+2025-02-21 11:29:13: Successfully saved frame 513
+2025-02-21 11:29:13: Frame processing time: 0.30 seconds
+2025-02-21 11:29:13: Successfully saved frame 514
+2025-02-21 11:29:13: Frame processing time: 0.21 seconds
+2025-02-21 11:29:13: Successfully saved frame 515
+2025-02-21 11:29:13: Frame processing time: 0.20 seconds
+2025-02-21 11:29:13: Successfully saved frame 516
+2025-02-21 11:29:14: Frame processing time: 0.28 seconds
+2025-02-21 11:29:14: Successfully saved frame 517
+2025-02-21 11:29:14: Frame processing time: 0.27 seconds
+2025-02-21 11:29:14: Successfully saved frame 518
+2025-02-21 11:29:14: Frame processing time: 0.23 seconds
+2025-02-21 11:29:14: Successfully saved frame 519
+2025-02-21 11:29:15: Frame processing time: 0.22 seconds
+2025-02-21 11:29:15: Successfully saved frame 520
+2025-02-21 11:29:15: Frame processing time: 0.24 seconds
+2025-02-21 11:29:15: Successfully saved frame 521
+2025-02-21 11:29:15: Frame processing time: 0.23 seconds
+2025-02-21 11:29:15: Successfully saved frame 522
+2025-02-21 11:29:15: Frame processing time: 0.21 seconds
+2025-02-21 11:29:15: Successfully saved frame 523
+2025-02-21 11:29:16: Frame processing time: 0.24 seconds
+2025-02-21 11:29:16: Successfully saved frame 524
+2025-02-21 11:29:16: Frame processing time: 0.25 seconds
+2025-02-21 11:29:16: Successfully saved frame 525
+2025-02-21 11:29:16: Frame processing time: 0.24 seconds
+2025-02-21 11:29:16: Successfully saved frame 526
+2025-02-21 11:29:16: Frame processing time: 0.26 seconds
+2025-02-21 11:29:17: Successfully saved frame 527
+2025-02-21 11:29:17: Frame processing time: 0.23 seconds
+2025-02-21 11:29:17: Successfully saved frame 528
+2025-02-21 11:29:17: Frame processing time: 0.21 seconds
+2025-02-21 11:29:17: Successfully saved frame 529
+2025-02-21 11:29:17: Frame processing time: 0.25 seconds
+2025-02-21 11:29:17: Successfully saved frame 530
+2025-02-21 11:29:18: Frame processing time: 0.22 seconds
+2025-02-21 11:29:18: Successfully saved frame 531
+2025-02-21 11:29:18: Frame processing time: 0.24 seconds
+2025-02-21 11:29:18: Successfully saved frame 532
+2025-02-21 11:29:18: Frame processing time: 0.21 seconds
+2025-02-21 11:29:18: Successfully saved frame 533
+2025-02-21 11:29:18: Frame processing time: 0.25 seconds
+2025-02-21 11:29:18: Successfully saved frame 534
+2025-02-21 11:29:19: Frame processing time: 0.25 seconds
+2025-02-21 11:29:19: Successfully saved frame 535
+2025-02-21 11:29:19: Frame processing time: 0.23 seconds
+2025-02-21 11:29:19: Successfully saved frame 536
+2025-02-21 11:29:19: Frame processing time: 0.23 seconds
+2025-02-21 11:29:19: Successfully saved frame 537
+2025-02-21 11:29:19: Frame processing time: 0.22 seconds
+2025-02-21 11:29:20: Successfully saved frame 538
+2025-02-21 11:29:20: Frame processing time: 0.25 seconds
+2025-02-21 11:29:20: Successfully saved frame 539
+2025-02-21 11:29:20: Frame processing time: 0.20 seconds
+2025-02-21 11:29:20: Successfully saved frame 540
+2025-02-21 11:29:20: Frame processing time: 0.25 seconds
+2025-02-21 11:29:20: Successfully saved frame 541
+2025-02-21 11:29:21: Frame processing time: 1.10 seconds
+2025-02-21 11:29:21: Successfully saved frame 542
+2025-02-21 11:29:22: Frame processing time: 0.55 seconds
+2025-02-21 11:29:22: Successfully saved frame 543
+2025-02-21 11:29:22: Frame processing time: 0.23 seconds
+2025-02-21 11:29:23: Successfully saved frame 544
+2025-02-21 11:29:23: Frame processing time: 0.34 seconds
+2025-02-21 11:29:23: Successfully saved frame 545
+2025-02-21 11:29:25: Frame processing time: 1.69 seconds
+2025-02-21 11:29:25: Successfully saved frame 546
+2025-02-21 11:29:25: Frame processing time: 0.39 seconds
+2025-02-21 11:29:25: Successfully saved frame 547
+2025-02-21 11:29:26: Frame processing time: 0.43 seconds
+2025-02-21 11:29:26: Successfully saved frame 548
+2025-02-21 11:29:26: Frame processing time: 0.69 seconds
+2025-02-21 11:29:26: Successfully saved frame 549
+2025-02-21 11:29:27: Frame processing time: 0.60 seconds
+2025-02-21 11:29:27: Successfully saved frame 550
+2025-02-21 11:29:28: Frame processing time: 0.51 seconds
+2025-02-21 11:29:28: Successfully saved frame 551
+2025-02-21 11:29:28: Frame processing time: 0.32 seconds
+2025-02-21 11:29:28: Successfully saved frame 552
+2025-02-21 11:29:28: Frame processing time: 0.25 seconds
+2025-02-21 11:29:28: Successfully saved frame 553
+2025-02-21 11:29:29: Frame processing time: 0.20 seconds
+2025-02-21 11:29:29: Successfully saved frame 554
+2025-02-21 11:29:29: Frame processing time: 0.33 seconds
+2025-02-21 11:29:29: Successfully saved frame 555
+2025-02-21 11:29:29: Frame processing time: 0.28 seconds
+2025-02-21 11:29:29: Successfully saved frame 556
+2025-02-21 11:29:30: Frame processing time: 0.31 seconds
+2025-02-21 11:29:30: Successfully saved frame 557
+2025-02-21 11:29:30: Frame processing time: 0.40 seconds
+2025-02-21 11:29:30: Successfully saved frame 558
+2025-02-21 11:29:30: Frame processing time: 0.30 seconds
+2025-02-21 11:29:30: Successfully saved frame 559
+2025-02-21 11:29:31: Frame processing time: 0.35 seconds
+2025-02-21 11:29:31: Successfully saved frame 560
+2025-02-21 11:29:31: Frame processing time: 0.35 seconds
+2025-02-21 11:29:31: Successfully saved frame 561
+2025-02-21 11:29:32: Frame processing time: 0.31 seconds
+2025-02-21 11:29:32: Successfully saved frame 562
+2025-02-21 11:29:32: Frame processing time: 0.53 seconds
+2025-02-21 11:29:32: Successfully saved frame 563
+2025-02-21 11:29:32: Frame processing time: 0.29 seconds
+2025-02-21 11:29:33: Successfully saved frame 564
+2025-02-21 11:29:33: Frame processing time: 0.27 seconds
+2025-02-21 11:29:33: Successfully saved frame 565
+2025-02-21 11:29:33: Frame processing time: 0.20 seconds
+2025-02-21 11:29:33: Successfully saved frame 566
+2025-02-21 11:29:33: Frame processing time: 0.23 seconds
+2025-02-21 11:29:33: Successfully saved frame 567
+2025-02-21 11:29:34: Frame processing time: 0.38 seconds
+2025-02-21 11:29:34: Successfully saved frame 568
+2025-02-21 11:29:34: Frame processing time: 0.26 seconds
+2025-02-21 11:29:34: Successfully saved frame 569
+2025-02-21 11:29:34: Frame processing time: 0.34 seconds
+2025-02-21 11:29:34: Successfully saved frame 570
+2025-02-21 11:29:35: Frame processing time: 0.26 seconds
+2025-02-21 11:29:35: Successfully saved frame 571
+2025-02-21 11:29:35: Frame processing time: 0.25 seconds
+2025-02-21 11:29:35: Successfully saved frame 572
+2025-02-21 11:29:35: Frame processing time: 0.22 seconds
+2025-02-21 11:29:35: Successfully saved frame 573
+2025-02-21 11:29:36: Frame processing time: 0.24 seconds
+2025-02-21 11:29:36: Successfully saved frame 574
+2025-02-21 11:29:36: Frame processing time: 0.25 seconds
+2025-02-21 11:29:36: Successfully saved frame 575
+2025-02-21 11:29:36: Frame processing time: 0.23 seconds
+2025-02-21 11:29:36: Successfully saved frame 576
+2025-02-21 11:29:36: Frame processing time: 0.24 seconds
+2025-02-21 11:29:36: Successfully saved frame 577
+2025-02-21 11:29:37: Frame processing time: 0.26 seconds
+2025-02-21 11:29:37: Successfully saved frame 578
+2025-02-21 11:29:37: Frame processing time: 0.22 seconds
+2025-02-21 11:29:37: Successfully saved frame 579
+2025-02-21 11:29:37: Frame processing time: 0.20 seconds
+2025-02-21 11:29:37: Successfully saved frame 580
+2025-02-21 11:29:37: Frame processing time: 0.24 seconds
+2025-02-21 11:29:38: Successfully saved frame 581
+2025-02-21 11:29:38: Frame processing time: 0.28 seconds
+2025-02-21 11:29:38: Successfully saved frame 582
+2025-02-21 11:29:38: Frame processing time: 0.27 seconds
+2025-02-21 11:29:38: Successfully saved frame 583
+2025-02-21 11:29:38: Frame processing time: 0.28 seconds
+2025-02-21 11:29:38: Successfully saved frame 584
+2025-02-21 11:29:39: Frame processing time: 0.25 seconds
+2025-02-21 11:29:39: Successfully saved frame 585
+2025-02-21 11:29:39: Frame processing time: 0.25 seconds
+2025-02-21 11:29:39: Successfully saved frame 586
+2025-02-21 11:29:39: Frame processing time: 0.23 seconds
+2025-02-21 11:29:39: Successfully saved frame 587
+2025-02-21 11:29:40: Frame processing time: 0.21 seconds
+2025-02-21 11:29:40: Successfully saved frame 588
+2025-02-21 11:29:40: Frame processing time: 0.26 seconds
+2025-02-21 11:29:40: Successfully saved frame 589
+2025-02-21 11:29:40: Frame processing time: 0.23 seconds
+2025-02-21 11:29:40: Successfully saved frame 590
+2025-02-21 11:29:40: Frame processing time: 0.23 seconds
+2025-02-21 11:29:40: Successfully saved frame 591
+2025-02-21 11:29:41: Frame processing time: 0.24 seconds
+2025-02-21 11:29:41: Successfully saved frame 592
+2025-02-21 11:29:41: Frame processing time: 0.20 seconds
+2025-02-21 11:29:41: Successfully saved frame 593
+2025-02-21 11:29:41: Frame processing time: 0.28 seconds
+2025-02-21 11:29:41: Successfully saved frame 594
+2025-02-21 11:29:42: Frame processing time: 0.29 seconds
+2025-02-21 11:29:42: Successfully saved frame 595
+2025-02-21 11:29:42: Frame processing time: 0.21 seconds
+2025-02-21 11:29:42: Successfully saved frame 596
+2025-02-21 11:29:42: Frame processing time: 0.22 seconds
+2025-02-21 11:29:42: Successfully saved frame 597
+2025-02-21 11:29:42: Frame processing time: 0.25 seconds
+2025-02-21 11:29:42: Successfully saved frame 598
+2025-02-21 11:29:43: Frame processing time: 0.27 seconds
+2025-02-21 11:29:43: Successfully saved frame 599
+2025-02-21 11:29:43: Frame processing time: 0.23 seconds
+2025-02-21 11:29:43: Successfully saved frame 600
+2025-02-21 11:29:43: Frame processing time: 0.20 seconds
+2025-02-21 11:29:43: Successfully saved frame 601
+2025-02-21 11:29:43: Frame processing time: 0.24 seconds
+2025-02-21 11:29:44: Successfully saved frame 602
+2025-02-21 11:29:44: Frame processing time: 0.24 seconds
+2025-02-21 11:29:44: Successfully saved frame 603
+2025-02-21 11:29:44: Frame processing time: 0.26 seconds
+2025-02-21 11:29:44: Successfully saved frame 604
+2025-02-21 11:29:44: Frame processing time: 0.25 seconds
+2025-02-21 11:29:44: Successfully saved frame 605
+2025-02-21 11:29:45: Frame processing time: 0.25 seconds
+2025-02-21 11:29:45: Successfully saved frame 606
+2025-02-21 11:29:45: Frame processing time: 0.25 seconds
+2025-02-21 11:29:45: Successfully saved frame 607
+2025-02-21 11:29:45: Frame processing time: 0.25 seconds
+2025-02-21 11:29:45: Successfully saved frame 608
+2025-02-21 11:29:46: Frame processing time: 0.25 seconds
+2025-02-21 11:29:46: Successfully saved frame 609
+2025-02-21 11:29:46: Frame processing time: 0.25 seconds
+2025-02-21 11:29:46: Successfully saved frame 610
+2025-02-21 11:29:46: Frame processing time: 0.23 seconds
+2025-02-21 11:29:46: Successfully saved frame 611
+2025-02-21 11:29:46: Frame processing time: 0.23 seconds
+2025-02-21 11:29:46: Successfully saved frame 612
+2025-02-21 11:29:47: Frame processing time: 0.23 seconds
+2025-02-21 11:29:47: Successfully saved frame 613
+2025-02-21 11:29:47: Frame processing time: 0.23 seconds
+2025-02-21 11:29:47: Successfully saved frame 614
+2025-02-21 11:29:47: Frame processing time: 0.25 seconds
+2025-02-21 11:29:47: Successfully saved frame 615
+2025-02-21 11:29:47: Frame processing time: 0.23 seconds
+2025-02-21 11:29:47: Successfully saved frame 616
+2025-02-21 11:29:48: Frame processing time: 0.24 seconds
+2025-02-21 11:29:48: Successfully saved frame 617
+2025-02-21 11:29:48: Frame processing time: 0.23 seconds
+2025-02-21 11:29:48: Successfully saved frame 618
+2025-02-21 11:29:48: Frame processing time: 0.20 seconds
+2025-02-21 11:29:48: Successfully saved frame 619
+2025-02-21 11:29:49: Frame processing time: 0.22 seconds
+2025-02-21 11:29:49: Successfully saved frame 620
+2025-02-21 11:29:49: Frame processing time: 0.27 seconds
+2025-02-21 11:29:49: Successfully saved frame 621
+2025-02-21 11:29:49: Frame processing time: 0.22 seconds
+2025-02-21 11:29:49: Successfully saved frame 622
+2025-02-21 11:29:49: Frame processing time: 0.21 seconds
+2025-02-21 11:29:49: Successfully saved frame 623
+2025-02-21 11:29:50: Frame processing time: 0.21 seconds
+2025-02-21 11:29:50: Successfully saved frame 624
+2025-02-21 11:29:50: Frame processing time: 0.25 seconds
+2025-02-21 11:29:50: Successfully saved frame 625
+2025-02-21 11:29:50: Frame processing time: 0.27 seconds
+2025-02-21 11:29:50: Successfully saved frame 626
+2025-02-21 11:29:50: Frame processing time: 0.21 seconds
+2025-02-21 11:29:51: Successfully saved frame 627
+2025-02-21 11:29:51: Frame processing time: 0.23 seconds
+2025-02-21 11:29:51: Successfully saved frame 628
+2025-02-21 11:29:51: Frame processing time: 0.19 seconds
+2025-02-21 11:29:51: Successfully saved frame 629
+2025-02-21 11:29:51: Frame processing time: 0.28 seconds
+2025-02-21 11:29:51: Successfully saved frame 630
+2025-02-21 11:29:52: Frame processing time: 0.24 seconds
+2025-02-21 11:29:52: Successfully saved frame 631
+2025-02-21 11:29:52: Frame processing time: 0.30 seconds
+2025-02-21 11:29:52: Successfully saved frame 632
+2025-02-21 11:29:52: Frame processing time: 0.24 seconds
+2025-02-21 11:29:52: Successfully saved frame 633
+2025-02-21 11:29:52: Frame processing time: 0.23 seconds
+2025-02-21 11:29:53: Successfully saved frame 634
+2025-02-21 11:29:53: Frame processing time: 0.21 seconds
+2025-02-21 11:29:53: Successfully saved frame 635
+2025-02-21 11:29:53: Frame processing time: 0.27 seconds
+2025-02-21 11:29:53: Successfully saved frame 636
+2025-02-21 11:29:53: Frame processing time: 0.24 seconds
+2025-02-21 11:29:53: Successfully saved frame 637
+2025-02-21 11:29:54: Frame processing time: 0.24 seconds
+2025-02-21 11:29:54: Successfully saved frame 638
+2025-02-21 11:29:54: Frame processing time: 0.23 seconds
+2025-02-21 11:29:54: Successfully saved frame 639
+2025-02-21 11:29:54: Frame processing time: 0.22 seconds
+2025-02-21 11:29:54: Successfully saved frame 640
+2025-02-21 11:29:54: Frame processing time: 0.22 seconds
+2025-02-21 11:29:54: Successfully saved frame 641
+2025-02-21 11:29:55: Frame processing time: 0.23 seconds
+2025-02-21 11:29:55: Successfully saved frame 642
+2025-02-21 11:29:55: Frame processing time: 0.25 seconds
+2025-02-21 11:29:55: Successfully saved frame 643
+2025-02-21 11:29:55: Frame processing time: 0.22 seconds
+2025-02-21 11:29:55: Successfully saved frame 644
+2025-02-21 11:29:55: Frame processing time: 0.25 seconds
+2025-02-21 11:29:56: Successfully saved frame 645
+2025-02-21 11:29:56: Frame processing time: 0.27 seconds
+2025-02-21 11:29:56: Successfully saved frame 646
+2025-02-21 11:29:56: Frame processing time: 0.23 seconds
+2025-02-21 11:29:56: Successfully saved frame 647
+2025-02-21 11:29:56: Frame processing time: 0.27 seconds
+2025-02-21 11:29:56: Successfully saved frame 648
+2025-02-21 11:29:57: Frame processing time: 0.26 seconds
+2025-02-21 11:29:57: Successfully saved frame 649
+2025-02-21 11:29:57: Frame processing time: 0.22 seconds
+2025-02-21 11:29:57: Successfully saved frame 650
+2025-02-21 11:29:57: Frame processing time: 0.19 seconds
+2025-02-21 11:29:57: Successfully saved frame 651
+2025-02-21 11:29:57: Frame processing time: 0.17 seconds
+2025-02-21 11:29:57: Successfully saved frame 652
+2025-02-21 11:29:58: Frame processing time: 0.22 seconds
+2025-02-21 11:29:58: Successfully saved frame 653
+2025-02-21 11:29:58: Frame processing time: 0.21 seconds
+2025-02-21 11:29:58: Successfully saved frame 654
+2025-02-21 11:29:58: Frame processing time: 0.19 seconds
+2025-02-21 11:29:58: Successfully saved frame 655
+2025-02-21 11:29:58: Frame processing time: 0.18 seconds
+2025-02-21 11:29:58: Successfully saved frame 656
+2025-02-21 11:29:59: Frame processing time: 0.28 seconds
+2025-02-21 11:29:59: Successfully saved frame 657
+2025-02-21 11:29:59: Frame processing time: 0.24 seconds
+2025-02-21 11:29:59: Successfully saved frame 658
+2025-02-21 11:29:59: Frame processing time: 0.27 seconds
+2025-02-21 11:29:59: Successfully saved frame 659
+2025-02-21 11:30:00: Frame processing time: 0.18 seconds
+2025-02-21 11:30:00: Successfully saved frame 660
+2025-02-21 11:30:00: Frame processing time: 0.25 seconds
+2025-02-21 11:30:00: Successfully saved frame 661
+2025-02-21 11:30:00: Frame processing time: 0.20 seconds
+2025-02-21 11:30:00: Successfully saved frame 662
+2025-02-21 11:30:00: Frame processing time: 0.19 seconds
+2025-02-21 11:30:00: Successfully saved frame 663
+2025-02-21 11:30:01: Frame processing time: 0.19 seconds
+2025-02-21 11:30:01: Successfully saved frame 664
+2025-02-21 11:30:01: Frame processing time: 0.20 seconds
+2025-02-21 11:30:01: Successfully saved frame 665
+2025-02-21 11:30:01: Frame processing time: 0.23 seconds
+2025-02-21 11:30:01: Successfully saved frame 666
+2025-02-21 11:30:01: Frame processing time: 0.21 seconds
+2025-02-21 11:30:01: Successfully saved frame 667
+2025-02-21 11:30:02: Frame processing time: 0.24 seconds
+2025-02-21 11:30:02: Successfully saved frame 668
+2025-02-21 11:30:02: Frame processing time: 0.25 seconds
+2025-02-21 11:30:02: Successfully saved frame 669
+2025-02-21 11:30:02: Frame processing time: 0.27 seconds
+2025-02-21 11:30:02: Successfully saved frame 670
+2025-02-21 11:30:02: Frame processing time: 0.23 seconds
+2025-02-21 11:30:02: Successfully saved frame 671
+2025-02-21 11:30:03: Frame processing time: 0.25 seconds
+2025-02-21 11:30:03: Successfully saved frame 672
+2025-02-21 11:30:03: Frame processing time: 0.23 seconds
+2025-02-21 11:30:03: Successfully saved frame 673
+2025-02-21 11:30:03: Frame processing time: 0.26 seconds
+2025-02-21 11:30:03: Successfully saved frame 674
+2025-02-21 11:30:04: Frame processing time: 0.28 seconds
+2025-02-21 11:30:04: Successfully saved frame 675
+2025-02-21 11:30:04: Frame processing time: 0.21 seconds
+2025-02-21 11:30:04: Successfully saved frame 676
+2025-02-21 11:30:04: Frame processing time: 0.25 seconds
+2025-02-21 11:30:04: Successfully saved frame 677
+2025-02-21 11:30:04: Frame processing time: 0.24 seconds
+2025-02-21 11:30:04: Successfully saved frame 678
+2025-02-21 11:30:05: Frame processing time: 0.27 seconds
+2025-02-21 11:30:05: Successfully saved frame 679
+2025-02-21 11:30:05: Frame processing time: 0.24 seconds
+2025-02-21 11:30:05: Successfully saved frame 680
+2025-02-21 11:30:05: Frame processing time: 0.23 seconds
+2025-02-21 11:30:05: Successfully saved frame 681
+2025-02-21 11:30:06: Frame processing time: 0.24 seconds
+2025-02-21 11:30:06: Successfully saved frame 682
+2025-02-21 11:30:06: Frame processing time: 0.28 seconds
+2025-02-21 11:30:06: Successfully saved frame 683
+2025-02-21 11:30:06: Frame processing time: 0.26 seconds
+2025-02-21 11:30:06: Successfully saved frame 684
+2025-02-21 11:30:07: Frame processing time: 0.25 seconds
+2025-02-21 11:30:07: Successfully saved frame 685
+2025-02-21 11:30:07: Frame processing time: 0.24 seconds
+2025-02-21 11:30:07: Successfully saved frame 686
+2025-02-21 11:30:07: Frame processing time: 0.22 seconds
+2025-02-21 11:30:07: Successfully saved frame 687
+2025-02-21 11:30:07: Frame processing time: 0.22 seconds
+2025-02-21 11:30:07: Successfully saved frame 688
+2025-02-21 11:30:08: Frame processing time: 0.24 seconds
+2025-02-21 11:30:08: Successfully saved frame 689
+2025-02-21 11:30:08: Frame processing time: 0.21 seconds
+2025-02-21 11:30:08: Successfully saved frame 690
+2025-02-21 11:30:08: Frame processing time: 0.30 seconds
+2025-02-21 11:30:08: Successfully saved frame 691
+2025-02-21 11:30:08: Frame processing time: 0.25 seconds
+2025-02-21 11:30:08: Successfully saved frame 692
+2025-02-21 11:30:09: Frame processing time: 0.25 seconds
+2025-02-21 11:30:09: Successfully saved frame 693
+2025-02-21 11:30:09: Frame processing time: 0.23 seconds
+2025-02-21 11:30:09: Successfully saved frame 694
+2025-02-21 11:30:09: Frame processing time: 0.22 seconds
+2025-02-21 11:30:09: Successfully saved frame 695
+2025-02-21 11:30:10: Frame processing time: 0.22 seconds
+2025-02-21 11:30:10: Successfully saved frame 696
+2025-02-21 11:30:10: Frame processing time: 0.25 seconds
+2025-02-21 11:30:10: Successfully saved frame 697
+2025-02-21 11:30:10: Frame processing time: 0.22 seconds
+2025-02-21 11:30:10: Successfully saved frame 698
+2025-02-21 11:30:10: Frame processing time: 0.22 seconds
+2025-02-21 11:30:10: Successfully saved frame 699
+2025-02-21 11:30:11: Frame processing time: 0.24 seconds
+2025-02-21 11:30:11: Successfully saved frame 700
+2025-02-21 11:30:11: Frame processing time: 0.24 seconds
+2025-02-21 11:30:11: Successfully saved frame 701
+2025-02-21 11:30:11: Frame processing time: 0.23 seconds
+2025-02-21 11:30:11: Successfully saved frame 702
+2025-02-21 11:30:11: Frame processing time: 0.27 seconds
+2025-02-21 11:30:11: Successfully saved frame 703
+2025-02-21 11:30:12: Frame processing time: 0.27 seconds
+2025-02-21 11:30:12: Successfully saved frame 704
+2025-02-21 11:30:12: Frame processing time: 0.31 seconds
+2025-02-21 11:30:12: Successfully saved frame 705
+2025-02-21 11:30:12: Frame processing time: 0.18 seconds
+2025-02-21 11:30:12: Successfully saved frame 706
+2025-02-21 11:30:13: Frame processing time: 0.30 seconds
+2025-02-21 11:30:13: Successfully saved frame 707
+2025-02-21 11:30:13: Frame processing time: 0.27 seconds
+2025-02-21 11:30:13: Successfully saved frame 708
+2025-02-21 11:30:13: Frame processing time: 0.26 seconds
+2025-02-21 11:30:13: Successfully saved frame 709
+2025-02-21 11:30:14: Frame processing time: 0.52 seconds
+2025-02-21 11:30:14: Successfully saved frame 710
+2025-02-21 11:30:14: Frame processing time: 0.32 seconds
+2025-02-21 11:30:14: Successfully saved frame 711
+2025-02-21 11:30:15: Frame processing time: 0.51 seconds
+2025-02-21 11:30:15: Successfully saved frame 712
+2025-02-21 11:30:15: Frame processing time: 0.46 seconds
+2025-02-21 11:30:15: Successfully saved frame 713
+2025-02-21 11:30:16: Frame processing time: 0.33 seconds
+2025-02-21 11:30:16: Successfully saved frame 714
+2025-02-21 11:30:16: Frame processing time: 0.37 seconds
+2025-02-21 11:30:16: Successfully saved frame 715
+2025-02-21 11:30:17: Frame processing time: 0.33 seconds
+2025-02-21 11:30:17: Successfully saved frame 716
+2025-02-21 11:30:17: Frame processing time: 0.69 seconds
+2025-02-21 11:30:17: Successfully saved frame 717
+2025-02-21 11:30:18: Frame processing time: 0.26 seconds
+2025-02-21 11:30:18: Successfully saved frame 718
+2025-02-21 11:30:18: Frame processing time: 0.28 seconds
+2025-02-21 11:30:18: Successfully saved frame 719
+2025-02-21 11:30:18: Frame processing time: 0.24 seconds
+2025-02-21 11:30:18: Successfully saved frame 720
+2025-02-21 11:30:18: Frame processing time: 0.22 seconds
+2025-02-21 11:30:18: Successfully saved frame 721
+2025-02-21 11:30:19: End of video reached
+2025-02-21 11:30:20: Frame processing time: 1.24 seconds
+2025-02-21 11:30:20: Successfully saved frame 722
+2025-02-21 11:30:22: Frame processing time: 2.52 seconds
+2025-02-21 11:30:22: Successfully saved frame 723
+2025-02-21 11:30:23: Created CVAT YOLO format configuration files
+2025-02-21 11:30:23: Frame processing time: 0.79 seconds
+2025-02-21 11:30:23: Successfully saved frame 724
+2025-02-21 11:30:24: Frame processing time: 1.01 seconds
+2025-02-21 11:30:24: Successfully saved frame 725
+2025-02-21 11:30:25: Video paused
+2025-02-21 11:30:25: Frame processing time: 0.23 seconds
+2025-02-21 11:30:25: Successfully saved frame 726
+2025-02-21 11:30:25: Frame processing time: 0.28 seconds
+2025-02-21 11:30:25: Successfully saved frame 727
+2025-02-21 11:30:26: Video resumed
+2025-02-21 11:30:31: Video paused
+2025-02-21 11:30:33: Created cvat_dataset.zip for CVAT upload
