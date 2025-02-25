@@ -24,7 +24,9 @@ def augment_dataset(base_path):
         label_file = os.path.join(train_labels_path, os.path.splitext(image_file)[0] + '.txt')
         
         if not os.path.exists(label_file):
-            print(f"No label file found for: {image_file}")
+            img_lr = cv2.flip(image, 1) # 1. Horizontal Flip (left-right)
+            img_td = cv2.flip(image, 0) # 2. Vertical Flip (top-down)
+            print(f"No label file found for, flipped image: {image_file}")
             continue
 
         # Read labels
