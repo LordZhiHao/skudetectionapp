@@ -1,0 +1,24 @@
+model:
+  path: "yolov8n.pt"
+  device: "auto" # 'auto', 'cuda', or 'cpu'
+  batch_size: 32
+
+undersampling:
+  similarity_threshold: 0.85
+  max_image_size: 1024
+  supported_formats:
+    - ".jpg"
+    - ".jpeg"
+    - ".png"
+    - ".bmp"
+    - ".PNG"
+
+visualization:
+  max_groups_to_visualize: 5
+  figure_size: [10, 10]
+  dpi: 300
+
+output:
+  generate_report: true
+  save_visualizations: true
+  log_level: "DEBUG" # 'DEBUG', 'INFO', 'WARNING', 'ERROR'
