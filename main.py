@@ -455,7 +455,7 @@ class YOLOVideoApp(QWidget):
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    model_path = "./finetune_yolo_data_augmentation_v3_50epochs/exp/weights/best.pt" # update model path here 
+    model_path = "./combine_data/100epochs/runs/train/exp/weights/best.pt" # update model path here 
     yolo_app = YOLOVideoApp(model_path)
     
     # Verify setup

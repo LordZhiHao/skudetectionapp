@@ -13,6 +13,8 @@ from .statistics import StatisticsGenerator
 from .utils import setup_logging, memory_stats
 import time
 import shutil
+import imagehash
+from skimage.metrics import structural_similarity
 
 class SimilarityBasedUndersampler:
     def __init__(self, config: Dict):
@@ -199,10 +201,10 @@ class SimilarityBasedUndersampler:
         self.logger.info(f"Initial memory usage: {mem_stats['rss_mb']:.2f} MB")
         
         # Setup directories
-        input_images = os.path.join(input_dir, 'images')
-        input_labels = os.path.join(input_dir, 'labels')
-        output_images = os.path.join(output_dir, 'images')
-        output_labels = os.path.join(output_dir, 'labels')
+        input_images = os.path.join(input_dir, 'images/train')
+        input_labels = os.path.join(input_dir, 'labels/train')
+        output_images = os.path.join(output_dir, 'images/train')
+        output_labels = os.path.join(output_dir, 'labels/train')
         
         os.makedirs(output_images, exist_ok=True)
         os.makedirs(output_labels, exist_ok=True)
